@@ -23,7 +23,7 @@ Typically this code can go in your **Custom Header** box in the **RapidWeaver Pa
 The snippets can be downloaded by navigating to the official repository on Github:
 [https://github.com/willwood/RapidWeaver-Bootstrap-Snippets](https://github.com/willwood/RapidWeaver-Bootstrap-Snippets)
 
-On that page, you should see a link or button with an option to download the complete repository. The repository consists of this *readme* file and all of the latest RapidWeaver Bootstrap code snippets.
+On that page, you should see a button at the top or in the sidebar with an option to download the complete repository. Typically this is marked as **Download ZIP** or similar. The repository consists of this *README.md* markdown file and all of the latest RapidWeaver Bootstrap code snippets.
 
 Alternatively, the code snippets are available using the download links provided on the [ThemeFlood](http://themeflood.com) website.
 
@@ -31,12 +31,12 @@ Once downloaded, you will typically have a folder containing a **readme.md** fil
 
 After installation, you will find that the snippets are all available for use in the **RapidWeaver Snippets** window. Click on one of the listed code snippets and drag it into your page (when RapidWeaver is in edit mode).
 
-All of the Bootstrap code snippets are prefixed *bootstrap-* so they should be sorted into a single group and won't disorganise other snippets you already have installed. Of course you have complete freedom to edit any of the snippets or delete ones you are not using.
+All of the Bootstrap code snippets are prefixed *bootstrap-* so they should be sorted into a single group and won't disorganise other snippets you already have installed. Of course you have complete freedom to edit any of the snippets or delete ones you are not using. You can also search for snippets or rename them.
 
 ##Support
 The official [Twitter Bootstrap](http://getbootstrap.com/) website has working examples of many of the snippets and long descriptions of what they do, plus lists of customisable variables which might be available to you.
 
-RapidWeaver Bootstrap snippets tend to include a title and brief comments relating to setup and usage in the top of the snippets. These comments will include any important information.
+RapidWeaver Bootstrap snippets tend to include a title and brief comments relating to setup and usage in the top of the snippets. These comments will include any important information you need to know about.
 
 The [ThemeFlood theme user guide](http://www.themeflood.com/support/userguide/) has a whole chapter dedicated to use of Bootstrap in ThemeFlood RapidWeaver themes. If you need help with using a ThemeFlood theme, then you can also get in contact via [the website](http://themeflood.com/).
 
