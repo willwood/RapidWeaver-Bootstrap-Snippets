@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet xmlns="http://www.realmacsoftware.com/2007/Snippet/">
+	<title>Bootstrap - Navigation tabs, pills &#38; lists</title>
+	<content type="html">&#60;h3&#62;Basic Tabs&#60;/h3&#62;
+&#60;p&#62;These are ideal to place at the top of a page. Just customise the address and link title. Each link sits inside a standard pair of HTML &#60;code&#62;&#38;lt;li&#62;&#60;/code&#62; and &#60;code&#62;&#38;lt;/li&#62;&#60;/code&#62; List Item tags. Optionally you can mark a navigation item as &#39;active&#39; by adding a &#60;code&#62;class=&#34;active&#34;&#60;/code&#62; attribute to it.&#60;/p&#62;
+
+&#60;ul class=&#34;nav nav-tabs&#34;&#62;
+&#60;li class=&#34;active&#34;&#62;&#60;a href=&#34;http://www.example.com/&#34;&#62;Home&#60;/a&#62;&#60;/li&#62;
+&#60;li&#62;&#60;a href=&#34;http://www.example.com/&#34;&#62;About Us&#60;/a&#62;&#60;/li&#62;
+&#60;li&#62;&#60;a href=&#34;http://www.example.com/&#34;&#62;Blog&#60;/a&#62;&#60;/li&#62;
+&#60;li&#62;&#60;a href=&#34;http://www.example.com/&#34;&#62;Events&#60;/a&#62;&#60;/li&#62;
+&#60;li&#62;&#60;a href=&#34;http://www.example.com/&#34;&#62;Reviews&#60;/a&#62;&#60;/li&#62;
+&#60;li&#62;&#60;a href=&#34;http://www.example.com/&#34;&#62;Contact Us&#60;/a&#62;&#60;/li&#62;
+&#60;/ul&#62;
+
+&#60;h3&#62;Basic Pills&#60;/h3&#62;
+&#60;p&#62;These are ideal to place at the top of a page. Just customise the address and link title. Each link sits inside a standard pair of HTML &#60;code&#62;&#38;lt;li&#62;&#60;/code&#62; and &#60;code&#62;&#38;lt;/li&#62;&#60;/code&#62; List Item tags. Optionally you can mark a navigation item as &#39;active&#39; by adding a &#60;code&#62;class=&#34;active&#34;&#60;/code&#62; attribute to it.&#60;/p&#62;
+
+&#60;ul class=&#34;nav nav-pills&#34;&#62;
+&#60;li class=&#34;active&#34;&#62;&#60;a href=&#34;http://www.example.com/&#34;&#62;Home&#60;/a&#62;&#60;/li&#62;
+&#60;li&#62;&#60;a href=&#34;http://www.example.com/&#34;&#62;About Us&#60;/a&#62;&#60;/li&#62;
+&#60;li&#62;&#60;a href=&#34;http://www.example.com/&#34;&#62;Blog&#60;/a&#62;&#60;/li&#62;
+&#60;li&#62;&#60;a href=&#34;http://www.example.com/&#34;&#62;Events&#60;/a&#62;&#60;/li&#62;
+&#60;li&#62;&#60;a href=&#34;http://www.example.com/&#34;&#62;Reviews&#60;/a&#62;&#60;/li&#62;
+&#60;li&#62;&#60;a href=&#34;http://www.example.com/&#34;&#62;Contact Us&#60;/a&#62;&#60;/li&#62;
+&#60;/ul&#62;
+
+&#60;h3&#62;Stacked Pills&#60;/h3&#62;
+&#60;p&#62;Stacked pills are perfect to place in a column, sidebar or ExtraContent area. Just customise the address and link title. Each link sits inside a standard pair of HTML &#60;code&#62;&#38;lt;li&#62;&#60;/code&#62; and &#60;code&#62;&#38;lt;/li&#62;&#60;/code&#62; List Item tags. Optionally you can mark a navigation item as &#39;active&#39; by adding a &#60;code&#62;class=&#34;active&#34;&#60;/code&#62; attribute to it.&#60;/p&#62;
+
+&#60;ul class=&#34;nav nav-pills nav-stacked&#34;&#62;
+&#60;li class=&#34;active&#34;&#62;&#60;a href=&#34;http://www.example.com/&#34;&#62;Home&#60;/a&#62;&#60;/li&#62;
+&#60;li&#62;&#60;a href=&#34;http://www.example.com/&#34;&#62;About Us&#60;/a&#62;&#60;/li&#62;
+&#60;li&#62;&#60;a href=&#34;http://www.example.com/&#34;&#62;Blog&#60;/a&#62;&#60;/li&#62;
+&#60;li&#62;&#60;a href=&#34;http://www.example.com/&#34;&#62;Events&#60;/a&#62;&#60;/li&#62;
+&#60;li&#62;&#60;a href=&#34;http://www.example.com/&#34;&#62;Reviews&#60;/a&#62;&#60;/li&#62;
+&#60;li&#62;&#60;a href=&#34;http://www.example.com/&#34;&#62;Contact Us&#60;/a&#62;&#60;/li&#62;
+&#60;/ul&#62;
+
+&#60;h3&#62;Navigation Lists&#60;/h3&#62;
+&#60;p&#62;Navigation lists are very useful for building a &#39;table of contents&#39; and equally work just as well in a column, sidebar or ExtraContent area. Just customise the address and link title. Each link sits inside a standard pair of HTML &#60;code&#62;&#38;lt;li&#62;&#60;/code&#62; and &#60;code&#62;&#38;lt;/li&#62;&#60;/code&#62; List Item tags. To create the section headings, insert &#60;code&#62;&#38;lt;li class=&#34;nav-header&#34;&#62;Section Heading&#38;lt;/li&#62;&#60;/code&#62; wherever you want a title shown.&#60;/p&#62;
+
+&#60;ul class=&#34;nav nav-list well&#34;&#62;
+&#60;li class=&#34;nav-header&#34;&#62;Page Links&#60;/li&#62;
+&#60;li class=&#34;active&#34;&#62;&#60;a href=&#34;http://www.example.com/&#34;&#62;Home&#60;/a&#62;&#60;/li&#62;
+&#60;li&#62;&#60;a href=&#34;http://www.example.com/&#34;&#62;About Us&#60;/a&#62;&#60;/li&#62;
+&#60;li&#62;&#60;a href=&#34;http://www.example.com/&#34;&#62;Blog&#60;/a&#62;&#60;/li&#62;
+&#60;li&#62;&#60;a href=&#34;http://www.example.com/&#34;&#62;Events&#60;/a&#62;&#60;/li&#62;
+&#60;li&#62;&#60;a href=&#34;http://www.example.com/&#34;&#62;Reviews&#60;/a&#62;&#60;/li&#62;
+&#60;li&#62;&#60;a href=&#34;http://www.example.com/&#34;&#62;Contact Us&#60;/a&#62;&#60;/li&#62;
+&#60;li class=&#34;nav-header&#34;&#62;Customer Support&#60;/li&#62;
+&#60;li&#62;&#60;a href=&#34;http://www.example.com/&#34;&#62;Part Numbers&#60;/a&#62;&#60;/li&#62;
+&#60;li&#62;&#60;a href=&#34;http://www.example.com/&#34;&#62;User Guides&#60;/a&#62;&#60;/li&#62;
+&#60;li&#62;&#60;a href=&#34;http://www.example.com/&#34;&#62;Help Sheets&#60;/a&#62;&#60;/li&#62;
+&#60;li&#62;&#60;a href=&#34;http://www.example.com/&#34;&#62;Diagrams&#60;/a&#62;&#60;/li&#62;
+&#60;li class=&#34;nav-header&#34;&#62;Services&#60;/li&#62;
+&#60;li&#62;&#60;a href=&#34;http://www.example.com/&#34;&#62;Spares&#60;/a&#62;&#60;/li&#62;
+&#60;li&#62;&#60;a href=&#34;http://www.example.com/&#34;&#62;Repairs&#60;/a&#62;&#60;/li&#62;
+&#60;li&#62;&#60;a href=&#34;http://www.example.com/&#34;&#62;Accessories&#60;/a&#62;&#60;/li&#62;
+&#60;/ul&#62;
+</content>
+</snippet>

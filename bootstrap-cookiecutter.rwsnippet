@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet xmlns="http://www.realmacsoftware.com/2007/Snippet/">
+	<title>Bootstrap - Cookie cutter</title>
+	<content type="html">&#60;h3&#62;Cookie cutter&#60;/h3&#62;
+&#60;p&#62;Turns a collection of normal square images into rounded images. Works well on all newer web browsers. Images can be set as links to other pages, resources or URL&#39;s. Additional CSS code could be used to adjust the spacing around the images. Use as many or as few images as you want.&#60;/p&#62;
+&#60;a href=&#34;http://www.example.com/&#34;&#62;&#60;img src=&#34;http://placehold.it/150x150&#34; class=&#34;img-circle&#34;&#62;&#60;/a&#62;
+&#60;a href=&#34;http://www.example.com/&#34;&#62;&#60;img src=&#34;http://placehold.it/150x150&#34; class=&#34;img-circle&#34;&#62;&#60;/a&#62;
+&#60;a href=&#34;http://www.example.com/&#34;&#62;&#60;img src=&#34;http://placehold.it/150x150&#34; class=&#34;img-circle&#34;&#62;&#60;/a&#62;
+&#60;a href=&#34;http://www.example.com/&#34;&#62;&#60;img src=&#34;http://placehold.it/150x150&#34; class=&#34;img-circle&#34;&#62;&#60;/a&#62;
+&#60;a href=&#34;http://www.example.com/&#34;&#62;&#60;img src=&#34;http://placehold.it/150x150&#34; class=&#34;img-circle&#34;&#62;&#60;/a&#62;
+&#60;a href=&#34;http://www.example.com/&#34;&#62;&#60;img src=&#34;http://placehold.it/150x150&#34; class=&#34;img-circle&#34;&#62;&#60;/a&#62;
+&#60;a href=&#34;http://www.example.com/&#34;&#62;&#60;img src=&#34;http://placehold.it/150x150&#34; class=&#34;img-circle&#34;&#62;&#60;/a&#62;
+&#60;a href=&#34;http://www.example.com/&#34;&#62;&#60;img src=&#34;http://placehold.it/150x150&#34; class=&#34;img-circle&#34;&#62;&#60;/a&#62;
+&#60;a href=&#34;http://www.example.com/&#34;&#62;&#60;img src=&#34;http://placehold.it/150x150&#34; class=&#34;img-circle&#34;&#62;&#60;/a&#62;</content>
+</snippet>

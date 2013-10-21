@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet xmlns="http://www.realmacsoftware.com/2007/Snippet/">
+	<title>Bootstrap - List (unordered)</title>
+	<content type="html">&#60;ul&#62;
+	&#60;li&#62;Lorem ipsum dolor sit amet&#60;/li&#62;
+	&#60;li&#62;Consectetur adipiscing elit&#60;/li&#62;
+	&#60;li&#62;Integer molestie lorem at massa&#60;/li&#62;
+	&#60;li&#62;Facilisis in pretium nisl aliquet&#60;/li&#62;
+	&#60;li&#62;Nulla volutpat aliquam velit
+	&#60;ul&#62;
+		&#60;li&#62;Phasellus iaculis neque&#60;/li&#62;
+		&#60;li&#62;Purus sodales ultricies&#60;/li&#62;
+		&#60;li&#62;Vestibulum laoreet porttitor sem&#60;/li&#62;
+		&#60;li&#62;Ac tristique libero volutpat at&#60;/li&#62;
+	&#60;/ul&#62;
+	&#60;/li&#62;
+	&#60;li&#62;Faucibus porta lacus fringilla vel&#60;/li&#62;
+	&#60;li&#62;Aenean sit amet erat nunc&#60;/li&#62;
+	&#60;li&#62;Eget porttitor lorem&#60;/li&#62;
+&#60;/ul&#62;</content>
+</snippet>

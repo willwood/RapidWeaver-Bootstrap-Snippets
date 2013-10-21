@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet xmlns="http://www.realmacsoftware.com/2007/Snippet/">
+	<title>Bootstrap - Labels</title>
+	<content type="html">&#60;h3&#62;Labels&#60;/h3&#62;
+&#60;p&#62;Use labels to highlight important sections of content in your pages.&#60;/p&#62;
+&#60;span class=&#34;label label-default&#34;&#62;Default&#60;/span&#62;
+&#60;br /&#62;
+&#60;span class=&#34;label label-success&#34;&#62;Success&#60;/span&#62;
+&#60;br /&#62;
+&#60;span class=&#34;label label-warning&#34;&#62;Warning&#60;/span&#62;
+&#60;br /&#62;
+&#60;span class=&#34;label label-danger&#34;&#62;Danger&#60;/span&#62;
+&#60;br /&#62;
+&#60;span class=&#34;label label-info&#34;&#62;Info&#60;/span&#62;</content>
+</snippet>

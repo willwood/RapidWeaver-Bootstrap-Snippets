@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet xmlns="http://www.realmacsoftware.com/2007/Snippet/">
+	<title>Bootstrap - Basic typography</title>
+	<content type="html">&#60;h3&#62;Headings&#60;/h3&#62;
+&#60;p&#62;All HTML headings, &#60;code&#62;&#38;lt;h1&#38;gt;&#60;/code&#62; through &#60;code&#62;&#38;lt;h6&#38;gt;&#60;/code&#62; are available.&#60;/p&#62;
+&#60;h1&#62;An H1 level heading&#60;/h1&#62;
+&#60;h2&#62;An H2 level heading&#60;/h2&#62;
+&#60;h3&#62;An H3 level heading&#60;/h3&#62;
+&#60;h4&#62;An H4 level heading&#60;/h4&#62;
+&#60;h5&#62;An H5 level heading&#60;/h5&#62;
+&#60;h6&#62;An H6 level heading&#60;/h6&#62;
+
+&#60;hr /&#62;
+
+&#60;h3&#62;Lead body copy&#60;/h3&#62;
+&#60;p&#62;Make a paragraph stand out by adding &#60;code&#62;.lead&#60;/code&#62; to the paragraph tags.&#60;/p&#62;
+&#60;p class=&#34;lead&#34;&#62;Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus.&#60;/p&#62;
+
+&#60;hr /&#62;
+
+&#60;h3&#62;Small text&#60;/h3&#62;
+&#60;p&#62;For de-emphasizing inline or blocks of text, use the &#60;code&#62;&#38;lt;small&#38;gt;&#60;/code&#62; tag to set text at 85% the size of the parent. Heading elements receive their own &#60;code&#62;font-size&#60;/code&#62; for nested &#60;code&#62;&#38;lt;small&#38;gt;&#60;/code&#62; elements.&#60;/p&#62;
+&#60;small&#62;This line of text is meant to be treated as fine print.&#60;/small&#62;
+
+&#60;hr /&#62;
+
+&#60;h3&#62;Bold&#60;/h3&#62;
+&#60;p&#62;For emphasizing a snippet of text with a heavier font-weight.&#60;/p&#62;
+The following snippet of text is &#60;strong&#62;rendered as bold text&#60;/strong&#62;.
+
+&#60;hr /&#62;
+
+&#60;h3&#62;Italics&#60;/h3&#62;
+&#60;p&#62;For emphasizing a snippet of text with italics.&#60;/p&#62;
+The following snippet of text is &#60;em&#62;rendered as italicised text&#60;/em&#62;.
+
+&#60;hr /&#62;
+
+&#60;h3&#62;Alignment classes&#60;/h3&#62;
+&#60;p&#62;Easily realign text to components with text alignment classes.&#60;/p&#62;
+&#60;p class=&#34;text-left&#34;&#62;Left aligned text.&#60;/p&#62;
+&#60;p class=&#34;text-center&#34;&#62;Center aligned text.&#60;/p&#62;
+&#60;p class=&#34;text-right&#34;&#62;Right aligned text.&#60;/p&#62;
+
+&#60;hr /&#62;
+
+&#60;h3&#62;Emphasis classes&#60;/h3&#62;
+&#60;p&#62;Convey meaning through color with a handful of emphasis utility classes.&#60;p&#62;
+&#60;p class=&#34;text-muted&#34;&#62;Fusce dapibus, tellus ac cursus commodo, tortor mauris nibh.&#60;/p&#62;
+&#60;p class=&#34;text-primary&#34;&#62;Nullam id dolor id nibh ultricies vehicula ut id elit.&#60;/p&#62;
+&#60;p class=&#34;text-success&#34;&#62;Duis mollis, est non commodo luctus, nisi erat porttitor ligula.&#60;/p&#62;
+&#60;p class=&#34;text-info&#34;&#62;Maecenas sed diam eget risus varius blandit sit amet non magna.&#60;/p&#62;
+&#60;p class=&#34;text-warning&#34;&#62;Etiam porta sem malesuada magna mollis euismod.&#60;/p&#62;
+&#60;p class=&#34;text-danger&#34;&#62;Donec ullamcorper nulla non metus auctor fringilla.&#60;/p&#62;</content>
+</snippet>

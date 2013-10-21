@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet xmlns="http://www.realmacsoftware.com/2007/Snippet/">
+	<title>Bootstrap - Blockquote boxes</title>
+	<content type="html">&#60;h3&#62;Blockquote boxes&#60;/h3&#62;
+&#60;p&#62;Blockquotes are great for displaying important content quoted from another source. This first one is pulled right:&#60;/p&#62;
+&#60;blockquote  class=&#34;pull-right&#34;&#62;
+&#60;p&#62;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis.&#60;/p&#62;
+&#60;small&#62;Someone famous in &#60;cite title=&#34;&#34;&#62;Body of work&#60;/cite&#62;&#60;/small&#62;
+&#60;/blockquote&#62;
+
+&#60;p&#62;Or a standard left-floating blockquote like this one:&#60;/p&#62;
+
+&#60;blockquote&#62;
+&#60;p&#62;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis.&#60;/p&#62;
+&#60;small&#62;Someone famous in &#60;cite title=&#34;&#34;&#62;Body of work&#60;/cite&#62;&#60;/small&#62;
+&#60;/blockquote&#62;</content>
+</snippet>

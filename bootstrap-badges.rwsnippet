@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet xmlns="http://www.realmacsoftware.com/2007/Snippet/">
+	<title>Bootstrap - Badges</title>
+	<content type="html">&#60;h3&#62;Badges&#60;/h3&#62;
+&#60;p&#62;Easily highlight new or unread items by adding a &#60;code&#62;&#38;lt;span class=&#34;badge&#34;&#62;&#60;/code&#62; to links, Bootstrap navs, and more. Built-in styles are included for placing badges in active states in pill and list navigations.&#60;/p&#62;
+
+&#60;a href=&#34;#&#34;&#62;Inbox &#60;span class=&#34;badge&#34;&#62;42&#60;/span&#62;&#60;/a&#62;</content>
+</snippet>

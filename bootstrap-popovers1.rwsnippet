@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet xmlns="http://www.realmacsoftware.com/2007/Snippet/">
+	<title>Bootstrap - Popovers</title>
+	<content type="html">&#60;h3&#62;Popovers&#60;/h3&#62;
+&#60;p&#62;Useful little popovers to display extra information on links or buttons.&#60;/p&#62;
+
+&#60;div style=&#34;text-align: center;&#34;&#62;
+&#60;a href=&#34;#&#34; class=&#34;btn btn-default&#34; data-toggle=&#34;popover&#34; data-placement=&#34;top&#34; data-content=&#34;Vivamus sagittis lacus vel augue laoreet rutrum faucibus.&#34; title=&#34;&#34; data-original-title=&#34;Popover on top&#34;&#62;Popover on top&#60;/a&#62;
+&#60;a href=&#34;#&#34; class=&#34;btn btn-default&#34; data-toggle=&#34;popover&#34; data-placement=&#34;right&#34; data-content=&#34;Vivamus sagittis lacus vel augue laoreet rutrum faucibus.&#34; title=&#34;&#34; data-original-title=&#34;Popover on right&#34;&#62;Popover on right&#60;/a&#62;
+&#60;a href=&#34;#&#34; class=&#34;btn btn-default&#34; data-toggle=&#34;popover&#34; data-placement=&#34;bottom&#34; data-content=&#34;Vivamus sagittis lacus vel augue laoreet rutrum faucibus.&#34; title=&#34;&#34; data-original-title=&#34;Popover on bottom&#34;&#62;Popover on bottom&#60;/a&#62;
+&#60;a href=&#34;#&#34; class=&#34;btn btn-default&#34; data-toggle=&#34;popover&#34; data-placement=&#34;left&#34; data-content=&#34;Vivamus sagittis lacus vel augue laoreet rutrum faucibus.&#34; title=&#34;&#34; data-original-title=&#34;Popover on left&#34;&#62;Popover on left&#60;/a&#62;
+&#60;/div&#62;
+
+&#60;!-- This snippet requires jQuery, bootstrap.js and some Javascript code --&#62;
+&#60;script src=&#34;https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js&#34;&#62;&#60;/script&#62;
+&#60;script type=&#34;text/javascript&#34; src=&#34;%pathto(bootstrap/js/bootstrap.min.js)%&#34;&#62;&#60;/script&#62;
+&#60;script type=&#34;text/javascript&#34;&#62;
+$(document).ready(function() {
+	$(&#34;a[data-toggle=popover]&#34;)
+	.popover({
+		html: true,
+		trigger: &#34;hover&#34;
+	})
+});
+&#60;/script&#62;</content>
+</snippet>

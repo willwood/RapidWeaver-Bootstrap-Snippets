@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet xmlns="http://www.realmacsoftware.com/2007/Snippet/">
+	<title>Bootstrap - Panels</title>
+	<content type="html">&#60;h3&#62;Panels&#60;/h3&#62;
+&#60;p&#62;By default, all the &#60;code&#62;panel&#60;/code&#62; does is apply some basic border and padding to contain some content.&#60;/p&#62;
+&#60;div class=&#34;panel panel-default&#34;&#62;
+	&#60;div class=&#34;panel-body&#34;&#62;
+		Hello World! This is some content in a panel.
+	&#60;/div&#62;&#60;!--/panel-body--&#62;
+&#60;/div&#62;&#60;!--/panel--&#62;
+
+&#60;h3&#62;Panel with heading&#60;/h3&#62;
+&#60;p&#62;Easily add a heading container to your panel with &#60;code&#62;panel-heading&#60;/code&#62;. You may also include any &#60;code&#62;&#38;lt;h1&#62; - &#38;lth6&#62;&#60;/code&#62; with a &#60;code&#62;panel-title&#60;/code&#62; class to add a pre-styled heading.&#60;/p&#62;
+
+&#60;div class=&#34;panel panel-default&#34;&#62;
+	&#60;div class=&#34;panel-heading&#34;&#62;
+		Panel heading
+	&#60;/div&#62;&#60;!--/panel-heading--&#62;
+	&#60;div class=&#34;panel-body&#34;&#62;
+		Hello World! This is some content in a panel.
+	&#60;/div&#62;&#60;!--/panel-body--&#62;
+&#60;/div&#62;&#60;!--/panel--&#62;
+
+&#60;div class=&#34;panel panel-default&#34;&#62;
+	&#60;div class=&#34;panel-heading&#34;&#62;
+		&#60;h3 class=&#34;panel-title&#34;&#62;Panel title&#60;/h3&#62;
+	&#60;/div&#62;&#60;!--/panel-heading--&#62;
+	&#60;div class=&#34;panel-body&#34;&#62;
+		Hello World! This is some content in a panel.
+	&#60;/div&#62;&#60;!--/panel-body--&#62;
+&#60;/div&#62;&#60;!--/panel--&#62;
+
+&#60;h3&#62;Panel with footer&#60;/h3&#62;
+&#60;p&#62;Wrap buttons or secondary text in .panel-footer. Note that panel footers do not inherit colors and borders when using contextual variations as they are not meant to be in the foreground.&#60;/p&#62;
+
+&#60;div class=&#34;panel panel-default&#34;&#62;
+	&#60;div class=&#34;panel-body&#34;&#62;
+		Panel content
+	&#60;/div&#62;&#60;!--/panel-body--&#62;
+	&#60;div class=&#34;panel-footer&#34;&#62;
+		Panel footer
+	&#60;/div&#62;&#60;!--/panel-footer--&#62;
+&#60;/div&#62;&#60;!--/panel--&#62;
+
+&#60;h3&#62;Coloured panels&#60;/h3&#62;
+&#60;p&#62;Like other components, easily make a panel more meaningful to a particular context by adding any of the contextual state classes.&#60;/p&#62;
+
+&#60;div class=&#34;panel panel-primary&#34;&#62;
+	&#60;div class=&#34;panel-heading&#34;&#62;
+		&#60;h3 class=&#34;panel-title&#34;&#62;Panel title&#60;/h3&#62;
+	&#60;/div&#62;
+	&#60;div class=&#34;panel-body&#34;&#62;
+		Panel content
+	&#60;/div&#62;
+&#60;/div&#62;
+
+&#60;div class=&#34;panel panel-success&#34;&#62;
+	&#60;div class=&#34;panel-heading&#34;&#62;
+		&#60;h3 class=&#34;panel-title&#34;&#62;Panel title&#60;/h3&#62;
+	&#60;/div&#62;
+	&#60;div class=&#34;panel-body&#34;&#62;
+		Panel content
+	&#60;/div&#62;
+&#60;/div&#62;
+
+&#60;div class=&#34;panel panel-info&#34;&#62;
+	&#60;div class=&#34;panel-heading&#34;&#62;
+		&#60;h3 class=&#34;panel-title&#34;&#62;Panel title&#60;/h3&#62;
+	&#60;/div&#62;
+	&#60;div class=&#34;panel-body&#34;&#62;
+		Panel content
+	&#60;/div&#62;
+&#60;/div&#62;
+
+&#60;div class=&#34;panel panel-warning&#34;&#62;
+	&#60;div class=&#34;panel-heading&#34;&#62;
+		&#60;h3 class=&#34;panel-title&#34;&#62;Panel title&#60;/h3&#62;
+	&#60;/div&#62;
+	&#60;div class=&#34;panel-body&#34;&#62;
+		Panel content
+	&#60;/div&#62;
+&#60;/div&#62;
+
+&#60;div class=&#34;panel panel-danger&#34;&#62;
+	&#60;div class=&#34;panel-heading&#34;&#62;
+		&#60;h3 class=&#34;panel-title&#34;&#62;Panel title&#60;/h3&#62;
+	&#60;/div&#62;
+	&#60;div class=&#34;panel-body&#34;&#62;
+		Panel content
+	&#60;/div&#62;
+&#60;/div&#62;</content>
+</snippet>

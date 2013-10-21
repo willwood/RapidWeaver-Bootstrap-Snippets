@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet xmlns="http://www.realmacsoftware.com/2007/Snippet/">
+	<title>Bootstrap - Navbars</title>
+	<content type="html">&#60;h3&#62;Navbars&#60;/h3&#62;
+&#60;p&#62;Navbars can comprise of a title (branding) and page navigation links. Place a navbar anywhere in your page. A Navbar has a fixed height and will extend to the same width of whatever element it&#39;s placed within.&#60;/p&#62;
+
+&#60;div class=&#34;navbar navbar-default&#34;&#62;
+	&#60;a class=&#34;navbar-brand&#34; href=&#34;#&#34;&#62;My Website&#60;/a&#62;
+	&#60;ul class=&#34;nav navbar-nav&#34;&#62;
+		&#60;li class=&#34;active&#34;&#62;&#60;a href=&#34;http://example.com&#34;&#62;Homepage&#60;/a&#62;&#60;/li&#62;
+		&#60;li&#62;&#60;a href=&#34;http://example.com&#34;&#62;Our Work&#60;/a&#62;&#60;/li&#62;
+		&#60;li&#62;&#60;a href=&#34;htp://example.com&#34;&#62;Meet The Team&#60;/a&#62;&#60;/li&#62;
+		&#60;li&#62;&#60;a href=&#34;htp://example.com&#34;&#62;Recent News&#60;/a&#62;&#60;/li&#62;
+		&#60;li&#62;&#60;a href=&#34;htp://example.com&#34;&#62;Contact Us&#60;/a&#62;&#60;/li&#62;
+	&#60;/ul&#62;
+&#60;/div&#62;
+
+&#60;h3&#62;Inverted navbar&#60;/h3&#62;
+&#60;p&#62;Same as the one above, but with an inverted (light on dark) colour scheme, by adding &#60;code&#62;navbar-inverse&#60;/code&#62; to the parent container.&#60;/p&#62;
+
+&#60;div class=&#34;navbar navbar-inverse&#34;&#62;
+	&#60;a class=&#34;navbar-brand&#34; href=&#34;#&#34;&#62;My Website&#60;/a&#62;
+	&#60;ul class=&#34;nav navbar-nav&#34;&#62;
+		&#60;li class=&#34;active&#34;&#62;&#60;a href=&#34;http://example.com&#34;&#62;Homepage&#60;/a&#62;&#60;/li&#62;
+		&#60;li&#62;&#60;a href=&#34;http://example.com&#34;&#62;Our Work&#60;/a&#62;&#60;/li&#62;
+		&#60;li&#62;&#60;a href=&#34;htp://example.com&#34;&#62;Meet The Team&#60;/a&#62;&#60;/li&#62;
+		&#60;li&#62;&#60;a href=&#34;htp://example.com&#34;&#62;Recent News&#60;/a&#62;&#60;/li&#62;
+		&#60;li&#62;&#60;a href=&#34;htp://example.com&#34;&#62;Contact Us&#60;/a&#62;&#60;/li&#62;
+	&#60;/ul&#62;
+&#60;/div&#62;</content>
+</snippet>

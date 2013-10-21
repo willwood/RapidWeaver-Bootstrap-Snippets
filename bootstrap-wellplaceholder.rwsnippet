@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet xmlns="http://www.realmacsoftware.com/2007/Snippet/">
+	<title>Bootstrap - Well placeholder</title>
+	<content type="html">&#60;h3&#62;Well placeholder&#60;/h3&#62;
+&#60;p&#62;A simple rounded box to frame content within.&#60;/p&#62;
+&#60;div class=&#34;well&#34;&#62;
+&#60;p&#62;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus et erat ut lectus fermentum tincidunt. Donec sed leo risus. Sed ut eros mi, a pellentesque purus. Donec leo elit, facilisis euismod accumsan in, mollis vel massa. Donec at turpis massa, nec tincidunt erat. In venenatis dolor sem. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam euismod egestas facilisis. Aenean vestibulum sapien nec libero imperdiet semper. In risus nulla, eleifend at pharetra sodales, consectetur non justo. Phasellus faucibus, leo eget blandit semper, augue felis ullamcorper lectus, vel luctus urna quam quis nunc. Nullam vel nibh sit amet felis tincidunt convallis eu nec purus. Sed tempor velit ut nulla pretium sodales. Quisque dapibus massa non velit elementum quis aliquam nibh pharetra. In arcu mauris, bibendum eget laoreet at, congue vitae tortor.&#60;/p&#62;
+
+&#60;p&#62;Aenean sed lacus vitae ante sagittis pellentesque. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam mattis velit sed odio sollicitudin dapibus. Aenean pellentesque lectus quis quam hendrerit vel rhoncus augue facilisis. Aenean tempus malesuada augue vitae commodo. Etiam sed lorem dolor, et congue mauris. Nullam sit amet erat nisl, ac imperdiet dolor. Donec vel ligula odio. Maecenas pretium leo sit amet libero vulputate molestie in at arcu. Suspendisse potenti. Maecenas pellentesque, dolor id scelerisque vehicula, magna dolor luctus lectus, ut ornare lectus ipsum ut ligula. Aenean ante libero, consectetur vel ultricies quis, feugiat sed lorem. Aenean sollicitudin erat quis massa imperdiet et malesuada dui malesuada. Ut id augue nisi, nec placerat ligula. Sed imperdiet neque eget nibh hendrerit accumsan. In eget dolor sem, quis volutpat urna. Proin tempor nunc vitae felis iaculis bibendum.&#60;/p&#62;
+&#60;/div&#62;</content>
+</snippet>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet xmlns="http://www.realmacsoftware.com/2007/Snippet/">
+	<title>Bootstrap - Code box</title>
+	<content type="html">&#60;h3&#62;Code box&#60;/h3&#62;
+&#60;p&#62;A simple box to put code in.&#60;/p&#62;
+&#60;pre&#62;
+&#38;lt;p&#38;gt;Sample text here...&#38;lt;/p&#38;gt;</content>
+</snippet>

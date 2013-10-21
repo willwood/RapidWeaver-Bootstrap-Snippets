@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet xmlns="http://www.realmacsoftware.com/2007/Snippet/">
+	<title>Bootstrap - Thumbnails</title>
+	<content type="html">&#60;h3&#62;Thumbnails&#60;/h3&#62;
+&#60;p&#62;Thumbnails are a superb way to frame your images and can also be used for videos, retail products, portfolios, and much more.&#60;/p&#62;
+&#60;div style=&#34;display:block; width:100%; height:auto; overflow:auto;&#34;&#62;
+&#60;a href=&#34;http://example.com&#34; class=&#34;thumbnail&#34; style=&#34;float:left; margin-right: 20px; margin-bottom: 20px;&#34;&#62;
+	&#60;img src=&#34;http://placehold.it/260x180&#34; alt=&#34;Alt&#34;&#62;
+&#60;/a&#62;
+&#60;a href=&#34;http://example.com&#34; class=&#34;thumbnail&#34; style=&#34;float:left; margin-right: 20px; margin-bottom: 20px;&#34;&#62;
+	&#60;img src=&#34;http://placehold.it/260x180&#34; alt=&#34;Alt&#34;&#62;
+&#60;/a&#62;
+&#60;a href=&#34;http://example.com&#34; class=&#34;thumbnail&#34; style=&#34;float:left; margin-right: 20px; margin-bottom: 20px;&#34;&#62;
+	&#60;img src=&#34;http://placehold.it/260x180&#34; alt=&#34;Alt&#34;&#62;
+&#60;/a&#62;
+&#60;a href=&#34;http://example.com&#34; class=&#34;thumbnail&#34; style=&#34;float:left; margin-right: 20px; margin-bottom: 20px;&#34;&#62;
+	&#60;img src=&#34;http://placehold.it/260x180&#34; alt=&#34;Alt&#34;&#62;
+&#60;/a&#62;
+&#60;a href=&#34;http://example.com&#34; class=&#34;thumbnail&#34; style=&#34;float:left; margin-right: 20px; margin-bottom: 20px;&#34;&#62;
+	&#60;img src=&#34;http://placehold.it/260x180&#34; alt=&#34;Alt&#34;&#62;
+&#60;/a&#62;
+&#60;a href=&#34;http://example.com&#34; class=&#34;thumbnail&#34; style=&#34;float:left; margin-right: 20px; margin-bottom: 20px;&#34;&#62;
+	&#60;img src=&#34;http://placehold.it/260x180&#34; alt=&#34;Alt&#34;&#62;
+&#60;/a&#62;
+&#60;a href=&#34;http://example.com&#34; class=&#34;thumbnail&#34; style=&#34;float:left; margin-right: 20px; margin-bottom: 20px;&#34;&#62;
+	&#60;img src=&#34;http://placehold.it/260x180&#34; alt=&#34;Alt&#34;&#62;
+&#60;/a&#62;
+&#60;a href=&#34;http://example.com&#34; class=&#34;thumbnail&#34; style=&#34;float:left; margin-right: 20px; margin-bottom: 20px;&#34;&#62;
+	&#60;img src=&#34;http://placehold.it/260x180&#34; alt=&#34;Alt&#34;&#62;
+&#60;/a&#62;
+&#60;/div&#62;</content>
+</snippet>

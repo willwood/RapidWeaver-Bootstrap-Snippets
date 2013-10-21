@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet xmlns="http://www.realmacsoftware.com/2007/Snippet/">
+	<title>Bootstrap - Buttons</title>
+	<content type="html">&#60;h3&#62;Buttons&#60;/h3&#62;
+&#60;p&#62;Any link can be turned into a button, to make it clearer for people to see and click. Just give the link a &#60;code&#62;class=&#34;&#34;&#60;/code&#62; attribute, and enter the button style in the quotes (look at this page in RapidWeaver edit mode to see the available selector names). Buttons come in various sizes and colours. The length of a button is governed by the amount of text or icons it contains. Blue and silver are the most common colours to use, but other colours may be used. Button groups are also available, which let you &#39;stitch&#39; multiple buttons together.&#60;/p&#62;
+
+&#60;h3&#62;Standard Buttons&#60;/h3&#62;
+&#60;br /&#62;
+&#60;a class=&#34;btn btn-default&#34; href=&#34;http://example.com/&#34;&#62;My Button&#60;/a&#62;
+&#60;br /&#62;
+&#60;br /&#62;
+&#60;a class=&#34;btn btn-primary&#34; href=&#34;http://example.com/&#34;&#62;My Button&#60;/a&#62;
+&#60;br /&#62;
+&#60;br /&#62;
+&#60;a class=&#34;btn btn-info&#34; href=&#34;http://example.com/&#34;&#62;My Button&#60;/a&#62;
+&#60;br /&#62;
+&#60;br /&#62;
+&#60;a class=&#34;btn btn-success&#34; href=&#34;http://example.com/&#34;&#62;My Button&#60;/a&#62;
+&#60;br /&#62;
+&#60;br /&#62;
+&#60;a class=&#34;btn btn-warning&#34; href=&#34;http://example.com/&#34;&#62;My Button&#60;/a&#62;
+&#60;br /&#62;
+&#60;br /&#62;
+&#60;a class=&#34;btn btn-danger&#34; href=&#34;http://example.com/&#34;&#62;My Button&#60;/a&#62;
+&#60;br /&#62;
+&#60;br /&#62;
+
+&#60;h3&#62;Large Buttons&#60;/h3&#62;
+&#60;br /&#62;
+&#60;a class=&#34;btn btn-lg btn-default&#34; href=&#34;http://example.com/&#34;&#62;My Button&#60;/a&#62;
+&#60;br /&#62;
+&#60;br /&#62;
+&#60;a class=&#34;btn btn-lg btn-primary&#34; href=&#34;http://example.com/&#34;&#62;My Button&#60;/a&#62;
+&#60;br /&#62;
+&#60;br /&#62;
+&#60;a class=&#34;btn btn-lg btn-info&#34; href=&#34;http://example.com/&#34;&#62;My Button&#60;/a&#62;
+&#60;br /&#62;
+&#60;br /&#62;
+&#60;a class=&#34;btn btn-lg btn-success&#34; href=&#34;http://example.com/&#34;&#62;My Button&#60;/a&#62;
+&#60;br /&#62;
+&#60;br /&#62;
+&#60;a class=&#34;btn btn-lg btn-warning&#34; href=&#34;http://example.com/&#34;&#62;My Button&#60;/a&#62;
+&#60;br /&#62;
+&#60;br /&#62;
+&#60;a class=&#34;btn btn-lg btn-danger&#34; href=&#34;http://example.com/&#34;&#62;My Button&#60;/a&#62;
+&#60;br /&#62;
+&#60;br /&#62;
+
+&#60;h3&#62;Small Buttons&#60;/h3&#62;
+&#60;br /&#62;
+&#60;a class=&#34;btn btn-sm btn-default&#34; href=&#34;http://example.com/&#34;&#62;My Button&#60;/a&#62;
+&#60;br /&#62;
+&#60;br /&#62;
+&#60;a class=&#34;btn btn-sm btn-primary&#34; href=&#34;http://example.com/&#34;&#62;My Button&#60;/a&#62;
+&#60;br /&#62;
+&#60;br /&#62;
+&#60;a class=&#34;btn btn-sm btn-info&#34; href=&#34;http://example.com/&#34;&#62;My Button&#60;/a&#62;
+&#60;br /&#62;
+&#60;br /&#62;
+&#60;a class=&#34;btn btn-sm btn-success&#34; href=&#34;http://example.com/&#34;&#62;My Button&#60;/a&#62;
+&#60;br /&#62;
+&#60;br /&#62;
+&#60;a class=&#34;btn btn-sm btn-warning&#34; href=&#34;http://example.com/&#34;&#62;My Button&#60;/a&#62;
+&#60;br /&#62;
+&#60;br /&#62;
+&#60;a class=&#34;btn btn-sm btn-danger&#34; href=&#34;http://example.com/&#34;&#62;My Button&#60;/a&#62;
+&#60;br /&#62;
+&#60;br /&#62;
+
+&#60;h3&#62;Extra Small Buttons&#60;/h3&#62;
+&#60;br /&#62;
+&#60;a class=&#34;btn btn-xs btn-default&#34; href=&#34;http://example.com/&#34;&#62;My Button&#60;/a&#62;
+&#60;br /&#62;
+&#60;br /&#62;
+&#60;a class=&#34;btn btn-xs btn-primary&#34; href=&#34;http://example.com/&#34;&#62;My Button&#60;/a&#62;
+&#60;br /&#62;
+&#60;br /&#62;
+&#60;a class=&#34;btn btn-xs btn-info&#34; href=&#34;http://example.com/&#34;&#62;My Button&#60;/a&#62;
+&#60;br /&#62;
+&#60;br /&#62;
+&#60;a class=&#34;btn btn-xs btn-success&#34; href=&#34;http://example.com/&#34;&#62;My Button&#60;/a&#62;
+&#60;br /&#62;
+&#60;br /&#62;
+&#60;a class=&#34;btn btn-xs btn-warning&#34; href=&#34;http://example.com/&#34;&#62;My Button&#60;/a&#62;
+&#60;br /&#62;
+&#60;br /&#62;
+&#60;a class=&#34;btn btn-xs btn-danger&#34; href=&#34;http://example.com/&#34;&#62;My Button&#60;/a&#62;
+&#60;br /&#62;
+&#60;br /&#62;
+
+&#60;h3&#62;Button Groups&#60;/h3&#62;
+Wrap a series of buttons with &#60;code&#62;.btn&#60;/code&#62; in &#60;code&#62;.btn-group&#60;/code&#62;&#60;br /&#62;
+&#60;div class=&#34;btn-group&#34;&#62;
+	&#60;button type=&#34;button&#34; class=&#34;btn btn-default&#34; onclick=&#34;window.location.href=&#39;http://example.com&#39;&#34;&#62;Left&#60;/button&#62;
+	&#60;button type=&#34;button&#34; class=&#34;btn btn-default&#34; onclick=&#34;window.location.href=&#39;http://example.com&#39;&#34;&#62;Middle&#60;/button&#62;
+	&#60;button type=&#34;button&#34; class=&#34;btn btn-default&#34; onclick=&#34;window.location.href=&#39;http://example.com&#39;&#34;&#62;Right&#60;/button&#62;
+&#60;/div&#62;
+
+&#60;h3&#62;Multiple Button Groups&#60;/h3&#62;
+Combine sets of &#60;code&#62;&#38;lt;div class=&#34;btn-group&#34;&#62;&#60;/code&#62; into a &#60;code&#62;&#38;lt;div class=&#34;btn-toolbar&#34;&#62;&#60;/code&#62; for more complex components.
+&#60;div class=&#34;btn-toolbar&#34;&#62;
+	&#60;div class=&#34;btn-group&#34;&#62;
+		&#60;button type=&#34;button&#34; class=&#34;btn btn-default&#34; onclick=&#34;window.location.href=&#39;http://example.com&#39;&#34;&#62;Films&#60;/button&#62;
+		&#60;button type=&#34;button&#34; class=&#34;btn btn-default&#34; onclick=&#34;window.location.href=&#39;http://example.com&#39;&#34;&#62;Music&#60;/button&#62;
+		&#60;button type=&#34;button&#34; class=&#34;btn btn-default&#34; onclick=&#34;window.location.href=&#39;http://example.com&#39;&#34;&#62;Books&#60;/button&#62;
+	&#60;/div&#62;
+	&#60;div class=&#34;btn-group&#34;&#62;
+		&#60;button type=&#34;button&#34; class=&#34;btn btn-default&#34; onclick=&#34;window.location.href=&#39;http://example.com&#39;&#34;&#62;MP3 Players&#60;/button&#62;
+		&#60;button type=&#34;button&#34; class=&#34;btn btn-default&#34; onclick=&#34;window.location.href=&#39;http://example.com&#39;&#34;&#62;Tablets&#60;/button&#62;
+		&#60;button type=&#34;button&#34; class=&#34;btn btn-default&#34; onclick=&#34;window.location.href=&#39;http://example.com&#39;&#34;&#62;Computers&#60;/button&#62;
+		&#60;button type=&#34;button&#34; class=&#34;btn btn-default&#34; onclick=&#34;window.location.href=&#39;http://example.com&#39;&#34;&#62;Accessories&#60;/button&#62;
+	&#60;/div&#62;
+&#60;/div&#62;
+
+&#60;h3&#62;Vertical Button Groups&#60;/h3&#62;
+Make a set of buttons appear vertically stacked rather than horizontally.
+&#60;br /&#62;
+&#60;div class=&#34;btn-group-vertical&#34;&#62;
+	&#60;button type=&#34;button&#34; class=&#34;btn btn-default&#34; onclick=&#34;window.location.href=&#39;http://example.com&#39;&#34;&#62;Water Pumps&#60;/button&#62;
+	&#60;button type=&#34;button&#34; class=&#34;btn btn-default&#34; onclick=&#34;window.location.href=&#39;http://example.com&#39;&#34;&#62;Pond Filters&#60;/button&#62;
+	&#60;button type=&#34;button&#34; class=&#34;btn btn-default&#34; onclick=&#34;window.location.href=&#39;http://example.com&#39;&#34;&#62;Underwater Lights&#60;/button&#62;
+	&#60;button type=&#34;button&#34; class=&#34;btn btn-default&#34; onclick=&#34;window.location.href=&#39;http://example.com&#39;&#34;&#62;Floating &#38;amp; Pelleted Fish Food&#60;/button&#62;
+	&#60;button type=&#34;button&#34; class=&#34;btn btn-default&#34; onclick=&#34;window.location.href=&#39;http://example.com&#39;&#34;&#62;Preformed Ponds &#38;amp; Cascades&#60;/button&#62;
+	&#60;button type=&#34;button&#34; class=&#34;btn btn-default&#34; onclick=&#34;window.location.href=&#39;http://example.com&#39;&#34;&#62;Pond Liners&#60;/button&#62;
+	&#60;button type=&#34;button&#34; class=&#34;btn btn-default&#34; onclick=&#34;window.location.href=&#39;http://example.com&#39;&#34;&#62;Planting Baskets&#60;/button&#62;
+	&#60;button type=&#34;button&#34; class=&#34;btn btn-default&#34; onclick=&#34;window.location.href=&#39;http://example.com&#39;&#34;&#62;Ornaments&#60;/button&#62;
+&#60;/div&#62;
+
+&#60;h3&#62;Justified button groups&#60;/h3&#62;
+Make a group of buttons stretch at the same size to span the entire width of its parent. This only works with &#60;code&#62;&#38;lt;a&#62;&#60;/code&#62; elements as the &#60;code&#62;&#38;lt;button&#62;&#60;/code&#62; doesn&#39;t pick up these styles.&#60;br /&#62;
+
+&#60;div class=&#34;btn-group btn-group-justified&#34;&#62;
+	&#60;a href=&#34;http://example.com&#34; class=&#34;btn btn-default&#34;&#62;BMX&#60;/a&#62;
+	&#60;a href=&#34;http://example.com&#34; class=&#34;btn btn-default&#34;&#62;Road&#60;/a&#62;
+	&#60;a href=&#34;http://example.com&#34; class=&#34;btn btn-default&#34;&#62;Mountain&#60;/a&#62;
+	&#60;a href=&#34;http://example.com&#34; class=&#34;btn btn-default&#34;&#62;Hybrid&#60;/a&#62;
+	&#60;a href=&#34;http://example.com&#34; class=&#34;btn btn-default&#34;&#62;29er&#39;s&#60;/a&#62;
+	&#60;a href=&#34;http://example.com&#34; class=&#34;btn btn-default&#34;&#62;Folding&#60;/a&#62;
+	&#60;a href=&#34;http://example.com&#34; class=&#34;btn btn-default&#34;&#62;Accessories&#60;/a&#62;
+&#60;/div&#62;</content>
+</snippet>

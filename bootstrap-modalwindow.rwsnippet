@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet xmlns="http://www.realmacsoftware.com/2007/Snippet/">
+	<title>Bootstrap - Modal Window</title>
+	<content type="html">&#60;h3&#62;Modal window&#60;/h3&#62;
+&#60;p&#62;Create a basic popup / modal window effect to display content within.&#60;/p&#62;
+&#60;div id=&#34;modal1&#34; class=&#34;modal fade&#34;&#62;
+	&#60;div class=&#34;modal-dialog&#34;&#62;
+		&#60;div class=&#34;modal-content&#34;&#62;
+			&#60;div class=&#34;modal-header&#34;&#62;
+				&#60;a class=&#34;close&#34; data-dismiss=&#34;modal&#34;&#62;×&#60;/a&#62;
+				&#60;h3&#62;Modal Window Title Goes here&#60;/h3&#62;
+			&#60;/div&#62;&#60;!--/modal-header--&#62;
+     		&#60;div class=&#34;modal-body&#34;&#62;
+     			&#60;h4&#62;Modal Body Content Goes Here&#60;/h4&#62;
+     			&#60;p&#62;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus et erat ut lectus fermentum tincidunt. Donec sed leo risus. Sed ut eros mi, a pellentesque purus. Donec leo elit, facilisis euismod accumsan in, mollis vel massa. Donec at turpis massa, nec tincidunt erat. In venenatis dolor sem. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam euismod egestas facilisis. Aenean vestibulum sapien nec libero imperdiet semper. In risus nulla, eleifend at pharetra sodales, consectetur non justo. Phasellus faucibus, leo eget blandit semper, augue felis ullamcorper lectus, vel luctus urna quam quis nunc. Nullam vel nibh sit amet felis tincidunt convallis eu nec purus. Sed tempor velit ut nulla pretium sodales. Quisque dapibus massa non velit elementum quis aliquam nibh pharetra. In arcu mauris, bibendum eget laoreet at, congue vitae tortor.&#60;/p&#62;
+			&#60;/div&#62;&#60;!--/modal-body--&#62;
+			&#60;div class=&#34;modal-footer&#34;&#62;
+				&#60;a href=&#34;#&#34; class=&#34;btn btn-primary&#34;&#62;Save changes&#60;/a&#62;
+				&#60;a href=&#34;#&#34; class=&#34;btn btn-default&#34; data-dismiss=&#34;modal&#34;&#62;Close&#60;/a&#62;
+			&#60;/div&#62;&#60;!--/modal-footer--&#62;
+		&#60;/div&#62;&#60;!--modal-content--&#62;
+	&#60;/div&#62;&#60;!--modal-dialog--&#62;
+&#60;/div&#62;&#60;!--/modal1--&#62;
+
+&#60;!-- This is the button or link that can be used to trigger the modal window --&#62;
+&#60;a data-toggle=&#34;modal&#34; href=&#34;#modal1&#34; class=&#34;btn btn-primary btn-large&#34;&#62;Open Model Window&#60;/a&#62;
+
+&#60;!-- This snippet requires jQuery and bootstrap.js --&#62;
+&#60;script src=&#34;https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js&#34;&#62;&#60;/script&#62;
+&#60;script type=&#34;text/javascript&#34; src=&#34;%pathto(bootstrap/js/bootstrap.min.js)%&#34;&#62;&#60;/script&#62;</content>
+</snippet>

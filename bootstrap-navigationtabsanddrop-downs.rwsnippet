@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet xmlns="http://www.realmacsoftware.com/2007/Snippet/">
+	<title>Bootstrap - Navigation pills or tabs, with drop-downs</title>
+	<content type="html">&#60;h3&#62;Tabs with dropdowns&#60;/h3&#62;
+&#60;p&#62;Tab navigation with drop-down links that appear when you click or tap the parent link.&#60;/p&#62;
+&#60;!-- This is the HTML code to generate your navigation pills and drop-downs --&#62;
+&#60;ul class=&#34;nav nav-tabs&#34;&#62;
+	&#60;li class=&#34;active&#34;&#62;&#60;a href=&#34;#&#34;&#62;Regular link&#60;/a&#62;&#60;/li&#62;
+	&#60;li class=&#34;dropdown&#34;&#62;
+	&#60;a class=&#34;dropdown-toggle&#34; data-toggle=&#34;dropdown&#34; href=&#34;#&#34;&#62;Dropdown &#60;b class=&#34;caret&#34;&#62;&#60;/b&#62;&#60;/a&#62;
+		&#60;ul id=&#34;menu1&#34; class=&#34;dropdown-menu&#34;&#62;
+			&#60;li&#62;&#60;a href=&#34;#&#34;&#62;Action&#60;/a&#62;&#60;/li&#62;
+			&#60;li&#62;&#60;a href=&#34;#&#34;&#62;Another action&#60;/a&#62;&#60;/li&#62;
+			&#60;li&#62;&#60;a href=&#34;#&#34;&#62;Something else here&#60;/a&#62;&#60;/li&#62;
+			&#60;li class=&#34;divider&#34;&#62;&#60;/li&#62;
+			&#60;li&#62;&#60;a href=&#34;#&#34;&#62;Separated link&#60;/a&#62;&#60;/li&#62;
+		&#60;/ul&#62;
+	&#60;/li&#62;
+	&#60;li class=&#34;dropdown&#34;&#62;
+	&#60;a class=&#34;dropdown-toggle&#34; data-toggle=&#34;dropdown&#34; href=&#34;#&#34;&#62;Dropdown 2 &#60;b class=&#34;caret&#34;&#62;&#60;/b&#62;&#60;/a&#62;
+		&#60;ul id=&#34;menu2&#34; class=&#34;dropdown-menu&#34;&#62;
+			&#60;li&#62;&#60;a href=&#34;#&#34;&#62;Action&#60;/a&#62;&#60;/li&#62;
+			&#60;li&#62;&#60;a href=&#34;#&#34;&#62;Another action&#60;/a&#62;&#60;/li&#62;
+			&#60;li&#62;&#60;a href=&#34;#&#34;&#62;Something else here&#60;/a&#62;&#60;/li&#62;
+			&#60;li class=&#34;divider&#34;&#62;&#60;/li&#62;
+			&#60;li&#62;&#60;a href=&#34;#&#34;&#62;Separated link&#60;/a&#62;&#60;/li&#62;
+		&#60;/ul&#62;
+	&#60;/li&#62;
+	&#60;li class=&#34;dropdown&#34;&#62;
+	&#60;a class=&#34;dropdown-toggle&#34; data-toggle=&#34;dropdown&#34; href=&#34;#&#34;&#62;Dropdown 3 &#60;b class=&#34;caret&#34;&#62;&#60;/b&#62;&#60;/a&#62;
+		&#60;ul id=&#34;menu3&#34; class=&#34;dropdown-menu&#34;&#62;
+			&#60;li&#62;&#60;a href=&#34;#&#34;&#62;Action&#60;/a&#62;&#60;/li&#62;
+			&#60;li&#62;&#60;a href=&#34;#&#34;&#62;Another action&#60;/a&#62;&#60;/li&#62;
+			&#60;li&#62;&#60;a href=&#34;#&#34;&#62;Something else here&#60;/a&#62;&#60;/li&#62;
+			&#60;li class=&#34;divider&#34;&#62;&#60;/li&#62;
+			&#60;li&#62;&#60;a href=&#34;#&#34;&#62;Separated link&#60;/a&#62;&#60;/li&#62;
+		&#60;/ul&#62;
+	&#60;/li&#62;
+&#60;/ul&#62;
+
+
+&#60;h3&#62;Pills with dropdowns&#60;/h3&#62;
+&#60;p&#62;Pill navigation with drop-down links that appear when you click or tap the parent link.&#60;/p&#62;
+&#60;!-- This is the HTML code to generate your navigation pills and drop-downs --&#62;
+&#60;ul class=&#34;nav nav-pills&#34;&#62;
+	&#60;li class=&#34;active&#34;&#62;&#60;a href=&#34;#&#34;&#62;Regular link&#60;/a&#62;&#60;/li&#62;
+	&#60;li class=&#34;dropdown&#34;&#62;
+	&#60;a class=&#34;dropdown-toggle&#34; data-toggle=&#34;dropdown&#34; href=&#34;#&#34;&#62;Dropdown &#60;b class=&#34;caret&#34;&#62;&#60;/b&#62;&#60;/a&#62;
+		&#60;ul id=&#34;menu1&#34; class=&#34;dropdown-menu&#34;&#62;
+			&#60;li&#62;&#60;a href=&#34;#&#34;&#62;Action&#60;/a&#62;&#60;/li&#62;
+			&#60;li&#62;&#60;a href=&#34;#&#34;&#62;Another action&#60;/a&#62;&#60;/li&#62;
+			&#60;li&#62;&#60;a href=&#34;#&#34;&#62;Something else here&#60;/a&#62;&#60;/li&#62;
+			&#60;li class=&#34;divider&#34;&#62;&#60;/li&#62;
+			&#60;li&#62;&#60;a href=&#34;#&#34;&#62;Separated link&#60;/a&#62;&#60;/li&#62;
+		&#60;/ul&#62;
+	&#60;/li&#62;
+	&#60;li class=&#34;dropdown&#34;&#62;
+	&#60;a class=&#34;dropdown-toggle&#34; data-toggle=&#34;dropdown&#34; href=&#34;#&#34;&#62;Dropdown 2 &#60;b class=&#34;caret&#34;&#62;&#60;/b&#62;&#60;/a&#62;
+		&#60;ul id=&#34;menu2&#34; class=&#34;dropdown-menu&#34;&#62;
+			&#60;li&#62;&#60;a href=&#34;#&#34;&#62;Action&#60;/a&#62;&#60;/li&#62;
+			&#60;li&#62;&#60;a href=&#34;#&#34;&#62;Another action&#60;/a&#62;&#60;/li&#62;
+			&#60;li&#62;&#60;a href=&#34;#&#34;&#62;Something else here&#60;/a&#62;&#60;/li&#62;
+			&#60;li class=&#34;divider&#34;&#62;&#60;/li&#62;
+			&#60;li&#62;&#60;a href=&#34;#&#34;&#62;Separated link&#60;/a&#62;&#60;/li&#62;
+		&#60;/ul&#62;
+	&#60;/li&#62;
+	&#60;li class=&#34;dropdown&#34;&#62;
+	&#60;a class=&#34;dropdown-toggle&#34; data-toggle=&#34;dropdown&#34; href=&#34;#&#34;&#62;Dropdown 3 &#60;b class=&#34;caret&#34;&#62;&#60;/b&#62;&#60;/a&#62;
+		&#60;ul id=&#34;menu3&#34; class=&#34;dropdown-menu&#34;&#62;
+			&#60;li&#62;&#60;a href=&#34;#&#34;&#62;Action&#60;/a&#62;&#60;/li&#62;
+			&#60;li&#62;&#60;a href=&#34;#&#34;&#62;Another action&#60;/a&#62;&#60;/li&#62;
+			&#60;li&#62;&#60;a href=&#34;#&#34;&#62;Something else here&#60;/a&#62;&#60;/li&#62;
+			&#60;li class=&#34;divider&#34;&#62;&#60;/li&#62;
+			&#60;li&#62;&#60;a href=&#34;#&#34;&#62;Separated link&#60;/a&#62;&#60;/li&#62;
+		&#60;/ul&#62;
+	&#60;/li&#62;
+&#60;/ul&#62;</content>
+</snippet>

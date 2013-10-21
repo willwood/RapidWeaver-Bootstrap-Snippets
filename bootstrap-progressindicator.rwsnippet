@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet xmlns="http://www.realmacsoftware.com/2007/Snippet/">
+	<title>Bootstrap - Progress indicators</title>
+	<content type="html">&#60;h3&#62;Progress indicators&#60;/h3&#62;
+&#60;p&#62;Although commonly used by developers to indicate when a process is happening on a page (like a form submission or file upload) the progress indicator in Bootstrap is also great to use as a &#39;static&#39; indicator on web pages. For example, if people are reading through pages sequentially on your website (like following a curriculum) you can display their progress at the top of the page like this:&#60;/p&#62;
+
+&#60;p&#62;&#60;strong&#62;Coloured progress bars&#60;/strong&#62;&#60;/p&#62;
+&#60;p&#62;Progress bars use some of the same button and alert classes for consistent styles.&#60;/p&#62;
+&#60;div class=&#34;progress&#34;&#62;
+	&#60;div class=&#34;progress-bar progress-bar-info&#34; style=&#34;width: 20%&#34;&#62;&#60;/div&#62;
+&#60;/div&#62;
+&#60;div class=&#34;progress&#34;&#62;
+	&#60;div class=&#34;progress-bar progress-bar-success&#34; style=&#34;width: 40%&#34;&#62;&#60;/div&#62;
+&#60;/div&#62;
+&#60;div class=&#34;progress&#34;&#62;
+	&#60;div class=&#34;progress-bar progress-bar-warning&#34; style=&#34;width: 60%&#34;&#62;&#60;/div&#62;
+&#60;/div&#62;
+&#60;div class=&#34;progress&#34;&#62;
+	&#60;div class=&#34;progress-bar progress-bar-danger&#34; style=&#34;width: 80%&#34;&#62;&#60;/div&#62;
+&#60;/div&#62;
+
+&#60;p&#62;&#60;strong&#62;Striped progress bars&#60;/strong&#62;&#60;/p&#62;
+&#60;p&#62;Uses a gradient to create a striped effect. Not available in IE8 or less.&#60;/p&#62;
+&#60;div class=&#34;progress progress-striped&#34;&#62;
+	&#60;div class=&#34;progress-bar progress-bar-info&#34; style=&#34;width: 20%&#34;&#62;&#60;/div&#62;
+&#60;/div&#62;
+&#60;div class=&#34;progress progress-striped&#34;&#62;
+	&#60;div class=&#34;progress-bar progress-bar-success&#34; style=&#34;width: 40%&#34;&#62;&#60;/div&#62;
+&#60;/div&#62;
+&#60;div class=&#34;progress progress-striped&#34;&#62;
+	&#60;div class=&#34;progress-bar progress-bar-warning&#34; style=&#34;width: 60%&#34;&#62;&#60;/div&#62;
+&#60;/div&#62;
+&#60;div class=&#34;progress progress-striped&#34;&#62;
+	&#60;div class=&#34;progress-bar progress-bar-danger&#34; style=&#34;width: 80%&#34;&#62;&#60;/div&#62;
+&#60;/div&#62;
+
+&#60;p&#62;&#60;strong&#62;Animated progress bars&#60;/strong&#62;&#60;/p&#62;
+&#60;p&#62;Add &#60;code&#62;active&#60;/code&#62; to &#60;code&#62;progress-striped&#60;/code&#62; to animate the stripes right to left. Not available in any versions of IE or old versions of Firefox, Safari, etc.&#60;/p&#62;
+&#60;div class=&#34;progress progress-striped active&#34;&#62;
+	&#60;div class=&#34;progress-bar progress-bar-info&#34; style=&#34;width: 20%&#34;&#62;&#60;/div&#62;
+&#60;/div&#62;
+&#60;div class=&#34;progress progress-striped active&#34;&#62;
+	&#60;div class=&#34;progress-bar progress-bar-success&#34; style=&#34;width: 40%&#34;&#62;&#60;/div&#62;
+&#60;/div&#62;
+&#60;div class=&#34;progress progress-striped active&#34;&#62;
+	&#60;div class=&#34;progress-bar progress-bar-warning&#34; style=&#34;width: 60%&#34;&#62;&#60;/div&#62;
+&#60;/div&#62;
+&#60;div class=&#34;progress progress-striped active&#34;&#62;
+	&#60;div class=&#34;progress-bar progress-bar-danger&#34; style=&#34;width: 80%&#34;&#62;&#60;/div&#62;
+&#60;/div&#62;
+
+&#60;p&#62;&#60;strong&#62;Stacked progress bars&#60;/strong&#62;&#60;/p&#62;
+&#60;p&#62;Place multiple bars into the same &#60;code&#62;progress&#60;/code&#62; to stack them.&#60;/p&#62;
+&#60;div class=&#34;progress&#34;&#62;
+	&#60;div class=&#34;progress-bar progress-bar-success&#34; style=&#34;width: 35%&#34;&#62;&#60;/div&#62;
+	&#60;div class=&#34;progress-bar progress-bar-warning&#34; style=&#34;width: 20%&#34;&#62;&#60;/div&#62;
+	&#60;div class=&#34;progress-bar progress-bar-danger&#34; style=&#34;width: 10%&#34;&#62;&#60;/div&#62;
+&#60;/div&#62;</content>
+</snippet>

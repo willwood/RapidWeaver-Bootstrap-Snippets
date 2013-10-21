@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet xmlns="http://www.realmacsoftware.com/2007/Snippet/">
+	<title>Bootstrap - Media object</title>
+	<content type="html">&#60;h3&#62;Media object&#60;/h3&#62;
+&#60;p&#62;Media objects feature a left or right aligned media object (like images, video or audio) placed alongside textual content. Use as many or as few media objects as you prefer. Media objects are fully responsive, and you can provide any size of media you prefer.&#60;/p&#62;
+
+&#60;div class=&#34;media&#34;&#62;
+	&#60;a class=&#34;pull-left&#34; href=&#34;#&#34;&#62;
+		&#60;img src=&#34;http://placehold.it/64x64&#34; alt=&#34;Image alt attribute goes here&#34; /&#62;
+	&#60;/a&#62;
+	&#60;div class=&#34;media-body&#34;&#62;
+		&#60;h4 class=&#34;media-heading&#34;&#62;Media heading&#60;/h4&#62;
+		Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
+	&#60;/div&#62;
+&#60;/div&#62;
+
+
+&#60;div class=&#34;media&#34;&#62;
+	&#60;a class=&#34;pull-left&#34; href=&#34;#&#34;&#62;
+		&#60;img src=&#34;http://placehold.it/64x64&#34; alt=&#34;Image alt attribute goes here&#34; /&#62;
+	&#60;/a&#62;
+	&#60;div class=&#34;media-body&#34;&#62;
+		&#60;h4 class=&#34;media-heading&#34;&#62;Media heading&#60;/h4&#62;
+		Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
+	&#60;/div&#62;
+&#60;/div&#62;
+
+
+&#60;div class=&#34;media&#34;&#62;
+	&#60;a class=&#34;pull-left&#34; href=&#34;#&#34;&#62;
+		&#60;img src=&#34;http://placehold.it/64x64&#34; alt=&#34;Image alt attribute goes here&#34; /&#62;
+	&#60;/a&#62;
+	&#60;div class=&#34;media-body&#34;&#62;
+		&#60;h4 class=&#34;media-heading&#34;&#62;Media heading&#60;/h4&#62;
+		Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
+	&#60;/div&#62;
+&#60;/div&#62;
+
+&#60;br /&#62;
+&#60;br /&#62;
+&#60;p&#62;Or you can have the media object floating right instead like this:&#60;/p&#62;
+
+&#60;div class=&#34;media&#34;&#62;
+	&#60;a class=&#34;pull-right&#34; href=&#34;#&#34;&#62;
+		&#60;img src=&#34;http://placehold.it/64x64&#34; alt=&#34;Image alt attribute goes here&#34; /&#62;
+	&#60;/a&#62;
+	&#60;div class=&#34;media-body&#34;&#62;
+		&#60;h4 class=&#34;media-heading&#34;&#62;Media heading&#60;/h4&#62;
+		Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
+	&#60;/div&#62;
+&#60;/div&#62;
+
+
+&#60;div class=&#34;media&#34;&#62;
+	&#60;a class=&#34;pull-right&#34; href=&#34;#&#34;&#62;
+		&#60;img src=&#34;http://placehold.it/64x64&#34; alt=&#34;Image alt attribute goes here&#34; /&#62;
+	&#60;/a&#62;
+	&#60;div class=&#34;media-body&#34;&#62;
+		&#60;h4 class=&#34;media-heading&#34;&#62;Media heading&#60;/h4&#62;
+		Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
+	&#60;/div&#62;
+&#60;/div&#62;
+
+
+&#60;div class=&#34;media&#34;&#62;
+	&#60;a class=&#34;pull-right&#34; href=&#34;#&#34;&#62;
+		&#60;img src=&#34;http://placehold.it/64x64&#34; alt=&#34;Image alt attribute goes here&#34; /&#62;
+	&#60;/a&#62;
+	&#60;div class=&#34;media-body&#34;&#62;
+		&#60;h4 class=&#34;media-heading&#34;&#62;Media heading&#60;/h4&#62;
+		Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
+	&#60;/div&#62;
+&#60;/div&#62;</content>
+</snippet>

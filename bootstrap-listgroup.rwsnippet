@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet xmlns="http://www.realmacsoftware.com/2007/Snippet/">
+	<title>Bootstrap - List Groups</title>
+	<content type="html">&#60;h3&#62;Basic list group&#60;/h3&#62;
+&#60;p&#62;The most basic list group available is simply an unordered list. Build upon it with the options that follow, or your own CSS as needed.&#60;/p&#62;
+
+&#60;ul class=&#34;list-group&#34;&#62;
+&#60;li class=&#34;list-group-item&#34;&#62;Monday&#60;/li&#62;
+&#60;li class=&#34;list-group-item&#34;&#62;Tuesday&#60;/li&#62;
+&#60;li class=&#34;list-group-item&#34;&#62;Wednesday&#60;/li&#62;
+&#60;li class=&#34;list-group-item&#34;&#62;Thursday&#60;/li&#62;
+&#60;li class=&#34;list-group-item&#34;&#62;Friday&#60;/li&#62;
+&#60;li class=&#34;list-group-item&#34;&#62;Saturday&#60;/li&#62;
+&#60;li class=&#34;list-group-item&#34;&#62;Sunday&#60;/li&#62;
+&#60;/ul&#62;
+
+&#60;h3&#62;List group with badges&#60;/h3&#62;
+&#60;p&#62;Add the badges component to any list group item and it will automatically be positioned on the right.&#60;/p&#62;
+
+&#60;ul class=&#34;list-group&#34;&#62;
+&#60;li class=&#34;list-group-item&#34;&#62;Monday&#60;span class=&#34;badge&#34;&#62;2&#60;/span&#62;&#60;/li&#62;
+&#60;li class=&#34;list-group-item&#34;&#62;Tuesday&#60;span class=&#34;badge&#34;&#62;16&#60;/span&#62;&#60;/li&#62;
+&#60;li class=&#34;list-group-item&#34;&#62;Wednesday&#60;span class=&#34;badge&#34;&#62;3&#60;/span&#62;&#60;/li&#62;
+&#60;li class=&#34;list-group-item&#34;&#62;Thursday&#60;span class=&#34;badge&#34;&#62;6&#60;/span&#62;&#60;/li&#62;
+&#60;li class=&#34;list-group-item&#34;&#62;Friday&#60;span class=&#34;badge&#34;&#62;14&#60;/span&#62;&#60;/li&#62;
+&#60;li class=&#34;list-group-item&#34;&#62;Saturday&#60;span class=&#34;badge&#34;&#62;4&#60;/span&#62;&#60;/li&#62;
+&#60;li class=&#34;list-group-item&#34;&#62;Sunday&#60;span class=&#34;badge&#34;&#62;3&#60;/span&#62;&#60;/li&#62;
+&#60;/ul&#62;
+
+&#60;h3&#62;Linked list group&#60;/h3&#62;
+&#60;p&#62;Linkify list group items by using anchor tags instead of list items (that also means a parent &#60;code&#62;&#38;lt;div&#62;&#60;/code&#62; instead of an &#60;code&#62;&#38;lt;ul&#62;&#60;/code&#62;). No need for individual parents around each element.&#60;/p&#62;
+
+&#60;div class=&#34;list-group&#34;&#62;
+&#60;a href=&#34;http://example.com&#34; class=&#34;list-group-item active&#34;&#62;
+Monday
+&#60;/a&#62;
+&#60;a href=&#34;http://example.com&#34; class=&#34;list-group-item&#34;&#62;
+Tuesday
+&#60;/a&#62;
+&#60;a href=&#34;http://example.com&#34; class=&#34;list-group-item&#34;&#62;
+Wednesday
+&#60;/a&#62;
+&#60;a href=&#34;http://example.com&#34; class=&#34;list-group-item&#34;&#62;
+Thursday
+&#60;/a&#62;
+&#60;a href=&#34;http://example.com&#34; class=&#34;list-group-item&#34;&#62;
+Friday
+&#60;/a&#62;
+&#60;a href=&#34;http://example.com&#34; class=&#34;list-group-item&#34;&#62;
+Saturday
+&#60;/a&#62;
+&#60;a href=&#34;http://example.com&#34; class=&#34;list-group-item&#34;&#62;
+Sunday
+&#60;/a&#62;
+&#60;/div&#62;
+
+&#60;h3&#62;Custom content list group&#60;/h3&#62;
+&#60;p&#62;Add nearly any HTML within, even for linked list groups like the one below.&#60;/p&#62;
+
+&#60;div class=&#34;list-group&#34;&#62;
+&#60;a href=&#34;#&#34; class=&#34;list-group-item&#34;&#62;
+	&#60;h4 class=&#34;list-group-item-heading&#34;&#62;Monday&#60;/h4&#62;
+	&#60;p class=&#34;list-group-item-text&#34;&#62;Arrive at the camp. Setup tents and get the fire lit.&#60;/p&#62;
+&#60;/a&#62;
+&#60;a href=&#34;#&#34; class=&#34;list-group-item&#34;&#62;
+	&#60;h4 class=&#34;list-group-item-heading&#34;&#62;Tuesday&#60;/h4&#62;
+	&#60;p class=&#34;list-group-item-text&#34;&#62;Team building exercises and parachute games.&#60;/p&#62;
+&#60;/a&#62;
+&#60;a href=&#34;#&#34; class=&#34;list-group-item&#34;&#62;
+	&#60;h4 class=&#34;list-group-item-heading&#34;&#62;Wednesday&#60;/h4&#62;
+	&#60;p class=&#34;list-group-item-text&#34;&#62;Rock climbing and abseiling at North Ridge mountain.&#60;/p&#62;
+&#60;/a&#62;
+&#60;a href=&#34;#&#34; class=&#34;list-group-item&#34;&#62;
+	&#60;h4 class=&#34;list-group-item-heading&#34;&#62;Thursday&#60;/h4&#62;
+	&#60;p class=&#34;list-group-item-text&#34;&#62;Ferry trip down to Queens Quay and steam train ride back.&#60;/p&#62;
+&#60;/a&#62;
+&#60;a href=&#34;#&#34; class=&#34;list-group-item&#34;&#62;
+	&#60;h4 class=&#34;list-group-item-heading&#34;&#62;Friday&#60;/h4&#62;
+	&#60;p class=&#34;list-group-item-text&#34;&#62;Kayaking on the Great East River.&#60;/p&#62;
+&#60;/a&#62;
+&#60;a href=&#34;#&#34; class=&#34;list-group-item&#34;&#62;
+	&#60;h4 class=&#34;list-group-item-heading&#34;&#62;Saturday&#60;/h4&#62;
+	&#60;p class=&#34;list-group-item-text&#34;&#62;Games day. Lots of fun competitions and an evening party.&#60;/p&#62;
+&#60;/a&#62;
+&#60;a href=&#34;#&#34; class=&#34;list-group-item&#34;&#62;
+	&#60;h4 class=&#34;list-group-item-heading&#34;&#62;Sunday&#60;/h4&#62;
+	&#60;p class=&#34;list-group-item-text&#34;&#62;30 mile cycle ride through the Dark Forest to West Peak.&#60;/p&#62;
+&#60;/a&#62;
+&#60;/div&#62;</content>
+</snippet>

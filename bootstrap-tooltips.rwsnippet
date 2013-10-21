@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet xmlns="http://www.realmacsoftware.com/2007/Snippet/">
+	<title>Bootstrap - Tooltips</title>
+	<content type="html">&#60;h3&#62;Tooltips&#60;/h3&#62;
+&#60;p&#62;Inspired by the excellent jQuery.tipsy plugin written by Jason Frame; Tooltips are an updated version, which don&#39;t rely on images, use CSS3 for animations, and data-attributes for local title storage.Hover over the links below to see tooltips:&#60;/p&#62;
+
+&#60;!-- This is just some example HTML code with tooltips applied using HTML5 data attributes --&#62;
+&#60;p class=&#34;muted&#34; style=&#34;margin-bottom: 0;&#34;&#62;Tight pants next level keffiyeh &#60;a href=&#34;#&#34; data-toggle=&#34;tooltip&#34; data-placement=&#34;top&#34; title=&#34;&#34; data-original-title=&#34;Default tooltip&#34;&#62;you probably&#60;/a&#62; haven&#39;t heard of them. Photo booth beard raw denim letterpress vegan messenger bag stumptown. Farm-to-table seitan, mcsweeney&#39;s fixie sustainable quinoa 8-bit american apparel &#60;a href=&#34;#&#34; data-toggle=&#34;tooltip&#34; data-placement=&#34;left&#34; title=&#34;Another tooltip&#34;&#62;have a&#60;/a&#62; terry richardson vinyl chambray. Beard stumptown, cardigans banh mi lomo thundercats. Tofu biodiesel williamsburg marfa, four loko mcsweeney&#39;s cleanse vegan chambray. A really ironic artisan &#60;a href=&#34;#&#34; data-toggle=&#34;tooltip&#34; data-placement=&#34;right&#34; title=&#34;&#34; data-original-title=&#34;A much longer tooltip belongs right here to demonstrate the max-width we apply.&#34;&#62;whatever keytar&#60;/a&#62;, scenester farm-to-table banksy &#60;br /&#62;Austin &#60;a href=&#34;#&#34; data-toggle=&#34;tooltip&#34; data-placement=&#34;bottom&#34; title=&#34;The last tip!&#34;&#62;twitter handle&#60;/a&#62; freegan cred raw denim single-origin coffee viral.&#60;/p&#62;
+
+&#60;!-- This code snippet requires jQuery, bootstrap.js and some Javascript --&#62;
+&#60;script src=&#34;https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js&#34;&#62;&#60;/script&#62;
+&#60;script type=&#34;text/javascript&#34; src=&#34;%pathto(bootstrap/js/bootstrap.min.js)%&#34;&#62;&#60;/script&#62;
+&#60;script type=&#34;text/javascript&#34;&#62;
+$(document).ready(function() {
+	$(&#39;#content&#39;).tooltip({
+		html: true,
+		selector: &#34;a[data-toggle=tooltip]&#34;
+	})
+});
+&#60;/script&#62;</content>
+</snippet>

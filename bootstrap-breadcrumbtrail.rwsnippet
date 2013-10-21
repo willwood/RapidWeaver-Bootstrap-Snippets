@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet xmlns="http://www.realmacsoftware.com/2007/Snippet/">
+	<title>Bootstrap - Breadcrumb trail</title>
+	<content type="html">&#60;h3&#62;Breadcrumb trail&#60;/h3&#62;
+&#60;p&#62;Indicate the current page&#39;s location within a navigational hierarchy, or just display a string of useful links. Separators are automatically added in CSS through &#60;code&#62;:before&#60;/code&#62; and &#60;code&#62;content&#60;/code&#62;.&#60;/p&#62;
+
+&#60;ul class=&#34;breadcrumb&#34;&#62;
+	&#60;li&#62;&#60;a href=&#34;http://example.com&#34;&#62;Home&#60;/a&#62;&#60;/li&#62;
+	&#60;li&#62;&#60;a href=&#34;http://example.com&#34;&#62;Library&#60;/a&#62;&#60;/li&#62;
+	&#60;li&#62;&#60;a href=&#34;http://example.com&#34;&#62;Resources&#60;/a&#62;&#60;/li&#62;
+	&#60;li&#62;&#60;a href=&#34;http://example.com&#34;&#62;2013&#60;/a&#62;&#60;/li&#62;
+	&#60;li class=&#34;active&#34;&#62;Data&#60;/li&#62;
+&#60;/ul&#62;</content>
+</snippet>
