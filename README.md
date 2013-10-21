@@ -38,7 +38,7 @@ The official [Twitter Bootstrap](http://getbootstrap.com/) website has working e
 
 RapidWeaver Bootstrap snippets tend to include a title and brief comments relating to setup and usage in the top of the snippets. These comments will include any important information.
 
-The [ThemeFlood theme user guide](http://www.themeflood.com/support/userguide/) has a whole chapter dedicated to use of Bootstrap in ThemeFlood RapidWeaver themes. If you need help with using a ThemeFlood theme, then you can also get in contact via the website.
+The [ThemeFlood theme user guide](http://www.themeflood.com/support/userguide/) has a whole chapter dedicated to use of Bootstrap in ThemeFlood RapidWeaver themes. If you need help with using a ThemeFlood theme, then you can also get in contact via [the website](http://themeflood.com/).
 
 ##Contribute
 The [RapidWeaver Bootstrap Snippets](https://github.com/willwood/RapidWeaver-Bootstrap-Snippets) project is very much a community-led project and actively encourages input from any interested individuals or companies. 
@@ -53,11 +53,17 @@ The easiest option is to clone this repository in software like SourceTree or Gi
 
 	https://github.com/willwood/RapidWeaver-Bootstrap-Snippets.git
 	
-When new commits are made, you will get notification of these. 
+When new commits are made, you will get notification of these and details about what has changed. 
 
-The other option is to just periodically download the snippets and overwrite them with ones you may already have.
+The other option is to just periodically download the snippets and overwrite the ones you already have installed with the latest ones in the package.
+
+##Extra snippets
+Alongside Bootstrap code snippets, the repository also includes code snippets for [ExtraContent](https://github.com/seyDoggy/ExtraContent), FreeStyle banner containers and [Font Awesome Icons](http://fortawesome.github.io/Font-Awesome/). These three code snippets are commonly used in conjunction with Bootstrap, so are included for added convenience.
+
+##License
+The RapidWeaver Bootstrap Snippets are dual licensed under [MIT](http://opensource.org/licenses/MIT) and [GPL-v3](http://www.gnu.org/copyleft/gpl.html). This grants you almost complete freedom to download, modify and redistribute any of the snippets, plus the ability to bundle them as part of other projects or to resell them.
 
 ##Footnotes
-RapidWeaver is a trademark of Realmac Software LTD, Brighton UK.
+RapidWeaver is a trademark of Realmac Software LTD, Brighton, UK.
 
-Repository maintained by [Will Woodgate](http://about.me/willwoodgate).
+The RapidWeaver Bootstrap Snippets repository maintained by [Will Woodgate](http://about.me/willwoodgate).
