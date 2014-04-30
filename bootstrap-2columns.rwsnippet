@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet xmlns="http://www.realmacsoftware.com/2007/Snippet/">
+	<title>Bootstrap - 2 Columns</title>
+	<content type="html">&#60;h3&#62;Two Column Snippet&#60;/h3&#62;
+&#60;p&#62;A simple two column snippet.&#60;/p&#62;
+
+&#60;div class=&#34;row&#34;&#62;
+	&#60;div class=&#34;col-sm-6&#34;&#62;
+		&#60;h3&#62;An H3 level heading&#60;/h3&#62;
+		&#60;p&#62;Lorem ipsum dolor sit amet, sapien platea morbi dolor lacus nunc, nunc ullamcorper. Felis aliquet egestas vitae, nibh ante quis quis dolor sed mauris. Erat lectus sem ut lobortis, adipiscing ligula eleifend, sodales fringilla mattis dui nullam. Ac massa aliquet.&#60;/p&#62;
+	&#60;/div&#62;&#60;!--/col-sm-6--&#62;
+	&#60;div class=&#34;col-sm-6&#34;&#62;
+		&#60;h3&#62;An H3 level heading&#60;/h3&#62;
+		&#60;p&#62;Lorem ipsum dolor sit amet, sapien platea morbi dolor lacus nunc, nunc ullamcorper. Felis aliquet egestas vitae, nibh ante quis quis dolor sed mauris. Erat lectus sem ut lobortis, adipiscing ligula eleifend, sodales fringilla mattis dui nullam. Ac massa aliquet.&#60;/p&#62;
+	&#60;/div&#62;&#60;!--/col-sm-6--&#62;
+&#60;/div&#62;&#60;!--/row--&#62;</content>
+</snippet>
