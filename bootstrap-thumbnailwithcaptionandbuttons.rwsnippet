@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet xmlns="http://www.realmacsoftware.com/2007/Snippet/">
+	<title>Bootstrap - Thumbnail with caption and buttons</title>
+	<content type="html">&#60;h3&#62;Thumbnail with caption, description and buttons&#60;/h3&#62;
+&#60;p&#62;Four responsive Bootstrap columns; each featuring a bordered thumbnail container, a thumbnail image, description and small buttons inside. Ideal for the display of products or services for sale and a landing page with links through to subpages.&#60;/p&#62;
+
+&#60;div class=&#34;row&#34;&#62;
+	&#60;div class=&#34;col-xs-18 col-sm-6 col-md-3&#34;&#62;
+		&#60;div class=&#34;thumbnail&#34;&#62;
+			&#60;img src=&#34;http://placehold.it/500x300&#34; alt=&#34;&#34;&#62;
+			&#60;div class=&#34;caption&#34;&#62;
+				&#60;h4&#62;Thumbnail label&#60;/h4&#62;
+				&#60;p&#62;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere, soluta, eligendi doloribus sunt minus amet sit debitis repellat. Consectetur, culpa itaque odio similique suscipit&#60;/p&#62;
+				&#60;p&#62;&#60;a href=&#34;#&#34; class=&#34;btn btn-info btn-xs&#34; role=&#34;button&#34;&#62;Button&#60;/a&#62; &#60;a href=&#34;#&#34; class=&#34;btn btn-default btn-xs&#34; role=&#34;button&#34;&#62;Button&#60;/a&#62;&#60;/p&#62;
+			&#60;/div&#62;&#60;!--/caption--&#62;
+		&#60;/div&#62;&#60;!--/thumbnail--&#62;
+	&#60;/div&#62;&#60;!--/col--&#62;
+
+	&#60;div class=&#34;col-xs-18 col-sm-6 col-md-3&#34;&#62;
+		&#60;div class=&#34;thumbnail&#34;&#62;
+			&#60;img src=&#34;http://placehold.it/500x300&#34; alt=&#34;&#34;&#62;
+			&#60;div class=&#34;caption&#34;&#62;
+				&#60;h4&#62;Thumbnail label&#60;/h4&#62;
+				&#60;p&#62;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere, soluta, eligendi doloribus sunt minus amet sit debitis repellat. Consectetur, culpa itaque odio similique suscipit&#60;/p&#62;
+				&#60;p&#62;&#60;a href=&#34;#&#34; class=&#34;btn btn-info btn-xs&#34; role=&#34;button&#34;&#62;Button&#60;/a&#62; &#60;a href=&#34;#&#34; class=&#34;btn btn-default btn-xs&#34; role=&#34;button&#34;&#62;Button&#60;/a&#62;&#60;/p&#62;
+			&#60;/div&#62;&#60;!--/caption--&#62;
+		&#60;/div&#62;&#60;!--/thumbnail--&#62;
+	&#60;/div&#62;&#60;!--/col--&#62;
+
+	&#60;div class=&#34;col-xs-18 col-sm-6 col-md-3&#34;&#62;
+		&#60;div class=&#34;thumbnail&#34;&#62;
+			&#60;img src=&#34;http://placehold.it/500x300&#34; alt=&#34;&#34;&#62;
+			&#60;div class=&#34;caption&#34;&#62;
+				&#60;h4&#62;Thumbnail label&#60;/h4&#62;
+				&#60;p&#62;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere, soluta, eligendi doloribus sunt minus amet sit debitis repellat. Consectetur, culpa itaque odio similique suscipit&#60;/p&#62;
+				&#60;p&#62;&#60;a href=&#34;#&#34; class=&#34;btn btn-info btn-xs&#34; role=&#34;button&#34;&#62;Button&#60;/a&#62; &#60;a href=&#34;#&#34; class=&#34;btn btn-default btn-xs&#34; role=&#34;button&#34;&#62;Button&#60;/a&#62;&#60;/p&#62;
+			&#60;/div&#62;&#60;!--/caption--&#62;
+		&#60;/div&#62;&#60;!--/thumbnail--&#62;
+	&#60;/div&#62;&#60;!--/col--&#62;
+
+	&#60;div class=&#34;col-xs-18 col-sm-6 col-md-3&#34;&#62;
+		&#60;div class=&#34;thumbnail&#34;&#62;
+			&#60;img src=&#34;http://placehold.it/500x300&#34; alt=&#34;&#34;&#62;
+			&#60;div class=&#34;caption&#34;&#62;
+				&#60;h4&#62;Thumbnail label&#60;/h4&#62;
+				&#60;p&#62;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere, soluta, eligendi doloribus sunt minus amet sit debitis repellat. Consectetur, culpa itaque odio similique suscipit&#60;/p&#62;
+				&#60;p&#62;&#60;a href=&#34;#&#34; class=&#34;btn btn-info btn-xs&#34; role=&#34;button&#34;&#62;Button&#60;/a&#62; &#60;a href=&#34;#&#34; class=&#34;btn btn-default btn-xs&#34; role=&#34;button&#34;&#62;Button&#60;/a&#62;&#60;/p&#62;
+			&#60;/div&#62;&#60;!--/caption--&#62;
+		&#60;/div&#62;&#60;!--/thumbnail--&#62;
+	&#60;/div&#62;&#60;!--/col--&#62;
+&#60;/div&#62;&#60;!-- End row --&#62;</content>
+</snippet>
