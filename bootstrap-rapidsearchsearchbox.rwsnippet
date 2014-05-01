@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet xmlns="http://www.realmacsoftware.com/2007/Snippet/">
+	<title>Bootstrap - RapidSearch search box</title>
+	<content type="html">&#60;h3&#62;RapidSearch search box&#60;/h3&#62;
+&#60;p&#62;This RapidSearch search box Bootstrap snippet is designed to be used with the RapidSearch and RapidSearch Pro plugins developed and sold by &#60;a href=&#34;http://www.nimblehost.com/&#34;&#62;Nimblehost&#60;/a&#62;, for RapidWeaver. However you could possibly customise this snippet to work with many other search platforms too (like Amazon or IMDB). To use this snippet, all you need to do is to customise the &#60;code&#62;action&#60;/code&#62; attribute, to ensure the URL points to the search page on your website. Then any keywords entered into the search box will sent to the search page and processed, when the search form is submitted by your website users. The search icon shown on the right of the input box is achieved using a Font Awesome Icon, but you can change this for another icon if you prefer. The search box scales horizontally to fit any area of your page, including an ExtraContent container or a sidebar.&#60;/p&#62;
+
+&#60;form action=&#34;http://example.com/search.html&#34; method=&#34;get&#34; class=&#34;input-group rapidsearch-search-form&#34; role=&#34;search&#34;&#62;
+	&#60;input type=&#34;text&#34; class=&#34;form-control&#34; placeholder=&#34;Search...&#34;&#62;
+	&#60;span class=&#34;input-group-btn&#34;&#62;
+		&#60;button class=&#34;btn btn-default&#34; type=&#34;button&#34;&#62;
+			&#60;span class=&#34;fa fa-search&#34;&#62;&#60;/span&#62;
+		&#60;/button&#62;
+	&#60;/span&#62;
+&#60;/form&#62;</content>
+</snippet>
