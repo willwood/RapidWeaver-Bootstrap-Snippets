@@ -1,0 +1,1499 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet xmlns="http://www.realmacsoftware.com/2007/Snippet/">
+	<title>Font Awesome 4.1.0</title>
+	<content type="html">&#60;h1&#62;Font Awesome Icons - Version 4.1.0&#60;/h1&#62;
+Official website: &#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/&#34;&#62;http://fortawesome.github.io/Font-Awesome/&#60;/a&#62;&#60;br /&#62;
+RapidWeaver Bootstrap snippet repository: &#60;a href=&#34;https://github.com/willwood/RapidWeaver-Bootstrap-Snippets&#34;&#62;https://github.com/willwood/RapidWeaver-Bootstrap-Snippets&#60;/a&#62;
+
+&#60;div id=&#34;new&#34;&#62;
+&#60;h2 class=&#34;page-header&#34;&#62;71 New Icons in 4.1&#60;/h2&#62;  
+&#60;div class=&#34;row fontawesome-icon-list&#34;&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/car&#34;&#62;&#60;i class=&#34;fa fa-automobile&#34;&#62;&#60;/i&#62; fa-automobile &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/university&#34;&#62;&#60;i class=&#34;fa fa-bank&#34;&#62;&#60;/i&#62; fa-bank &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/behance&#34;&#62;&#60;i class=&#34;fa fa-behance&#34;&#62;&#60;/i&#62; fa-behance&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/behance-square&#34;&#62;&#60;i class=&#34;fa fa-behance-square&#34;&#62;&#60;/i&#62; fa-behance-square&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/bomb&#34;&#62;&#60;i class=&#34;fa fa-bomb&#34;&#62;&#60;/i&#62; fa-bomb&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/building&#34;&#62;&#60;i class=&#34;fa fa-building&#34;&#62;&#60;/i&#62; fa-building&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/taxi&#34;&#62;&#60;i class=&#34;fa fa-cab&#34;&#62;&#60;/i&#62; fa-cab &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/car&#34;&#62;&#60;i class=&#34;fa fa-car&#34;&#62;&#60;/i&#62; fa-car&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/child&#34;&#62;&#60;i class=&#34;fa fa-child&#34;&#62;&#60;/i&#62; fa-child&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/circle-o-notch&#34;&#62;&#60;i class=&#34;fa fa-circle-o-notch&#34;&#62;&#60;/i&#62; fa-circle-o-notch&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/circle-thin&#34;&#62;&#60;i class=&#34;fa fa-circle-thin&#34;&#62;&#60;/i&#62; fa-circle-thin&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/codepen&#34;&#62;&#60;i class=&#34;fa fa-codepen&#34;&#62;&#60;/i&#62; fa-codepen&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/cube&#34;&#62;&#60;i class=&#34;fa fa-cube&#34;&#62;&#60;/i&#62; fa-cube&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/cubes&#34;&#62;&#60;i class=&#34;fa fa-cubes&#34;&#62;&#60;/i&#62; fa-cubes&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/database&#34;&#62;&#60;i class=&#34;fa fa-database&#34;&#62;&#60;/i&#62; fa-database&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/delicious&#34;&#62;&#60;i class=&#34;fa fa-delicious&#34;&#62;&#60;/i&#62; fa-delicious&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/deviantart&#34;&#62;&#60;i class=&#34;fa fa-deviantart&#34;&#62;&#60;/i&#62; fa-deviantart&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/digg&#34;&#62;&#60;i class=&#34;fa fa-digg&#34;&#62;&#60;/i&#62; fa-digg&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/drupal&#34;&#62;&#60;i class=&#34;fa fa-drupal&#34;&#62;&#60;/i&#62; fa-drupal&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/empire&#34;&#62;&#60;i class=&#34;fa fa-empire&#34;&#62;&#60;/i&#62; fa-empire&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/envelope-square&#34;&#62;&#60;i class=&#34;fa fa-envelope-square&#34;&#62;&#60;/i&#62; fa-envelope-square&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/fax&#34;&#62;&#60;i class=&#34;fa fa-fax&#34;&#62;&#60;/i&#62; fa-fax&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/file-archive-o&#34;&#62;&#60;i class=&#34;fa fa-file-archive-o&#34;&#62;&#60;/i&#62; fa-file-archive-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/file-audio-o&#34;&#62;&#60;i class=&#34;fa fa-file-audio-o&#34;&#62;&#60;/i&#62; fa-file-audio-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/file-code-o&#34;&#62;&#60;i class=&#34;fa fa-file-code-o&#34;&#62;&#60;/i&#62; fa-file-code-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/file-excel-o&#34;&#62;&#60;i class=&#34;fa fa-file-excel-o&#34;&#62;&#60;/i&#62; fa-file-excel-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/file-image-o&#34;&#62;&#60;i class=&#34;fa fa-file-image-o&#34;&#62;&#60;/i&#62; fa-file-image-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/file-video-o&#34;&#62;&#60;i class=&#34;fa fa-file-movie-o&#34;&#62;&#60;/i&#62; fa-file-movie-o &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/file-pdf-o&#34;&#62;&#60;i class=&#34;fa fa-file-pdf-o&#34;&#62;&#60;/i&#62; fa-file-pdf-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/file-image-o&#34;&#62;&#60;i class=&#34;fa fa-file-photo-o&#34;&#62;&#60;/i&#62; fa-file-photo-o &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/file-image-o&#34;&#62;&#60;i class=&#34;fa fa-file-picture-o&#34;&#62;&#60;/i&#62; fa-file-picture-o &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/file-powerpoint-o&#34;&#62;&#60;i class=&#34;fa fa-file-powerpoint-o&#34;&#62;&#60;/i&#62; fa-file-powerpoint-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/file-audio-o&#34;&#62;&#60;i class=&#34;fa fa-file-sound-o&#34;&#62;&#60;/i&#62; fa-file-sound-o &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/file-video-o&#34;&#62;&#60;i class=&#34;fa fa-file-video-o&#34;&#62;&#60;/i&#62; fa-file-video-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/file-word-o&#34;&#62;&#60;i class=&#34;fa fa-file-word-o&#34;&#62;&#60;/i&#62; fa-file-word-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/file-archive-o&#34;&#62;&#60;i class=&#34;fa fa-file-zip-o&#34;&#62;&#60;/i&#62; fa-file-zip-o &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/empire&#34;&#62;&#60;i class=&#34;fa fa-ge&#34;&#62;&#60;/i&#62; fa-ge &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/git&#34;&#62;&#60;i class=&#34;fa fa-git&#34;&#62;&#60;/i&#62; fa-git&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/git-square&#34;&#62;&#60;i class=&#34;fa fa-git-square&#34;&#62;&#60;/i&#62; fa-git-square&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/google&#34;&#62;&#60;i class=&#34;fa fa-google&#34;&#62;&#60;/i&#62; fa-google&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/graduation-cap&#34;&#62;&#60;i class=&#34;fa fa-graduation-cap&#34;&#62;&#60;/i&#62; fa-graduation-cap&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/hacker-news&#34;&#62;&#60;i class=&#34;fa fa-hacker-news&#34;&#62;&#60;/i&#62; fa-hacker-news&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/header&#34;&#62;&#60;i class=&#34;fa fa-header&#34;&#62;&#60;/i&#62; fa-header&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/history&#34;&#62;&#60;i class=&#34;fa fa-history&#34;&#62;&#60;/i&#62; fa-history&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/university&#34;&#62;&#60;i class=&#34;fa fa-institution&#34;&#62;&#60;/i&#62; fa-institution &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/joomla&#34;&#62;&#60;i class=&#34;fa fa-joomla&#34;&#62;&#60;/i&#62; fa-joomla&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/jsfiddle&#34;&#62;&#60;i class=&#34;fa fa-jsfiddle&#34;&#62;&#60;/i&#62; fa-jsfiddle&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/language&#34;&#62;&#60;i class=&#34;fa fa-language&#34;&#62;&#60;/i&#62; fa-language&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/life-ring&#34;&#62;&#60;i class=&#34;fa fa-life-bouy&#34;&#62;&#60;/i&#62; fa-life-bouy &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/life-ring&#34;&#62;&#60;i class=&#34;fa fa-life-ring&#34;&#62;&#60;/i&#62; fa-life-ring&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/life-ring&#34;&#62;&#60;i class=&#34;fa fa-life-saver&#34;&#62;&#60;/i&#62; fa-life-saver &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/graduation-cap&#34;&#62;&#60;i class=&#34;fa fa-mortar-board&#34;&#62;&#60;/i&#62; fa-mortar-board &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/openid&#34;&#62;&#60;i class=&#34;fa fa-openid&#34;&#62;&#60;/i&#62; fa-openid&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/paper-plane&#34;&#62;&#60;i class=&#34;fa fa-paper-plane&#34;&#62;&#60;/i&#62; fa-paper-plane&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/paper-plane-o&#34;&#62;&#60;i class=&#34;fa fa-paper-plane-o&#34;&#62;&#60;/i&#62; fa-paper-plane-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/paragraph&#34;&#62;&#60;i class=&#34;fa fa-paragraph&#34;&#62;&#60;/i&#62; fa-paragraph&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/paw&#34;&#62;&#60;i class=&#34;fa fa-paw&#34;&#62;&#60;/i&#62; fa-paw&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/pied-piper&#34;&#62;&#60;i class=&#34;fa fa-pied-piper&#34;&#62;&#60;/i&#62; fa-pied-piper&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/pied-piper-alt&#34;&#62;&#60;i class=&#34;fa fa-pied-piper-alt&#34;&#62;&#60;/i&#62; fa-pied-piper-alt&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/pied-piper&#34;&#62;&#60;i class=&#34;fa fa-pied-piper-square&#34;&#62;&#60;/i&#62; fa-pied-piper-square &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/qq&#34;&#62;&#60;i class=&#34;fa fa-qq&#34;&#62;&#60;/i&#62; fa-qq&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/rebel&#34;&#62;&#60;i class=&#34;fa fa-ra&#34;&#62;&#60;/i&#62; fa-ra &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/rebel&#34;&#62;&#60;i class=&#34;fa fa-rebel&#34;&#62;&#60;/i&#62; fa-rebel&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/recycle&#34;&#62;&#60;i class=&#34;fa fa-recycle&#34;&#62;&#60;/i&#62; fa-recycle&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/reddit&#34;&#62;&#60;i class=&#34;fa fa-reddit&#34;&#62;&#60;/i&#62; fa-reddit&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/reddit-square&#34;&#62;&#60;i class=&#34;fa fa-reddit-square&#34;&#62;&#60;/i&#62; fa-reddit-square&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/paper-plane&#34;&#62;&#60;i class=&#34;fa fa-send&#34;&#62;&#60;/i&#62; fa-send &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/paper-plane-o&#34;&#62;&#60;i class=&#34;fa fa-send-o&#34;&#62;&#60;/i&#62; fa-send-o &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/share-alt&#34;&#62;&#60;i class=&#34;fa fa-share-alt&#34;&#62;&#60;/i&#62; fa-share-alt&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/share-alt-square&#34;&#62;&#60;i class=&#34;fa fa-share-alt-square&#34;&#62;&#60;/i&#62; fa-share-alt-square&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/slack&#34;&#62;&#60;i class=&#34;fa fa-slack&#34;&#62;&#60;/i&#62; fa-slack&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/sliders&#34;&#62;&#60;i class=&#34;fa fa-sliders&#34;&#62;&#60;/i&#62; fa-sliders&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/soundcloud&#34;&#62;&#60;i class=&#34;fa fa-soundcloud&#34;&#62;&#60;/i&#62; fa-soundcloud&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/space-shuttle&#34;&#62;&#60;i class=&#34;fa fa-space-shuttle&#34;&#62;&#60;/i&#62; fa-space-shuttle&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/spoon&#34;&#62;&#60;i class=&#34;fa fa-spoon&#34;&#62;&#60;/i&#62; fa-spoon&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/spotify&#34;&#62;&#60;i class=&#34;fa fa-spotify&#34;&#62;&#60;/i&#62; fa-spotify&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/steam&#34;&#62;&#60;i class=&#34;fa fa-steam&#34;&#62;&#60;/i&#62; fa-steam&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/steam-square&#34;&#62;&#60;i class=&#34;fa fa-steam-square&#34;&#62;&#60;/i&#62; fa-steam-square&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/stumbleupon&#34;&#62;&#60;i class=&#34;fa fa-stumbleupon&#34;&#62;&#60;/i&#62; fa-stumbleupon&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/stumbleupon-circle&#34;&#62;&#60;i class=&#34;fa fa-stumbleupon-circle&#34;&#62;&#60;/i&#62; fa-stumbleupon-circle&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/life-ring&#34;&#62;&#60;i class=&#34;fa fa-support&#34;&#62;&#60;/i&#62; fa-support &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/taxi&#34;&#62;&#60;i class=&#34;fa fa-taxi&#34;&#62;&#60;/i&#62; fa-taxi&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/tencent-weibo&#34;&#62;&#60;i class=&#34;fa fa-tencent-weibo&#34;&#62;&#60;/i&#62; fa-tencent-weibo&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/tree&#34;&#62;&#60;i class=&#34;fa fa-tree&#34;&#62;&#60;/i&#62; fa-tree&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/university&#34;&#62;&#60;i class=&#34;fa fa-university&#34;&#62;&#60;/i&#62; fa-university&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/vine&#34;&#62;&#60;i class=&#34;fa fa-vine&#34;&#62;&#60;/i&#62; fa-vine&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/weixin&#34;&#62;&#60;i class=&#34;fa fa-wechat&#34;&#62;&#60;/i&#62; fa-wechat &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/weixin&#34;&#62;&#60;i class=&#34;fa fa-weixin&#34;&#62;&#60;/i&#62; fa-weixin&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/wordpress&#34;&#62;&#60;i class=&#34;fa fa-wordpress&#34;&#62;&#60;/i&#62; fa-wordpress&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/yahoo&#34;&#62;&#60;i class=&#34;fa fa-yahoo&#34;&#62;&#60;/i&#62; fa-yahoo&#60;/a&#62;&#60;/div&#62;
+
+&#60;/div&#62;
+&#60;/div&#62;
+
+&#60;section id=&#34;web-application&#34;&#62;
+&#60;h2 class=&#34;page-header&#34;&#62;Web Application Icons&#60;/h2&#62;
+&#60;div class=&#34;row fontawesome-icon-list&#34;&#62;
+  
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/adjust&#34;&#62;&#60;i class=&#34;fa fa-adjust&#34;&#62;&#60;/i&#62; fa-adjust&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/anchor&#34;&#62;&#60;i class=&#34;fa fa-anchor&#34;&#62;&#60;/i&#62; fa-anchor&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/archive&#34;&#62;&#60;i class=&#34;fa fa-archive&#34;&#62;&#60;/i&#62; fa-archive&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/arrows&#34;&#62;&#60;i class=&#34;fa fa-arrows&#34;&#62;&#60;/i&#62; fa-arrows&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/arrows-h&#34;&#62;&#60;i class=&#34;fa fa-arrows-h&#34;&#62;&#60;/i&#62; fa-arrows-h&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/arrows-v&#34;&#62;&#60;i class=&#34;fa fa-arrows-v&#34;&#62;&#60;/i&#62; fa-arrows-v&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/asterisk&#34;&#62;&#60;i class=&#34;fa fa-asterisk&#34;&#62;&#60;/i&#62; fa-asterisk&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/car&#34;&#62;&#60;i class=&#34;fa fa-automobile&#34;&#62;&#60;/i&#62; fa-automobile &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/ban&#34;&#62;&#60;i class=&#34;fa fa-ban&#34;&#62;&#60;/i&#62; fa-ban&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/university&#34;&#62;&#60;i class=&#34;fa fa-bank&#34;&#62;&#60;/i&#62; fa-bank &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/bar-chart-o&#34;&#62;&#60;i class=&#34;fa fa-bar-chart-o&#34;&#62;&#60;/i&#62; fa-bar-chart-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/barcode&#34;&#62;&#60;i class=&#34;fa fa-barcode&#34;&#62;&#60;/i&#62; fa-barcode&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/bars&#34;&#62;&#60;i class=&#34;fa fa-bars&#34;&#62;&#60;/i&#62; fa-bars&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/beer&#34;&#62;&#60;i class=&#34;fa fa-beer&#34;&#62;&#60;/i&#62; fa-beer&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/bell&#34;&#62;&#60;i class=&#34;fa fa-bell&#34;&#62;&#60;/i&#62; fa-bell&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/bell-o&#34;&#62;&#60;i class=&#34;fa fa-bell-o&#34;&#62;&#60;/i&#62; fa-bell-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/bolt&#34;&#62;&#60;i class=&#34;fa fa-bolt&#34;&#62;&#60;/i&#62; fa-bolt&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/bomb&#34;&#62;&#60;i class=&#34;fa fa-bomb&#34;&#62;&#60;/i&#62; fa-bomb&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/book&#34;&#62;&#60;i class=&#34;fa fa-book&#34;&#62;&#60;/i&#62; fa-book&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/bookmark&#34;&#62;&#60;i class=&#34;fa fa-bookmark&#34;&#62;&#60;/i&#62; fa-bookmark&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/bookmark-o&#34;&#62;&#60;i class=&#34;fa fa-bookmark-o&#34;&#62;&#60;/i&#62; fa-bookmark-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/briefcase&#34;&#62;&#60;i class=&#34;fa fa-briefcase&#34;&#62;&#60;/i&#62; fa-briefcase&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/bug&#34;&#62;&#60;i class=&#34;fa fa-bug&#34;&#62;&#60;/i&#62; fa-bug&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/building&#34;&#62;&#60;i class=&#34;fa fa-building&#34;&#62;&#60;/i&#62; fa-building&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/building-o&#34;&#62;&#60;i class=&#34;fa fa-building-o&#34;&#62;&#60;/i&#62; fa-building-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/bullhorn&#34;&#62;&#60;i class=&#34;fa fa-bullhorn&#34;&#62;&#60;/i&#62; fa-bullhorn&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/bullseye&#34;&#62;&#60;i class=&#34;fa fa-bullseye&#34;&#62;&#60;/i&#62; fa-bullseye&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/taxi&#34;&#62;&#60;i class=&#34;fa fa-cab&#34;&#62;&#60;/i&#62; fa-cab &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/calendar&#34;&#62;&#60;i class=&#34;fa fa-calendar&#34;&#62;&#60;/i&#62; fa-calendar&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/calendar-o&#34;&#62;&#60;i class=&#34;fa fa-calendar-o&#34;&#62;&#60;/i&#62; fa-calendar-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/camera&#34;&#62;&#60;i class=&#34;fa fa-camera&#34;&#62;&#60;/i&#62; fa-camera&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/camera-retro&#34;&#62;&#60;i class=&#34;fa fa-camera-retro&#34;&#62;&#60;/i&#62; fa-camera-retro&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/car&#34;&#62;&#60;i class=&#34;fa fa-car&#34;&#62;&#60;/i&#62; fa-car&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/caret-square-o-down&#34;&#62;&#60;i class=&#34;fa fa-caret-square-o-down&#34;&#62;&#60;/i&#62; fa-caret-square-o-down&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/caret-square-o-left&#34;&#62;&#60;i class=&#34;fa fa-caret-square-o-left&#34;&#62;&#60;/i&#62; fa-caret-square-o-left&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/caret-square-o-right&#34;&#62;&#60;i class=&#34;fa fa-caret-square-o-right&#34;&#62;&#60;/i&#62; fa-caret-square-o-right&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/caret-square-o-up&#34;&#62;&#60;i class=&#34;fa fa-caret-square-o-up&#34;&#62;&#60;/i&#62; fa-caret-square-o-up&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/certificate&#34;&#62;&#60;i class=&#34;fa fa-certificate&#34;&#62;&#60;/i&#62; fa-certificate&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/check&#34;&#62;&#60;i class=&#34;fa fa-check&#34;&#62;&#60;/i&#62; fa-check&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/check-circle&#34;&#62;&#60;i class=&#34;fa fa-check-circle&#34;&#62;&#60;/i&#62; fa-check-circle&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/check-circle-o&#34;&#62;&#60;i class=&#34;fa fa-check-circle-o&#34;&#62;&#60;/i&#62; fa-check-circle-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/check-square&#34;&#62;&#60;i class=&#34;fa fa-check-square&#34;&#62;&#60;/i&#62; fa-check-square&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/check-square-o&#34;&#62;&#60;i class=&#34;fa fa-check-square-o&#34;&#62;&#60;/i&#62; fa-check-square-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/child&#34;&#62;&#60;i class=&#34;fa fa-child&#34;&#62;&#60;/i&#62; fa-child&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/circle&#34;&#62;&#60;i class=&#34;fa fa-circle&#34;&#62;&#60;/i&#62; fa-circle&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/circle-o&#34;&#62;&#60;i class=&#34;fa fa-circle-o&#34;&#62;&#60;/i&#62; fa-circle-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/circle-o-notch&#34;&#62;&#60;i class=&#34;fa fa-circle-o-notch&#34;&#62;&#60;/i&#62; fa-circle-o-notch&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/circle-thin&#34;&#62;&#60;i class=&#34;fa fa-circle-thin&#34;&#62;&#60;/i&#62; fa-circle-thin&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/clock-o&#34;&#62;&#60;i class=&#34;fa fa-clock-o&#34;&#62;&#60;/i&#62; fa-clock-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/cloud&#34;&#62;&#60;i class=&#34;fa fa-cloud&#34;&#62;&#60;/i&#62; fa-cloud&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/cloud-download&#34;&#62;&#60;i class=&#34;fa fa-cloud-download&#34;&#62;&#60;/i&#62; fa-cloud-download&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/cloud-upload&#34;&#62;&#60;i class=&#34;fa fa-cloud-upload&#34;&#62;&#60;/i&#62; fa-cloud-upload&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/code&#34;&#62;&#60;i class=&#34;fa fa-code&#34;&#62;&#60;/i&#62; fa-code&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/code-fork&#34;&#62;&#60;i class=&#34;fa fa-code-fork&#34;&#62;&#60;/i&#62; fa-code-fork&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/coffee&#34;&#62;&#60;i class=&#34;fa fa-coffee&#34;&#62;&#60;/i&#62; fa-coffee&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/cog&#34;&#62;&#60;i class=&#34;fa fa-cog&#34;&#62;&#60;/i&#62; fa-cog&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/cogs&#34;&#62;&#60;i class=&#34;fa fa-cogs&#34;&#62;&#60;/i&#62; fa-cogs&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/comment&#34;&#62;&#60;i class=&#34;fa fa-comment&#34;&#62;&#60;/i&#62; fa-comment&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/comment-o&#34;&#62;&#60;i class=&#34;fa fa-comment-o&#34;&#62;&#60;/i&#62; fa-comment-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/comments&#34;&#62;&#60;i class=&#34;fa fa-comments&#34;&#62;&#60;/i&#62; fa-comments&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/comments-o&#34;&#62;&#60;i class=&#34;fa fa-comments-o&#34;&#62;&#60;/i&#62; fa-comments-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/compass&#34;&#62;&#60;i class=&#34;fa fa-compass&#34;&#62;&#60;/i&#62; fa-compass&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/credit-card&#34;&#62;&#60;i class=&#34;fa fa-credit-card&#34;&#62;&#60;/i&#62; fa-credit-card&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/crop&#34;&#62;&#60;i class=&#34;fa fa-crop&#34;&#62;&#60;/i&#62; fa-crop&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/crosshairs&#34;&#62;&#60;i class=&#34;fa fa-crosshairs&#34;&#62;&#60;/i&#62; fa-crosshairs&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/cube&#34;&#62;&#60;i class=&#34;fa fa-cube&#34;&#62;&#60;/i&#62; fa-cube&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/cubes&#34;&#62;&#60;i class=&#34;fa fa-cubes&#34;&#62;&#60;/i&#62; fa-cubes&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/cutlery&#34;&#62;&#60;i class=&#34;fa fa-cutlery&#34;&#62;&#60;/i&#62; fa-cutlery&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/tachometer&#34;&#62;&#60;i class=&#34;fa fa-dashboard&#34;&#62;&#60;/i&#62; fa-dashboard &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/database&#34;&#62;&#60;i class=&#34;fa fa-database&#34;&#62;&#60;/i&#62; fa-database&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/desktop&#34;&#62;&#60;i class=&#34;fa fa-desktop&#34;&#62;&#60;/i&#62; fa-desktop&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/dot-circle-o&#34;&#62;&#60;i class=&#34;fa fa-dot-circle-o&#34;&#62;&#60;/i&#62; fa-dot-circle-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/download&#34;&#62;&#60;i class=&#34;fa fa-download&#34;&#62;&#60;/i&#62; fa-download&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/pencil-square-o&#34;&#62;&#60;i class=&#34;fa fa-edit&#34;&#62;&#60;/i&#62; fa-edit &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/ellipsis-h&#34;&#62;&#60;i class=&#34;fa fa-ellipsis-h&#34;&#62;&#60;/i&#62; fa-ellipsis-h&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/ellipsis-v&#34;&#62;&#60;i class=&#34;fa fa-ellipsis-v&#34;&#62;&#60;/i&#62; fa-ellipsis-v&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/envelope&#34;&#62;&#60;i class=&#34;fa fa-envelope&#34;&#62;&#60;/i&#62; fa-envelope&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/envelope-o&#34;&#62;&#60;i class=&#34;fa fa-envelope-o&#34;&#62;&#60;/i&#62; fa-envelope-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/envelope-square&#34;&#62;&#60;i class=&#34;fa fa-envelope-square&#34;&#62;&#60;/i&#62; fa-envelope-square&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/eraser&#34;&#62;&#60;i class=&#34;fa fa-eraser&#34;&#62;&#60;/i&#62; fa-eraser&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/exchange&#34;&#62;&#60;i class=&#34;fa fa-exchange&#34;&#62;&#60;/i&#62; fa-exchange&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/exclamation&#34;&#62;&#60;i class=&#34;fa fa-exclamation&#34;&#62;&#60;/i&#62; fa-exclamation&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/exclamation-circle&#34;&#62;&#60;i class=&#34;fa fa-exclamation-circle&#34;&#62;&#60;/i&#62; fa-exclamation-circle&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/exclamation-triangle&#34;&#62;&#60;i class=&#34;fa fa-exclamation-triangle&#34;&#62;&#60;/i&#62; fa-exclamation-triangle&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/external-link&#34;&#62;&#60;i class=&#34;fa fa-external-link&#34;&#62;&#60;/i&#62; fa-external-link&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/external-link-square&#34;&#62;&#60;i class=&#34;fa fa-external-link-square&#34;&#62;&#60;/i&#62; fa-external-link-square&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/eye&#34;&#62;&#60;i class=&#34;fa fa-eye&#34;&#62;&#60;/i&#62; fa-eye&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/eye-slash&#34;&#62;&#60;i class=&#34;fa fa-eye-slash&#34;&#62;&#60;/i&#62; fa-eye-slash&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/fax&#34;&#62;&#60;i class=&#34;fa fa-fax&#34;&#62;&#60;/i&#62; fa-fax&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/female&#34;&#62;&#60;i class=&#34;fa fa-female&#34;&#62;&#60;/i&#62; fa-female&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/fighter-jet&#34;&#62;&#60;i class=&#34;fa fa-fighter-jet&#34;&#62;&#60;/i&#62; fa-fighter-jet&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/file-archive-o&#34;&#62;&#60;i class=&#34;fa fa-file-archive-o&#34;&#62;&#60;/i&#62; fa-file-archive-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/file-audio-o&#34;&#62;&#60;i class=&#34;fa fa-file-audio-o&#34;&#62;&#60;/i&#62; fa-file-audio-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/file-code-o&#34;&#62;&#60;i class=&#34;fa fa-file-code-o&#34;&#62;&#60;/i&#62; fa-file-code-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/file-excel-o&#34;&#62;&#60;i class=&#34;fa fa-file-excel-o&#34;&#62;&#60;/i&#62; fa-file-excel-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/file-image-o&#34;&#62;&#60;i class=&#34;fa fa-file-image-o&#34;&#62;&#60;/i&#62; fa-file-image-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/file-video-o&#34;&#62;&#60;i class=&#34;fa fa-file-movie-o&#34;&#62;&#60;/i&#62; fa-file-movie-o &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/file-pdf-o&#34;&#62;&#60;i class=&#34;fa fa-file-pdf-o&#34;&#62;&#60;/i&#62; fa-file-pdf-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/file-image-o&#34;&#62;&#60;i class=&#34;fa fa-file-photo-o&#34;&#62;&#60;/i&#62; fa-file-photo-o &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/file-image-o&#34;&#62;&#60;i class=&#34;fa fa-file-picture-o&#34;&#62;&#60;/i&#62; fa-file-picture-o &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/file-powerpoint-o&#34;&#62;&#60;i class=&#34;fa fa-file-powerpoint-o&#34;&#62;&#60;/i&#62; fa-file-powerpoint-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/file-audio-o&#34;&#62;&#60;i class=&#34;fa fa-file-sound-o&#34;&#62;&#60;/i&#62; fa-file-sound-o &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/file-video-o&#34;&#62;&#60;i class=&#34;fa fa-file-video-o&#34;&#62;&#60;/i&#62; fa-file-video-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/file-word-o&#34;&#62;&#60;i class=&#34;fa fa-file-word-o&#34;&#62;&#60;/i&#62; fa-file-word-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/file-archive-o&#34;&#62;&#60;i class=&#34;fa fa-file-zip-o&#34;&#62;&#60;/i&#62; fa-file-zip-o &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/film&#34;&#62;&#60;i class=&#34;fa fa-film&#34;&#62;&#60;/i&#62; fa-film&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/filter&#34;&#62;&#60;i class=&#34;fa fa-filter&#34;&#62;&#60;/i&#62; fa-filter&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/fire&#34;&#62;&#60;i class=&#34;fa fa-fire&#34;&#62;&#60;/i&#62; fa-fire&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/fire-extinguisher&#34;&#62;&#60;i class=&#34;fa fa-fire-extinguisher&#34;&#62;&#60;/i&#62; fa-fire-extinguisher&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/flag&#34;&#62;&#60;i class=&#34;fa fa-flag&#34;&#62;&#60;/i&#62; fa-flag&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/flag-checkered&#34;&#62;&#60;i class=&#34;fa fa-flag-checkered&#34;&#62;&#60;/i&#62; fa-flag-checkered&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/flag-o&#34;&#62;&#60;i class=&#34;fa fa-flag-o&#34;&#62;&#60;/i&#62; fa-flag-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/bolt&#34;&#62;&#60;i class=&#34;fa fa-flash&#34;&#62;&#60;/i&#62; fa-flash &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/flask&#34;&#62;&#60;i class=&#34;fa fa-flask&#34;&#62;&#60;/i&#62; fa-flask&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/folder&#34;&#62;&#60;i class=&#34;fa fa-folder&#34;&#62;&#60;/i&#62; fa-folder&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/folder-o&#34;&#62;&#60;i class=&#34;fa fa-folder-o&#34;&#62;&#60;/i&#62; fa-folder-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/folder-open&#34;&#62;&#60;i class=&#34;fa fa-folder-open&#34;&#62;&#60;/i&#62; fa-folder-open&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/folder-open-o&#34;&#62;&#60;i class=&#34;fa fa-folder-open-o&#34;&#62;&#60;/i&#62; fa-folder-open-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/frown-o&#34;&#62;&#60;i class=&#34;fa fa-frown-o&#34;&#62;&#60;/i&#62; fa-frown-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/gamepad&#34;&#62;&#60;i class=&#34;fa fa-gamepad&#34;&#62;&#60;/i&#62; fa-gamepad&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/gavel&#34;&#62;&#60;i class=&#34;fa fa-gavel&#34;&#62;&#60;/i&#62; fa-gavel&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/cog&#34;&#62;&#60;i class=&#34;fa fa-gear&#34;&#62;&#60;/i&#62; fa-gear &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/cogs&#34;&#62;&#60;i class=&#34;fa fa-gears&#34;&#62;&#60;/i&#62; fa-gears &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/gift&#34;&#62;&#60;i class=&#34;fa fa-gift&#34;&#62;&#60;/i&#62; fa-gift&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/glass&#34;&#62;&#60;i class=&#34;fa fa-glass&#34;&#62;&#60;/i&#62; fa-glass&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/globe&#34;&#62;&#60;i class=&#34;fa fa-globe&#34;&#62;&#60;/i&#62; fa-globe&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/graduation-cap&#34;&#62;&#60;i class=&#34;fa fa-graduation-cap&#34;&#62;&#60;/i&#62; fa-graduation-cap&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/users&#34;&#62;&#60;i class=&#34;fa fa-group&#34;&#62;&#60;/i&#62; fa-group &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/hdd-o&#34;&#62;&#60;i class=&#34;fa fa-hdd-o&#34;&#62;&#60;/i&#62; fa-hdd-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/headphones&#34;&#62;&#60;i class=&#34;fa fa-headphones&#34;&#62;&#60;/i&#62; fa-headphones&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/heart&#34;&#62;&#60;i class=&#34;fa fa-heart&#34;&#62;&#60;/i&#62; fa-heart&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/heart-o&#34;&#62;&#60;i class=&#34;fa fa-heart-o&#34;&#62;&#60;/i&#62; fa-heart-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/history&#34;&#62;&#60;i class=&#34;fa fa-history&#34;&#62;&#60;/i&#62; fa-history&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/home&#34;&#62;&#60;i class=&#34;fa fa-home&#34;&#62;&#60;/i&#62; fa-home&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/picture-o&#34;&#62;&#60;i class=&#34;fa fa-image&#34;&#62;&#60;/i&#62; fa-image &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/inbox&#34;&#62;&#60;i class=&#34;fa fa-inbox&#34;&#62;&#60;/i&#62; fa-inbox&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/info&#34;&#62;&#60;i class=&#34;fa fa-info&#34;&#62;&#60;/i&#62; fa-info&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/info-circle&#34;&#62;&#60;i class=&#34;fa fa-info-circle&#34;&#62;&#60;/i&#62; fa-info-circle&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/university&#34;&#62;&#60;i class=&#34;fa fa-institution&#34;&#62;&#60;/i&#62; fa-institution &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/key&#34;&#62;&#60;i class=&#34;fa fa-key&#34;&#62;&#60;/i&#62; fa-key&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/keyboard-o&#34;&#62;&#60;i class=&#34;fa fa-keyboard-o&#34;&#62;&#60;/i&#62; fa-keyboard-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/language&#34;&#62;&#60;i class=&#34;fa fa-language&#34;&#62;&#60;/i&#62; fa-language&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/laptop&#34;&#62;&#60;i class=&#34;fa fa-laptop&#34;&#62;&#60;/i&#62; fa-laptop&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/leaf&#34;&#62;&#60;i class=&#34;fa fa-leaf&#34;&#62;&#60;/i&#62; fa-leaf&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/gavel&#34;&#62;&#60;i class=&#34;fa fa-legal&#34;&#62;&#60;/i&#62; fa-legal &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/lemon-o&#34;&#62;&#60;i class=&#34;fa fa-lemon-o&#34;&#62;&#60;/i&#62; fa-lemon-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/level-down&#34;&#62;&#60;i class=&#34;fa fa-level-down&#34;&#62;&#60;/i&#62; fa-level-down&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/level-up&#34;&#62;&#60;i class=&#34;fa fa-level-up&#34;&#62;&#60;/i&#62; fa-level-up&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/life-ring&#34;&#62;&#60;i class=&#34;fa fa-life-bouy&#34;&#62;&#60;/i&#62; fa-life-bouy &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/life-ring&#34;&#62;&#60;i class=&#34;fa fa-life-ring&#34;&#62;&#60;/i&#62; fa-life-ring&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/life-ring&#34;&#62;&#60;i class=&#34;fa fa-life-saver&#34;&#62;&#60;/i&#62; fa-life-saver &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/lightbulb-o&#34;&#62;&#60;i class=&#34;fa fa-lightbulb-o&#34;&#62;&#60;/i&#62; fa-lightbulb-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/location-arrow&#34;&#62;&#60;i class=&#34;fa fa-location-arrow&#34;&#62;&#60;/i&#62; fa-location-arrow&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/lock&#34;&#62;&#60;i class=&#34;fa fa-lock&#34;&#62;&#60;/i&#62; fa-lock&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/magic&#34;&#62;&#60;i class=&#34;fa fa-magic&#34;&#62;&#60;/i&#62; fa-magic&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/magnet&#34;&#62;&#60;i class=&#34;fa fa-magnet&#34;&#62;&#60;/i&#62; fa-magnet&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/share&#34;&#62;&#60;i class=&#34;fa fa-mail-forward&#34;&#62;&#60;/i&#62; fa-mail-forward &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/reply&#34;&#62;&#60;i class=&#34;fa fa-mail-reply&#34;&#62;&#60;/i&#62; fa-mail-reply &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/reply-all&#34;&#62;&#60;i class=&#34;fa fa-mail-reply-all&#34;&#62;&#60;/i&#62; fa-mail-reply-all &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/male&#34;&#62;&#60;i class=&#34;fa fa-male&#34;&#62;&#60;/i&#62; fa-male&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/map-marker&#34;&#62;&#60;i class=&#34;fa fa-map-marker&#34;&#62;&#60;/i&#62; fa-map-marker&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/meh-o&#34;&#62;&#60;i class=&#34;fa fa-meh-o&#34;&#62;&#60;/i&#62; fa-meh-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/microphone&#34;&#62;&#60;i class=&#34;fa fa-microphone&#34;&#62;&#60;/i&#62; fa-microphone&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/microphone-slash&#34;&#62;&#60;i class=&#34;fa fa-microphone-slash&#34;&#62;&#60;/i&#62; fa-microphone-slash&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/minus&#34;&#62;&#60;i class=&#34;fa fa-minus&#34;&#62;&#60;/i&#62; fa-minus&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/minus-circle&#34;&#62;&#60;i class=&#34;fa fa-minus-circle&#34;&#62;&#60;/i&#62; fa-minus-circle&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/minus-square&#34;&#62;&#60;i class=&#34;fa fa-minus-square&#34;&#62;&#60;/i&#62; fa-minus-square&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/minus-square-o&#34;&#62;&#60;i class=&#34;fa fa-minus-square-o&#34;&#62;&#60;/i&#62; fa-minus-square-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/mobile&#34;&#62;&#60;i class=&#34;fa fa-mobile&#34;&#62;&#60;/i&#62; fa-mobile&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/mobile&#34;&#62;&#60;i class=&#34;fa fa-mobile-phone&#34;&#62;&#60;/i&#62; fa-mobile-phone &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/money&#34;&#62;&#60;i class=&#34;fa fa-money&#34;&#62;&#60;/i&#62; fa-money&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/moon-o&#34;&#62;&#60;i class=&#34;fa fa-moon-o&#34;&#62;&#60;/i&#62; fa-moon-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/graduation-cap&#34;&#62;&#60;i class=&#34;fa fa-mortar-board&#34;&#62;&#60;/i&#62; fa-mortar-board &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/music&#34;&#62;&#60;i class=&#34;fa fa-music&#34;&#62;&#60;/i&#62; fa-music&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/bars&#34;&#62;&#60;i class=&#34;fa fa-navicon&#34;&#62;&#60;/i&#62; fa-navicon &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/paper-plane&#34;&#62;&#60;i class=&#34;fa fa-paper-plane&#34;&#62;&#60;/i&#62; fa-paper-plane&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/paper-plane-o&#34;&#62;&#60;i class=&#34;fa fa-paper-plane-o&#34;&#62;&#60;/i&#62; fa-paper-plane-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/paw&#34;&#62;&#60;i class=&#34;fa fa-paw&#34;&#62;&#60;/i&#62; fa-paw&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/pencil&#34;&#62;&#60;i class=&#34;fa fa-pencil&#34;&#62;&#60;/i&#62; fa-pencil&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/pencil-square&#34;&#62;&#60;i class=&#34;fa fa-pencil-square&#34;&#62;&#60;/i&#62; fa-pencil-square&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/pencil-square-o&#34;&#62;&#60;i class=&#34;fa fa-pencil-square-o&#34;&#62;&#60;/i&#62; fa-pencil-square-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/phone&#34;&#62;&#60;i class=&#34;fa fa-phone&#34;&#62;&#60;/i&#62; fa-phone&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/phone-square&#34;&#62;&#60;i class=&#34;fa fa-phone-square&#34;&#62;&#60;/i&#62; fa-phone-square&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/picture-o&#34;&#62;&#60;i class=&#34;fa fa-photo&#34;&#62;&#60;/i&#62; fa-photo &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/picture-o&#34;&#62;&#60;i class=&#34;fa fa-picture-o&#34;&#62;&#60;/i&#62; fa-picture-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/plane&#34;&#62;&#60;i class=&#34;fa fa-plane&#34;&#62;&#60;/i&#62; fa-plane&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/plus&#34;&#62;&#60;i class=&#34;fa fa-plus&#34;&#62;&#60;/i&#62; fa-plus&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/plus-circle&#34;&#62;&#60;i class=&#34;fa fa-plus-circle&#34;&#62;&#60;/i&#62; fa-plus-circle&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/plus-square&#34;&#62;&#60;i class=&#34;fa fa-plus-square&#34;&#62;&#60;/i&#62; fa-plus-square&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/plus-square-o&#34;&#62;&#60;i class=&#34;fa fa-plus-square-o&#34;&#62;&#60;/i&#62; fa-plus-square-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/power-off&#34;&#62;&#60;i class=&#34;fa fa-power-off&#34;&#62;&#60;/i&#62; fa-power-off&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/print&#34;&#62;&#60;i class=&#34;fa fa-print&#34;&#62;&#60;/i&#62; fa-print&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/puzzle-piece&#34;&#62;&#60;i class=&#34;fa fa-puzzle-piece&#34;&#62;&#60;/i&#62; fa-puzzle-piece&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/qrcode&#34;&#62;&#60;i class=&#34;fa fa-qrcode&#34;&#62;&#60;/i&#62; fa-qrcode&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/question&#34;&#62;&#60;i class=&#34;fa fa-question&#34;&#62;&#60;/i&#62; fa-question&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/question-circle&#34;&#62;&#60;i class=&#34;fa fa-question-circle&#34;&#62;&#60;/i&#62; fa-question-circle&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/quote-left&#34;&#62;&#60;i class=&#34;fa fa-quote-left&#34;&#62;&#60;/i&#62; fa-quote-left&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/quote-right&#34;&#62;&#60;i class=&#34;fa fa-quote-right&#34;&#62;&#60;/i&#62; fa-quote-right&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/random&#34;&#62;&#60;i class=&#34;fa fa-random&#34;&#62;&#60;/i&#62; fa-random&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/recycle&#34;&#62;&#60;i class=&#34;fa fa-recycle&#34;&#62;&#60;/i&#62; fa-recycle&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/refresh&#34;&#62;&#60;i class=&#34;fa fa-refresh&#34;&#62;&#60;/i&#62; fa-refresh&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/bars&#34;&#62;&#60;i class=&#34;fa fa-reorder&#34;&#62;&#60;/i&#62; fa-reorder &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/reply&#34;&#62;&#60;i class=&#34;fa fa-reply&#34;&#62;&#60;/i&#62; fa-reply&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/reply-all&#34;&#62;&#60;i class=&#34;fa fa-reply-all&#34;&#62;&#60;/i&#62; fa-reply-all&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/retweet&#34;&#62;&#60;i class=&#34;fa fa-retweet&#34;&#62;&#60;/i&#62; fa-retweet&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/road&#34;&#62;&#60;i class=&#34;fa fa-road&#34;&#62;&#60;/i&#62; fa-road&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/rocket&#34;&#62;&#60;i class=&#34;fa fa-rocket&#34;&#62;&#60;/i&#62; fa-rocket&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/rss&#34;&#62;&#60;i class=&#34;fa fa-rss&#34;&#62;&#60;/i&#62; fa-rss&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/rss-square&#34;&#62;&#60;i class=&#34;fa fa-rss-square&#34;&#62;&#60;/i&#62; fa-rss-square&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/search&#34;&#62;&#60;i class=&#34;fa fa-search&#34;&#62;&#60;/i&#62; fa-search&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/search-minus&#34;&#62;&#60;i class=&#34;fa fa-search-minus&#34;&#62;&#60;/i&#62; fa-search-minus&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/search-plus&#34;&#62;&#60;i class=&#34;fa fa-search-plus&#34;&#62;&#60;/i&#62; fa-search-plus&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/paper-plane&#34;&#62;&#60;i class=&#34;fa fa-send&#34;&#62;&#60;/i&#62; fa-send &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/paper-plane-o&#34;&#62;&#60;i class=&#34;fa fa-send-o&#34;&#62;&#60;/i&#62; fa-send-o &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/share&#34;&#62;&#60;i class=&#34;fa fa-share&#34;&#62;&#60;/i&#62; fa-share&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/share-alt&#34;&#62;&#60;i class=&#34;fa fa-share-alt&#34;&#62;&#60;/i&#62; fa-share-alt&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/share-alt-square&#34;&#62;&#60;i class=&#34;fa fa-share-alt-square&#34;&#62;&#60;/i&#62; fa-share-alt-square&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/share-square&#34;&#62;&#60;i class=&#34;fa fa-share-square&#34;&#62;&#60;/i&#62; fa-share-square&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/share-square-o&#34;&#62;&#60;i class=&#34;fa fa-share-square-o&#34;&#62;&#60;/i&#62; fa-share-square-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/shield&#34;&#62;&#60;i class=&#34;fa fa-shield&#34;&#62;&#60;/i&#62; fa-shield&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/shopping-cart&#34;&#62;&#60;i class=&#34;fa fa-shopping-cart&#34;&#62;&#60;/i&#62; fa-shopping-cart&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/sign-in&#34;&#62;&#60;i class=&#34;fa fa-sign-in&#34;&#62;&#60;/i&#62; fa-sign-in&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/sign-out&#34;&#62;&#60;i class=&#34;fa fa-sign-out&#34;&#62;&#60;/i&#62; fa-sign-out&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/signal&#34;&#62;&#60;i class=&#34;fa fa-signal&#34;&#62;&#60;/i&#62; fa-signal&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/sitemap&#34;&#62;&#60;i class=&#34;fa fa-sitemap&#34;&#62;&#60;/i&#62; fa-sitemap&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/sliders&#34;&#62;&#60;i class=&#34;fa fa-sliders&#34;&#62;&#60;/i&#62; fa-sliders&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/smile-o&#34;&#62;&#60;i class=&#34;fa fa-smile-o&#34;&#62;&#60;/i&#62; fa-smile-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/sort&#34;&#62;&#60;i class=&#34;fa fa-sort&#34;&#62;&#60;/i&#62; fa-sort&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/sort-alpha-asc&#34;&#62;&#60;i class=&#34;fa fa-sort-alpha-asc&#34;&#62;&#60;/i&#62; fa-sort-alpha-asc&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/sort-alpha-desc&#34;&#62;&#60;i class=&#34;fa fa-sort-alpha-desc&#34;&#62;&#60;/i&#62; fa-sort-alpha-desc&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/sort-amount-asc&#34;&#62;&#60;i class=&#34;fa fa-sort-amount-asc&#34;&#62;&#60;/i&#62; fa-sort-amount-asc&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/sort-amount-desc&#34;&#62;&#60;i class=&#34;fa fa-sort-amount-desc&#34;&#62;&#60;/i&#62; fa-sort-amount-desc&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/sort-asc&#34;&#62;&#60;i class=&#34;fa fa-sort-asc&#34;&#62;&#60;/i&#62; fa-sort-asc&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/sort-desc&#34;&#62;&#60;i class=&#34;fa fa-sort-desc&#34;&#62;&#60;/i&#62; fa-sort-desc&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/sort-desc&#34;&#62;&#60;i class=&#34;fa fa-sort-down&#34;&#62;&#60;/i&#62; fa-sort-down &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/sort-numeric-asc&#34;&#62;&#60;i class=&#34;fa fa-sort-numeric-asc&#34;&#62;&#60;/i&#62; fa-sort-numeric-asc&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/sort-numeric-desc&#34;&#62;&#60;i class=&#34;fa fa-sort-numeric-desc&#34;&#62;&#60;/i&#62; fa-sort-numeric-desc&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/sort-asc&#34;&#62;&#60;i class=&#34;fa fa-sort-up&#34;&#62;&#60;/i&#62; fa-sort-up &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/space-shuttle&#34;&#62;&#60;i class=&#34;fa fa-space-shuttle&#34;&#62;&#60;/i&#62; fa-space-shuttle&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/spinner&#34;&#62;&#60;i class=&#34;fa fa-spinner&#34;&#62;&#60;/i&#62; fa-spinner&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/spoon&#34;&#62;&#60;i class=&#34;fa fa-spoon&#34;&#62;&#60;/i&#62; fa-spoon&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/square&#34;&#62;&#60;i class=&#34;fa fa-square&#34;&#62;&#60;/i&#62; fa-square&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/square-o&#34;&#62;&#60;i class=&#34;fa fa-square-o&#34;&#62;&#60;/i&#62; fa-square-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/star&#34;&#62;&#60;i class=&#34;fa fa-star&#34;&#62;&#60;/i&#62; fa-star&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/star-half&#34;&#62;&#60;i class=&#34;fa fa-star-half&#34;&#62;&#60;/i&#62; fa-star-half&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/star-half-o&#34;&#62;&#60;i class=&#34;fa fa-star-half-empty&#34;&#62;&#60;/i&#62; fa-star-half-empty &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/star-half-o&#34;&#62;&#60;i class=&#34;fa fa-star-half-full&#34;&#62;&#60;/i&#62; fa-star-half-full &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/star-half-o&#34;&#62;&#60;i class=&#34;fa fa-star-half-o&#34;&#62;&#60;/i&#62; fa-star-half-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/star-o&#34;&#62;&#60;i class=&#34;fa fa-star-o&#34;&#62;&#60;/i&#62; fa-star-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/suitcase&#34;&#62;&#60;i class=&#34;fa fa-suitcase&#34;&#62;&#60;/i&#62; fa-suitcase&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/sun-o&#34;&#62;&#60;i class=&#34;fa fa-sun-o&#34;&#62;&#60;/i&#62; fa-sun-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/life-ring&#34;&#62;&#60;i class=&#34;fa fa-support&#34;&#62;&#60;/i&#62; fa-support &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/tablet&#34;&#62;&#60;i class=&#34;fa fa-tablet&#34;&#62;&#60;/i&#62; fa-tablet&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/tachometer&#34;&#62;&#60;i class=&#34;fa fa-tachometer&#34;&#62;&#60;/i&#62; fa-tachometer&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/tag&#34;&#62;&#60;i class=&#34;fa fa-tag&#34;&#62;&#60;/i&#62; fa-tag&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/tags&#34;&#62;&#60;i class=&#34;fa fa-tags&#34;&#62;&#60;/i&#62; fa-tags&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/tasks&#34;&#62;&#60;i class=&#34;fa fa-tasks&#34;&#62;&#60;/i&#62; fa-tasks&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/taxi&#34;&#62;&#60;i class=&#34;fa fa-taxi&#34;&#62;&#60;/i&#62; fa-taxi&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/terminal&#34;&#62;&#60;i class=&#34;fa fa-terminal&#34;&#62;&#60;/i&#62; fa-terminal&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/thumb-tack&#34;&#62;&#60;i class=&#34;fa fa-thumb-tack&#34;&#62;&#60;/i&#62; fa-thumb-tack&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/thumbs-down&#34;&#62;&#60;i class=&#34;fa fa-thumbs-down&#34;&#62;&#60;/i&#62; fa-thumbs-down&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/thumbs-o-down&#34;&#62;&#60;i class=&#34;fa fa-thumbs-o-down&#34;&#62;&#60;/i&#62; fa-thumbs-o-down&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/thumbs-o-up&#34;&#62;&#60;i class=&#34;fa fa-thumbs-o-up&#34;&#62;&#60;/i&#62; fa-thumbs-o-up&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/thumbs-up&#34;&#62;&#60;i class=&#34;fa fa-thumbs-up&#34;&#62;&#60;/i&#62; fa-thumbs-up&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/ticket&#34;&#62;&#60;i class=&#34;fa fa-ticket&#34;&#62;&#60;/i&#62; fa-ticket&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/times&#34;&#62;&#60;i class=&#34;fa fa-times&#34;&#62;&#60;/i&#62; fa-times&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/times-circle&#34;&#62;&#60;i class=&#34;fa fa-times-circle&#34;&#62;&#60;/i&#62; fa-times-circle&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/times-circle-o&#34;&#62;&#60;i class=&#34;fa fa-times-circle-o&#34;&#62;&#60;/i&#62; fa-times-circle-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/tint&#34;&#62;&#60;i class=&#34;fa fa-tint&#34;&#62;&#60;/i&#62; fa-tint&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/caret-square-o-down&#34;&#62;&#60;i class=&#34;fa fa-toggle-down&#34;&#62;&#60;/i&#62; fa-toggle-down &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/caret-square-o-left&#34;&#62;&#60;i class=&#34;fa fa-toggle-left&#34;&#62;&#60;/i&#62; fa-toggle-left &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/caret-square-o-right&#34;&#62;&#60;i class=&#34;fa fa-toggle-right&#34;&#62;&#60;/i&#62; fa-toggle-right &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/caret-square-o-up&#34;&#62;&#60;i class=&#34;fa fa-toggle-up&#34;&#62;&#60;/i&#62; fa-toggle-up &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/trash-o&#34;&#62;&#60;i class=&#34;fa fa-trash-o&#34;&#62;&#60;/i&#62; fa-trash-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/tree&#34;&#62;&#60;i class=&#34;fa fa-tree&#34;&#62;&#60;/i&#62; fa-tree&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/trophy&#34;&#62;&#60;i class=&#34;fa fa-trophy&#34;&#62;&#60;/i&#62; fa-trophy&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/truck&#34;&#62;&#60;i class=&#34;fa fa-truck&#34;&#62;&#60;/i&#62; fa-truck&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/umbrella&#34;&#62;&#60;i class=&#34;fa fa-umbrella&#34;&#62;&#60;/i&#62; fa-umbrella&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/university&#34;&#62;&#60;i class=&#34;fa fa-university&#34;&#62;&#60;/i&#62; fa-university&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/unlock&#34;&#62;&#60;i class=&#34;fa fa-unlock&#34;&#62;&#60;/i&#62; fa-unlock&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/unlock-alt&#34;&#62;&#60;i class=&#34;fa fa-unlock-alt&#34;&#62;&#60;/i&#62; fa-unlock-alt&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/sort&#34;&#62;&#60;i class=&#34;fa fa-unsorted&#34;&#62;&#60;/i&#62; fa-unsorted &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/upload&#34;&#62;&#60;i class=&#34;fa fa-upload&#34;&#62;&#60;/i&#62; fa-upload&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/user&#34;&#62;&#60;i class=&#34;fa fa-user&#34;&#62;&#60;/i&#62; fa-user&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/users&#34;&#62;&#60;i class=&#34;fa fa-users&#34;&#62;&#60;/i&#62; fa-users&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/video-camera&#34;&#62;&#60;i class=&#34;fa fa-video-camera&#34;&#62;&#60;/i&#62; fa-video-camera&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/volume-down&#34;&#62;&#60;i class=&#34;fa fa-volume-down&#34;&#62;&#60;/i&#62; fa-volume-down&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/volume-off&#34;&#62;&#60;i class=&#34;fa fa-volume-off&#34;&#62;&#60;/i&#62; fa-volume-off&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/volume-up&#34;&#62;&#60;i class=&#34;fa fa-volume-up&#34;&#62;&#60;/i&#62; fa-volume-up&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/exclamation-triangle&#34;&#62;&#60;i class=&#34;fa fa-warning&#34;&#62;&#60;/i&#62; fa-warning &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/wheelchair&#34;&#62;&#60;i class=&#34;fa fa-wheelchair&#34;&#62;&#60;/i&#62; fa-wheelchair&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/wrench&#34;&#62;&#60;i class=&#34;fa fa-wrench&#34;&#62;&#60;/i&#62; fa-wrench&#60;/a&#62;&#60;/div&#62;
+    
+&#60;/div&#62;
+&#60;/section&#62;
+
+&#60;section id=&#34;file-type&#34;&#62;
+&#60;h2 class=&#34;page-header&#34;&#62;File Type Icons&#60;/h2&#62;
+&#60;div class=&#34;row fontawesome-icon-list&#34;&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/file&#34;&#62;&#60;i class=&#34;fa fa-file&#34;&#62;&#60;/i&#62; fa-file&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/file-archive-o&#34;&#62;&#60;i class=&#34;fa fa-file-archive-o&#34;&#62;&#60;/i&#62; fa-file-archive-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/file-audio-o&#34;&#62;&#60;i class=&#34;fa fa-file-audio-o&#34;&#62;&#60;/i&#62; fa-file-audio-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/file-code-o&#34;&#62;&#60;i class=&#34;fa fa-file-code-o&#34;&#62;&#60;/i&#62; fa-file-code-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/file-excel-o&#34;&#62;&#60;i class=&#34;fa fa-file-excel-o&#34;&#62;&#60;/i&#62; fa-file-excel-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/file-image-o&#34;&#62;&#60;i class=&#34;fa fa-file-image-o&#34;&#62;&#60;/i&#62; fa-file-image-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/file-video-o&#34;&#62;&#60;i class=&#34;fa fa-file-movie-o&#34;&#62;&#60;/i&#62; fa-file-movie-o &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/file-o&#34;&#62;&#60;i class=&#34;fa fa-file-o&#34;&#62;&#60;/i&#62; fa-file-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/file-pdf-o&#34;&#62;&#60;i class=&#34;fa fa-file-pdf-o&#34;&#62;&#60;/i&#62; fa-file-pdf-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/file-image-o&#34;&#62;&#60;i class=&#34;fa fa-file-photo-o&#34;&#62;&#60;/i&#62; fa-file-photo-o &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/file-image-o&#34;&#62;&#60;i class=&#34;fa fa-file-picture-o&#34;&#62;&#60;/i&#62; fa-file-picture-o &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/file-powerpoint-o&#34;&#62;&#60;i class=&#34;fa fa-file-powerpoint-o&#34;&#62;&#60;/i&#62; fa-file-powerpoint-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/file-audio-o&#34;&#62;&#60;i class=&#34;fa fa-file-sound-o&#34;&#62;&#60;/i&#62; fa-file-sound-o &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/file-text&#34;&#62;&#60;i class=&#34;fa fa-file-text&#34;&#62;&#60;/i&#62; fa-file-text&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/file-text-o&#34;&#62;&#60;i class=&#34;fa fa-file-text-o&#34;&#62;&#60;/i&#62; fa-file-text-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/file-video-o&#34;&#62;&#60;i class=&#34;fa fa-file-video-o&#34;&#62;&#60;/i&#62; fa-file-video-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/file-word-o&#34;&#62;&#60;i class=&#34;fa fa-file-word-o&#34;&#62;&#60;/i&#62; fa-file-word-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/file-archive-o&#34;&#62;&#60;i class=&#34;fa fa-file-zip-o&#34;&#62;&#60;/i&#62; fa-file-zip-o &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+&#60;/div&#62;
+&#60;/section&#62;
+
+&#60;section id=&#34;form-control&#34;&#62;
+&#60;h2 class=&#34;page-header&#34;&#62;Form Control Icons&#60;/h2&#62;
+&#60;div class=&#34;row fontawesome-icon-list&#34;&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/check-square&#34;&#62;&#60;i class=&#34;fa fa-check-square&#34;&#62;&#60;/i&#62; fa-check-square&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/check-square-o&#34;&#62;&#60;i class=&#34;fa fa-check-square-o&#34;&#62;&#60;/i&#62; fa-check-square-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/circle&#34;&#62;&#60;i class=&#34;fa fa-circle&#34;&#62;&#60;/i&#62; fa-circle&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/circle-o&#34;&#62;&#60;i class=&#34;fa fa-circle-o&#34;&#62;&#60;/i&#62; fa-circle-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/dot-circle-o&#34;&#62;&#60;i class=&#34;fa fa-dot-circle-o&#34;&#62;&#60;/i&#62; fa-dot-circle-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/minus-square&#34;&#62;&#60;i class=&#34;fa fa-minus-square&#34;&#62;&#60;/i&#62; fa-minus-square&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/minus-square-o&#34;&#62;&#60;i class=&#34;fa fa-minus-square-o&#34;&#62;&#60;/i&#62; fa-minus-square-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/plus-square&#34;&#62;&#60;i class=&#34;fa fa-plus-square&#34;&#62;&#60;/i&#62; fa-plus-square&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/plus-square-o&#34;&#62;&#60;i class=&#34;fa fa-plus-square-o&#34;&#62;&#60;/i&#62; fa-plus-square-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/square&#34;&#62;&#60;i class=&#34;fa fa-square&#34;&#62;&#60;/i&#62; fa-square&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/square-o&#34;&#62;&#60;i class=&#34;fa fa-square-o&#34;&#62;&#60;/i&#62; fa-square-o&#60;/a&#62;&#60;/div&#62;
+    
+&#60;/div&#62;
+&#60;/section&#62;
+
+&#60;section id=&#34;currency&#34;&#62;
+&#60;h2 class=&#34;page-header&#34;&#62;Currency Icons&#60;/h2&#62;
+&#60;div class=&#34;row fontawesome-icon-list&#34;&#62;
+   
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/btc&#34;&#62;&#60;i class=&#34;fa fa-bitcoin&#34;&#62;&#60;/i&#62; fa-bitcoin &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/btc&#34;&#62;&#60;i class=&#34;fa fa-btc&#34;&#62;&#60;/i&#62; fa-btc&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/jpy&#34;&#62;&#60;i class=&#34;fa fa-cny&#34;&#62;&#60;/i&#62; fa-cny &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/usd&#34;&#62;&#60;i class=&#34;fa fa-dollar&#34;&#62;&#60;/i&#62; fa-dollar &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/eur&#34;&#62;&#60;i class=&#34;fa fa-eur&#34;&#62;&#60;/i&#62; fa-eur&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/eur&#34;&#62;&#60;i class=&#34;fa fa-euro&#34;&#62;&#60;/i&#62; fa-euro &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/gbp&#34;&#62;&#60;i class=&#34;fa fa-gbp&#34;&#62;&#60;/i&#62; fa-gbp&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/inr&#34;&#62;&#60;i class=&#34;fa fa-inr&#34;&#62;&#60;/i&#62; fa-inr&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/jpy&#34;&#62;&#60;i class=&#34;fa fa-jpy&#34;&#62;&#60;/i&#62; fa-jpy&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/krw&#34;&#62;&#60;i class=&#34;fa fa-krw&#34;&#62;&#60;/i&#62; fa-krw&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/money&#34;&#62;&#60;i class=&#34;fa fa-money&#34;&#62;&#60;/i&#62; fa-money&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/jpy&#34;&#62;&#60;i class=&#34;fa fa-rmb&#34;&#62;&#60;/i&#62; fa-rmb &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/rub&#34;&#62;&#60;i class=&#34;fa fa-rouble&#34;&#62;&#60;/i&#62; fa-rouble &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/rub&#34;&#62;&#60;i class=&#34;fa fa-rub&#34;&#62;&#60;/i&#62; fa-rub&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/rub&#34;&#62;&#60;i class=&#34;fa fa-ruble&#34;&#62;&#60;/i&#62; fa-ruble &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/inr&#34;&#62;&#60;i class=&#34;fa fa-rupee&#34;&#62;&#60;/i&#62; fa-rupee &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/try&#34;&#62;&#60;i class=&#34;fa fa-try&#34;&#62;&#60;/i&#62; fa-try&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/try&#34;&#62;&#60;i class=&#34;fa fa-turkish-lira&#34;&#62;&#60;/i&#62; fa-turkish-lira &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/usd&#34;&#62;&#60;i class=&#34;fa fa-usd&#34;&#62;&#60;/i&#62; fa-usd&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/krw&#34;&#62;&#60;i class=&#34;fa fa-won&#34;&#62;&#60;/i&#62; fa-won &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/jpy&#34;&#62;&#60;i class=&#34;fa fa-yen&#34;&#62;&#60;/i&#62; fa-yen &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+&#60;/div&#62;
+&#60;/section&#62;
+
+&#60;section id=&#34;text-editor&#34;&#62;
+&#60;h2 class=&#34;page-header&#34;&#62;Text Editor Icons&#60;/h2&#62;
+&#60;div class=&#34;row fontawesome-icon-list&#34;&#62;
+
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/align-center&#34;&#62;&#60;i class=&#34;fa fa-align-center&#34;&#62;&#60;/i&#62; fa-align-center&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/align-justify&#34;&#62;&#60;i class=&#34;fa fa-align-justify&#34;&#62;&#60;/i&#62; fa-align-justify&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/align-left&#34;&#62;&#60;i class=&#34;fa fa-align-left&#34;&#62;&#60;/i&#62; fa-align-left&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/align-right&#34;&#62;&#60;i class=&#34;fa fa-align-right&#34;&#62;&#60;/i&#62; fa-align-right&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/bold&#34;&#62;&#60;i class=&#34;fa fa-bold&#34;&#62;&#60;/i&#62; fa-bold&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/link&#34;&#62;&#60;i class=&#34;fa fa-chain&#34;&#62;&#60;/i&#62; fa-chain &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/chain-broken&#34;&#62;&#60;i class=&#34;fa fa-chain-broken&#34;&#62;&#60;/i&#62; fa-chain-broken&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/clipboard&#34;&#62;&#60;i class=&#34;fa fa-clipboard&#34;&#62;&#60;/i&#62; fa-clipboard&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/columns&#34;&#62;&#60;i class=&#34;fa fa-columns&#34;&#62;&#60;/i&#62; fa-columns&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/files-o&#34;&#62;&#60;i class=&#34;fa fa-copy&#34;&#62;&#60;/i&#62; fa-copy &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/scissors&#34;&#62;&#60;i class=&#34;fa fa-cut&#34;&#62;&#60;/i&#62; fa-cut &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/outdent&#34;&#62;&#60;i class=&#34;fa fa-dedent&#34;&#62;&#60;/i&#62; fa-dedent &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/eraser&#34;&#62;&#60;i class=&#34;fa fa-eraser&#34;&#62;&#60;/i&#62; fa-eraser&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/file&#34;&#62;&#60;i class=&#34;fa fa-file&#34;&#62;&#60;/i&#62; fa-file&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/file-o&#34;&#62;&#60;i class=&#34;fa fa-file-o&#34;&#62;&#60;/i&#62; fa-file-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/file-text&#34;&#62;&#60;i class=&#34;fa fa-file-text&#34;&#62;&#60;/i&#62; fa-file-text&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/file-text-o&#34;&#62;&#60;i class=&#34;fa fa-file-text-o&#34;&#62;&#60;/i&#62; fa-file-text-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/files-o&#34;&#62;&#60;i class=&#34;fa fa-files-o&#34;&#62;&#60;/i&#62; fa-files-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/floppy-o&#34;&#62;&#60;i class=&#34;fa fa-floppy-o&#34;&#62;&#60;/i&#62; fa-floppy-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/font&#34;&#62;&#60;i class=&#34;fa fa-font&#34;&#62;&#60;/i&#62; fa-font&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/header&#34;&#62;&#60;i class=&#34;fa fa-header&#34;&#62;&#60;/i&#62; fa-header&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/indent&#34;&#62;&#60;i class=&#34;fa fa-indent&#34;&#62;&#60;/i&#62; fa-indent&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/italic&#34;&#62;&#60;i class=&#34;fa fa-italic&#34;&#62;&#60;/i&#62; fa-italic&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/link&#34;&#62;&#60;i class=&#34;fa fa-link&#34;&#62;&#60;/i&#62; fa-link&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/list&#34;&#62;&#60;i class=&#34;fa fa-list&#34;&#62;&#60;/i&#62; fa-list&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/list-alt&#34;&#62;&#60;i class=&#34;fa fa-list-alt&#34;&#62;&#60;/i&#62; fa-list-alt&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/list-ol&#34;&#62;&#60;i class=&#34;fa fa-list-ol&#34;&#62;&#60;/i&#62; fa-list-ol&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/list-ul&#34;&#62;&#60;i class=&#34;fa fa-list-ul&#34;&#62;&#60;/i&#62; fa-list-ul&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/outdent&#34;&#62;&#60;i class=&#34;fa fa-outdent&#34;&#62;&#60;/i&#62; fa-outdent&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/paperclip&#34;&#62;&#60;i class=&#34;fa fa-paperclip&#34;&#62;&#60;/i&#62; fa-paperclip&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/paragraph&#34;&#62;&#60;i class=&#34;fa fa-paragraph&#34;&#62;&#60;/i&#62; fa-paragraph&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/clipboard&#34;&#62;&#60;i class=&#34;fa fa-paste&#34;&#62;&#60;/i&#62; fa-paste &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/repeat&#34;&#62;&#60;i class=&#34;fa fa-repeat&#34;&#62;&#60;/i&#62; fa-repeat&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/undo&#34;&#62;&#60;i class=&#34;fa fa-rotate-left&#34;&#62;&#60;/i&#62; fa-rotate-left &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/repeat&#34;&#62;&#60;i class=&#34;fa fa-rotate-right&#34;&#62;&#60;/i&#62; fa-rotate-right &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/floppy-o&#34;&#62;&#60;i class=&#34;fa fa-save&#34;&#62;&#60;/i&#62; fa-save &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/scissors&#34;&#62;&#60;i class=&#34;fa fa-scissors&#34;&#62;&#60;/i&#62; fa-scissors&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/strikethrough&#34;&#62;&#60;i class=&#34;fa fa-strikethrough&#34;&#62;&#60;/i&#62; fa-strikethrough&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/subscript&#34;&#62;&#60;i class=&#34;fa fa-subscript&#34;&#62;&#60;/i&#62; fa-subscript&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/superscript&#34;&#62;&#60;i class=&#34;fa fa-superscript&#34;&#62;&#60;/i&#62; fa-superscript&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/table&#34;&#62;&#60;i class=&#34;fa fa-table&#34;&#62;&#60;/i&#62; fa-table&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/text-height&#34;&#62;&#60;i class=&#34;fa fa-text-height&#34;&#62;&#60;/i&#62; fa-text-height&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/text-width&#34;&#62;&#60;i class=&#34;fa fa-text-width&#34;&#62;&#60;/i&#62; fa-text-width&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/th&#34;&#62;&#60;i class=&#34;fa fa-th&#34;&#62;&#60;/i&#62; fa-th&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/th-large&#34;&#62;&#60;i class=&#34;fa fa-th-large&#34;&#62;&#60;/i&#62; fa-th-large&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/th-list&#34;&#62;&#60;i class=&#34;fa fa-th-list&#34;&#62;&#60;/i&#62; fa-th-list&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/underline&#34;&#62;&#60;i class=&#34;fa fa-underline&#34;&#62;&#60;/i&#62; fa-underline&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/undo&#34;&#62;&#60;i class=&#34;fa fa-undo&#34;&#62;&#60;/i&#62; fa-undo&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/chain-broken&#34;&#62;&#60;i class=&#34;fa fa-unlink&#34;&#62;&#60;/i&#62; fa-unlink &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+&#60;/div&#62;
+&#60;/section&#62;
+
+&#60;section id=&#34;directional&#34;&#62;
+&#60;h2 class=&#34;page-header&#34;&#62;Directional Icons&#60;/h2&#62;
+&#60;div class=&#34;row fontawesome-icon-list&#34;&#62;
+   
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/angle-double-down&#34;&#62;&#60;i class=&#34;fa fa-angle-double-down&#34;&#62;&#60;/i&#62; fa-angle-double-down&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/angle-double-left&#34;&#62;&#60;i class=&#34;fa fa-angle-double-left&#34;&#62;&#60;/i&#62; fa-angle-double-left&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/angle-double-right&#34;&#62;&#60;i class=&#34;fa fa-angle-double-right&#34;&#62;&#60;/i&#62; fa-angle-double-right&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/angle-double-up&#34;&#62;&#60;i class=&#34;fa fa-angle-double-up&#34;&#62;&#60;/i&#62; fa-angle-double-up&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/angle-down&#34;&#62;&#60;i class=&#34;fa fa-angle-down&#34;&#62;&#60;/i&#62; fa-angle-down&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/angle-left&#34;&#62;&#60;i class=&#34;fa fa-angle-left&#34;&#62;&#60;/i&#62; fa-angle-left&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/angle-right&#34;&#62;&#60;i class=&#34;fa fa-angle-right&#34;&#62;&#60;/i&#62; fa-angle-right&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/angle-up&#34;&#62;&#60;i class=&#34;fa fa-angle-up&#34;&#62;&#60;/i&#62; fa-angle-up&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/arrow-circle-down&#34;&#62;&#60;i class=&#34;fa fa-arrow-circle-down&#34;&#62;&#60;/i&#62; fa-arrow-circle-down&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/arrow-circle-left&#34;&#62;&#60;i class=&#34;fa fa-arrow-circle-left&#34;&#62;&#60;/i&#62; fa-arrow-circle-left&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/arrow-circle-o-down&#34;&#62;&#60;i class=&#34;fa fa-arrow-circle-o-down&#34;&#62;&#60;/i&#62; fa-arrow-circle-o-down&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/arrow-circle-o-left&#34;&#62;&#60;i class=&#34;fa fa-arrow-circle-o-left&#34;&#62;&#60;/i&#62; fa-arrow-circle-o-left&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/arrow-circle-o-right&#34;&#62;&#60;i class=&#34;fa fa-arrow-circle-o-right&#34;&#62;&#60;/i&#62; fa-arrow-circle-o-right&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/arrow-circle-o-up&#34;&#62;&#60;i class=&#34;fa fa-arrow-circle-o-up&#34;&#62;&#60;/i&#62; fa-arrow-circle-o-up&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/arrow-circle-right&#34;&#62;&#60;i class=&#34;fa fa-arrow-circle-right&#34;&#62;&#60;/i&#62; fa-arrow-circle-right&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/arrow-circle-up&#34;&#62;&#60;i class=&#34;fa fa-arrow-circle-up&#34;&#62;&#60;/i&#62; fa-arrow-circle-up&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/arrow-down&#34;&#62;&#60;i class=&#34;fa fa-arrow-down&#34;&#62;&#60;/i&#62; fa-arrow-down&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/arrow-left&#34;&#62;&#60;i class=&#34;fa fa-arrow-left&#34;&#62;&#60;/i&#62; fa-arrow-left&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/arrow-right&#34;&#62;&#60;i class=&#34;fa fa-arrow-right&#34;&#62;&#60;/i&#62; fa-arrow-right&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/arrow-up&#34;&#62;&#60;i class=&#34;fa fa-arrow-up&#34;&#62;&#60;/i&#62; fa-arrow-up&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/arrows&#34;&#62;&#60;i class=&#34;fa fa-arrows&#34;&#62;&#60;/i&#62; fa-arrows&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/arrows-alt&#34;&#62;&#60;i class=&#34;fa fa-arrows-alt&#34;&#62;&#60;/i&#62; fa-arrows-alt&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/arrows-h&#34;&#62;&#60;i class=&#34;fa fa-arrows-h&#34;&#62;&#60;/i&#62; fa-arrows-h&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/arrows-v&#34;&#62;&#60;i class=&#34;fa fa-arrows-v&#34;&#62;&#60;/i&#62; fa-arrows-v&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/caret-down&#34;&#62;&#60;i class=&#34;fa fa-caret-down&#34;&#62;&#60;/i&#62; fa-caret-down&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/caret-left&#34;&#62;&#60;i class=&#34;fa fa-caret-left&#34;&#62;&#60;/i&#62; fa-caret-left&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/caret-right&#34;&#62;&#60;i class=&#34;fa fa-caret-right&#34;&#62;&#60;/i&#62; fa-caret-right&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/caret-square-o-down&#34;&#62;&#60;i class=&#34;fa fa-caret-square-o-down&#34;&#62;&#60;/i&#62; fa-caret-square-o-down&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/caret-square-o-left&#34;&#62;&#60;i class=&#34;fa fa-caret-square-o-left&#34;&#62;&#60;/i&#62; fa-caret-square-o-left&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/caret-square-o-right&#34;&#62;&#60;i class=&#34;fa fa-caret-square-o-right&#34;&#62;&#60;/i&#62; fa-caret-square-o-right&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/caret-square-o-up&#34;&#62;&#60;i class=&#34;fa fa-caret-square-o-up&#34;&#62;&#60;/i&#62; fa-caret-square-o-up&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/caret-up&#34;&#62;&#60;i class=&#34;fa fa-caret-up&#34;&#62;&#60;/i&#62; fa-caret-up&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/chevron-circle-down&#34;&#62;&#60;i class=&#34;fa fa-chevron-circle-down&#34;&#62;&#60;/i&#62; fa-chevron-circle-down&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/chevron-circle-left&#34;&#62;&#60;i class=&#34;fa fa-chevron-circle-left&#34;&#62;&#60;/i&#62; fa-chevron-circle-left&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/chevron-circle-right&#34;&#62;&#60;i class=&#34;fa fa-chevron-circle-right&#34;&#62;&#60;/i&#62; fa-chevron-circle-right&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/chevron-circle-up&#34;&#62;&#60;i class=&#34;fa fa-chevron-circle-up&#34;&#62;&#60;/i&#62; fa-chevron-circle-up&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/chevron-down&#34;&#62;&#60;i class=&#34;fa fa-chevron-down&#34;&#62;&#60;/i&#62; fa-chevron-down&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/chevron-left&#34;&#62;&#60;i class=&#34;fa fa-chevron-left&#34;&#62;&#60;/i&#62; fa-chevron-left&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/chevron-right&#34;&#62;&#60;i class=&#34;fa fa-chevron-right&#34;&#62;&#60;/i&#62; fa-chevron-right&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/chevron-up&#34;&#62;&#60;i class=&#34;fa fa-chevron-up&#34;&#62;&#60;/i&#62; fa-chevron-up&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/hand-o-down&#34;&#62;&#60;i class=&#34;fa fa-hand-o-down&#34;&#62;&#60;/i&#62; fa-hand-o-down&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/hand-o-left&#34;&#62;&#60;i class=&#34;fa fa-hand-o-left&#34;&#62;&#60;/i&#62; fa-hand-o-left&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/hand-o-right&#34;&#62;&#60;i class=&#34;fa fa-hand-o-right&#34;&#62;&#60;/i&#62; fa-hand-o-right&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/hand-o-up&#34;&#62;&#60;i class=&#34;fa fa-hand-o-up&#34;&#62;&#60;/i&#62; fa-hand-o-up&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/long-arrow-down&#34;&#62;&#60;i class=&#34;fa fa-long-arrow-down&#34;&#62;&#60;/i&#62; fa-long-arrow-down&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/long-arrow-left&#34;&#62;&#60;i class=&#34;fa fa-long-arrow-left&#34;&#62;&#60;/i&#62; fa-long-arrow-left&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/long-arrow-right&#34;&#62;&#60;i class=&#34;fa fa-long-arrow-right&#34;&#62;&#60;/i&#62; fa-long-arrow-right&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/long-arrow-up&#34;&#62;&#60;i class=&#34;fa fa-long-arrow-up&#34;&#62;&#60;/i&#62; fa-long-arrow-up&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/caret-square-o-down&#34;&#62;&#60;i class=&#34;fa fa-toggle-down&#34;&#62;&#60;/i&#62; fa-toggle-down &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/caret-square-o-left&#34;&#62;&#60;i class=&#34;fa fa-toggle-left&#34;&#62;&#60;/i&#62; fa-toggle-left &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/caret-square-o-right&#34;&#62;&#60;i class=&#34;fa fa-toggle-right&#34;&#62;&#60;/i&#62; fa-toggle-right &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/caret-square-o-up&#34;&#62;&#60;i class=&#34;fa fa-toggle-up&#34;&#62;&#60;/i&#62; fa-toggle-up &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+&#60;/div&#62;
+&#60;/section&#62;
+
+&#60;section id=&#34;video-player&#34;&#62;
+&#60;h2 class=&#34;page-header&#34;&#62;Video Player Icons&#60;/h2&#62;
+&#60;div class=&#34;row fontawesome-icon-list&#34;&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/arrows-alt&#34;&#62;&#60;i class=&#34;fa fa-arrows-alt&#34;&#62;&#60;/i&#62; fa-arrows-alt&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/backward&#34;&#62;&#60;i class=&#34;fa fa-backward&#34;&#62;&#60;/i&#62; fa-backward&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/compress&#34;&#62;&#60;i class=&#34;fa fa-compress&#34;&#62;&#60;/i&#62; fa-compress&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/eject&#34;&#62;&#60;i class=&#34;fa fa-eject&#34;&#62;&#60;/i&#62; fa-eject&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/expand&#34;&#62;&#60;i class=&#34;fa fa-expand&#34;&#62;&#60;/i&#62; fa-expand&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/fast-backward&#34;&#62;&#60;i class=&#34;fa fa-fast-backward&#34;&#62;&#60;/i&#62; fa-fast-backward&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/fast-forward&#34;&#62;&#60;i class=&#34;fa fa-fast-forward&#34;&#62;&#60;/i&#62; fa-fast-forward&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/forward&#34;&#62;&#60;i class=&#34;fa fa-forward&#34;&#62;&#60;/i&#62; fa-forward&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/pause&#34;&#62;&#60;i class=&#34;fa fa-pause&#34;&#62;&#60;/i&#62; fa-pause&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/play&#34;&#62;&#60;i class=&#34;fa fa-play&#34;&#62;&#60;/i&#62; fa-play&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/play-circle&#34;&#62;&#60;i class=&#34;fa fa-play-circle&#34;&#62;&#60;/i&#62; fa-play-circle&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/play-circle-o&#34;&#62;&#60;i class=&#34;fa fa-play-circle-o&#34;&#62;&#60;/i&#62; fa-play-circle-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/step-backward&#34;&#62;&#60;i class=&#34;fa fa-step-backward&#34;&#62;&#60;/i&#62; fa-step-backward&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/step-forward&#34;&#62;&#60;i class=&#34;fa fa-step-forward&#34;&#62;&#60;/i&#62; fa-step-forward&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/stop&#34;&#62;&#60;i class=&#34;fa fa-stop&#34;&#62;&#60;/i&#62; fa-stop&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/youtube-play&#34;&#62;&#60;i class=&#34;fa fa-youtube-play&#34;&#62;&#60;/i&#62; fa-youtube-play&#60;/a&#62;&#60;/div&#62;
+    
+&#60;/div&#62;
+&#60;/section&#62;
+
+&#60;section id=&#34;brand&#34;&#62;
+&#60;h2 class=&#34;page-header&#34;&#62;Brand Icons&#60;/h2&#62;
+
+	&#60;div class=&#34;alert alert-success&#34;&#62;
+		&#60;h4&#62;Please note&#60;/h4&#62;
+		&#60;ul class=&#34;margin-bottom-none padding-left-lg&#34;&#62;
+			&#60;li&#62;All brand icons are trademarks of their respective owners.&#60;/li&#62;
+			&#60;li&#62;The use of these trademarks does not indicate endorsement of the trademark holder by Font Awesome, ThemeFlood, nor vice versa.&#60;/li&#62;
+		&#60;/ul&#62;
+	&#60;/div&#62;
+
+	&#60;div class=&#34;alert alert-warning&#34;&#62;
+		&#60;h4&#62;Warning!&#60;/h4&#62;Apparently, Adblock Plus can remove Font Awesome brand icons with their &#34;Remove Social Media Buttons&#34; setting. We will not use hacks to force them to display. Please
+		&#60;a href=&#34;https://adblockplus.org/en/bugs&#34; class=&#34;alert-link&#34;&#62;report an issue with Adblock Plus&#60;/a&#62; if you believe this to be an error. To work around this, you&#39;ll need to modify the social icon class names.
+	&#60;/div&#62;
+
+&#60;div class=&#34;row fontawesome-icon-list&#34;&#62;
+ 
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/adn&#34;&#62;&#60;i class=&#34;fa fa-adn&#34;&#62;&#60;/i&#62; fa-adn&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/android&#34;&#62;&#60;i class=&#34;fa fa-android&#34;&#62;&#60;/i&#62; fa-android&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/apple&#34;&#62;&#60;i class=&#34;fa fa-apple&#34;&#62;&#60;/i&#62; fa-apple&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/behance&#34;&#62;&#60;i class=&#34;fa fa-behance&#34;&#62;&#60;/i&#62; fa-behance&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/behance-square&#34;&#62;&#60;i class=&#34;fa fa-behance-square&#34;&#62;&#60;/i&#62; fa-behance-square&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/bitbucket&#34;&#62;&#60;i class=&#34;fa fa-bitbucket&#34;&#62;&#60;/i&#62; fa-bitbucket&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/bitbucket-square&#34;&#62;&#60;i class=&#34;fa fa-bitbucket-square&#34;&#62;&#60;/i&#62; fa-bitbucket-square&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/btc&#34;&#62;&#60;i class=&#34;fa fa-bitcoin&#34;&#62;&#60;/i&#62; fa-bitcoin &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/btc&#34;&#62;&#60;i class=&#34;fa fa-btc&#34;&#62;&#60;/i&#62; fa-btc&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/codepen&#34;&#62;&#60;i class=&#34;fa fa-codepen&#34;&#62;&#60;/i&#62; fa-codepen&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/css3&#34;&#62;&#60;i class=&#34;fa fa-css3&#34;&#62;&#60;/i&#62; fa-css3&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/delicious&#34;&#62;&#60;i class=&#34;fa fa-delicious&#34;&#62;&#60;/i&#62; fa-delicious&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/deviantart&#34;&#62;&#60;i class=&#34;fa fa-deviantart&#34;&#62;&#60;/i&#62; fa-deviantart&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/digg&#34;&#62;&#60;i class=&#34;fa fa-digg&#34;&#62;&#60;/i&#62; fa-digg&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/dribbble&#34;&#62;&#60;i class=&#34;fa fa-dribbble&#34;&#62;&#60;/i&#62; fa-dribbble&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/dropbox&#34;&#62;&#60;i class=&#34;fa fa-dropbox&#34;&#62;&#60;/i&#62; fa-dropbox&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/drupal&#34;&#62;&#60;i class=&#34;fa fa-drupal&#34;&#62;&#60;/i&#62; fa-drupal&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/empire&#34;&#62;&#60;i class=&#34;fa fa-empire&#34;&#62;&#60;/i&#62; fa-empire&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/facebook&#34;&#62;&#60;i class=&#34;fa fa-facebook&#34;&#62;&#60;/i&#62; fa-facebook&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/facebook-square&#34;&#62;&#60;i class=&#34;fa fa-facebook-square&#34;&#62;&#60;/i&#62; fa-facebook-square&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/flickr&#34;&#62;&#60;i class=&#34;fa fa-flickr&#34;&#62;&#60;/i&#62; fa-flickr&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/foursquare&#34;&#62;&#60;i class=&#34;fa fa-foursquare&#34;&#62;&#60;/i&#62; fa-foursquare&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/empire&#34;&#62;&#60;i class=&#34;fa fa-ge&#34;&#62;&#60;/i&#62; fa-ge &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/git&#34;&#62;&#60;i class=&#34;fa fa-git&#34;&#62;&#60;/i&#62; fa-git&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/git-square&#34;&#62;&#60;i class=&#34;fa fa-git-square&#34;&#62;&#60;/i&#62; fa-git-square&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/github&#34;&#62;&#60;i class=&#34;fa fa-github&#34;&#62;&#60;/i&#62; fa-github&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/github-alt&#34;&#62;&#60;i class=&#34;fa fa-github-alt&#34;&#62;&#60;/i&#62; fa-github-alt&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/github-square&#34;&#62;&#60;i class=&#34;fa fa-github-square&#34;&#62;&#60;/i&#62; fa-github-square&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/gittip&#34;&#62;&#60;i class=&#34;fa fa-gittip&#34;&#62;&#60;/i&#62; fa-gittip&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/google&#34;&#62;&#60;i class=&#34;fa fa-google&#34;&#62;&#60;/i&#62; fa-google&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/google-plus&#34;&#62;&#60;i class=&#34;fa fa-google-plus&#34;&#62;&#60;/i&#62; fa-google-plus&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/google-plus-square&#34;&#62;&#60;i class=&#34;fa fa-google-plus-square&#34;&#62;&#60;/i&#62; fa-google-plus-square&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/hacker-news&#34;&#62;&#60;i class=&#34;fa fa-hacker-news&#34;&#62;&#60;/i&#62; fa-hacker-news&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/html5&#34;&#62;&#60;i class=&#34;fa fa-html5&#34;&#62;&#60;/i&#62; fa-html5&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/instagram&#34;&#62;&#60;i class=&#34;fa fa-instagram&#34;&#62;&#60;/i&#62; fa-instagram&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/joomla&#34;&#62;&#60;i class=&#34;fa fa-joomla&#34;&#62;&#60;/i&#62; fa-joomla&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/jsfiddle&#34;&#62;&#60;i class=&#34;fa fa-jsfiddle&#34;&#62;&#60;/i&#62; fa-jsfiddle&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/linkedin&#34;&#62;&#60;i class=&#34;fa fa-linkedin&#34;&#62;&#60;/i&#62; fa-linkedin&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/linkedin-square&#34;&#62;&#60;i class=&#34;fa fa-linkedin-square&#34;&#62;&#60;/i&#62; fa-linkedin-square&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/linux&#34;&#62;&#60;i class=&#34;fa fa-linux&#34;&#62;&#60;/i&#62; fa-linux&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/maxcdn&#34;&#62;&#60;i class=&#34;fa fa-maxcdn&#34;&#62;&#60;/i&#62; fa-maxcdn&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/openid&#34;&#62;&#60;i class=&#34;fa fa-openid&#34;&#62;&#60;/i&#62; fa-openid&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/pagelines&#34;&#62;&#60;i class=&#34;fa fa-pagelines&#34;&#62;&#60;/i&#62; fa-pagelines&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/pied-piper&#34;&#62;&#60;i class=&#34;fa fa-pied-piper&#34;&#62;&#60;/i&#62; fa-pied-piper&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/pied-piper-alt&#34;&#62;&#60;i class=&#34;fa fa-pied-piper-alt&#34;&#62;&#60;/i&#62; fa-pied-piper-alt&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/pied-piper&#34;&#62;&#60;i class=&#34;fa fa-pied-piper-square&#34;&#62;&#60;/i&#62; fa-pied-piper-square &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/pinterest&#34;&#62;&#60;i class=&#34;fa fa-pinterest&#34;&#62;&#60;/i&#62; fa-pinterest&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/pinterest-square&#34;&#62;&#60;i class=&#34;fa fa-pinterest-square&#34;&#62;&#60;/i&#62; fa-pinterest-square&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/qq&#34;&#62;&#60;i class=&#34;fa fa-qq&#34;&#62;&#60;/i&#62; fa-qq&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/rebel&#34;&#62;&#60;i class=&#34;fa fa-ra&#34;&#62;&#60;/i&#62; fa-ra &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/rebel&#34;&#62;&#60;i class=&#34;fa fa-rebel&#34;&#62;&#60;/i&#62; fa-rebel&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/reddit&#34;&#62;&#60;i class=&#34;fa fa-reddit&#34;&#62;&#60;/i&#62; fa-reddit&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/reddit-square&#34;&#62;&#60;i class=&#34;fa fa-reddit-square&#34;&#62;&#60;/i&#62; fa-reddit-square&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/renren&#34;&#62;&#60;i class=&#34;fa fa-renren&#34;&#62;&#60;/i&#62; fa-renren&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/share-alt&#34;&#62;&#60;i class=&#34;fa fa-share-alt&#34;&#62;&#60;/i&#62; fa-share-alt&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/share-alt-square&#34;&#62;&#60;i class=&#34;fa fa-share-alt-square&#34;&#62;&#60;/i&#62; fa-share-alt-square&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/skype&#34;&#62;&#60;i class=&#34;fa fa-skype&#34;&#62;&#60;/i&#62; fa-skype&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/slack&#34;&#62;&#60;i class=&#34;fa fa-slack&#34;&#62;&#60;/i&#62; fa-slack&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/soundcloud&#34;&#62;&#60;i class=&#34;fa fa-soundcloud&#34;&#62;&#60;/i&#62; fa-soundcloud&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/spotify&#34;&#62;&#60;i class=&#34;fa fa-spotify&#34;&#62;&#60;/i&#62; fa-spotify&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/stack-exchange&#34;&#62;&#60;i class=&#34;fa fa-stack-exchange&#34;&#62;&#60;/i&#62; fa-stack-exchange&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/stack-overflow&#34;&#62;&#60;i class=&#34;fa fa-stack-overflow&#34;&#62;&#60;/i&#62; fa-stack-overflow&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/steam&#34;&#62;&#60;i class=&#34;fa fa-steam&#34;&#62;&#60;/i&#62; fa-steam&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/steam-square&#34;&#62;&#60;i class=&#34;fa fa-steam-square&#34;&#62;&#60;/i&#62; fa-steam-square&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/stumbleupon&#34;&#62;&#60;i class=&#34;fa fa-stumbleupon&#34;&#62;&#60;/i&#62; fa-stumbleupon&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/stumbleupon-circle&#34;&#62;&#60;i class=&#34;fa fa-stumbleupon-circle&#34;&#62;&#60;/i&#62; fa-stumbleupon-circle&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/tencent-weibo&#34;&#62;&#60;i class=&#34;fa fa-tencent-weibo&#34;&#62;&#60;/i&#62; fa-tencent-weibo&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/trello&#34;&#62;&#60;i class=&#34;fa fa-trello&#34;&#62;&#60;/i&#62; fa-trello&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/tumblr&#34;&#62;&#60;i class=&#34;fa fa-tumblr&#34;&#62;&#60;/i&#62; fa-tumblr&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/tumblr-square&#34;&#62;&#60;i class=&#34;fa fa-tumblr-square&#34;&#62;&#60;/i&#62; fa-tumblr-square&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/twitter&#34;&#62;&#60;i class=&#34;fa fa-twitter&#34;&#62;&#60;/i&#62; fa-twitter&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/twitter-square&#34;&#62;&#60;i class=&#34;fa fa-twitter-square&#34;&#62;&#60;/i&#62; fa-twitter-square&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/vimeo-square&#34;&#62;&#60;i class=&#34;fa fa-vimeo-square&#34;&#62;&#60;/i&#62; fa-vimeo-square&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/vine&#34;&#62;&#60;i class=&#34;fa fa-vine&#34;&#62;&#60;/i&#62; fa-vine&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/vk&#34;&#62;&#60;i class=&#34;fa fa-vk&#34;&#62;&#60;/i&#62; fa-vk&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/weixin&#34;&#62;&#60;i class=&#34;fa fa-wechat&#34;&#62;&#60;/i&#62; fa-wechat &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/weibo&#34;&#62;&#60;i class=&#34;fa fa-weibo&#34;&#62;&#60;/i&#62; fa-weibo&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/weixin&#34;&#62;&#60;i class=&#34;fa fa-weixin&#34;&#62;&#60;/i&#62; fa-weixin&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/windows&#34;&#62;&#60;i class=&#34;fa fa-windows&#34;&#62;&#60;/i&#62; fa-windows&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/wordpress&#34;&#62;&#60;i class=&#34;fa fa-wordpress&#34;&#62;&#60;/i&#62; fa-wordpress&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/xing&#34;&#62;&#60;i class=&#34;fa fa-xing&#34;&#62;&#60;/i&#62; fa-xing&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/xing-square&#34;&#62;&#60;i class=&#34;fa fa-xing-square&#34;&#62;&#60;/i&#62; fa-xing-square&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/yahoo&#34;&#62;&#60;i class=&#34;fa fa-yahoo&#34;&#62;&#60;/i&#62; fa-yahoo&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/youtube&#34;&#62;&#60;i class=&#34;fa fa-youtube&#34;&#62;&#60;/i&#62; fa-youtube&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/youtube-play&#34;&#62;&#60;i class=&#34;fa fa-youtube-play&#34;&#62;&#60;/i&#62; fa-youtube-play&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/youtube-square&#34;&#62;&#60;i class=&#34;fa fa-youtube-square&#34;&#62;&#60;/i&#62; fa-youtube-square&#60;/a&#62;&#60;/div&#62;
+    
+&#60;/div&#62;
+&#60;/section&#62;
+
+&#60;section id=&#34;medical&#34;&#62;
+&#60;h2 class=&#34;page-header&#34;&#62;Medical Icons&#60;/h2&#62;
+&#60;div class=&#34;row fontawesome-icon-list&#34;&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/ambulance&#34;&#62;&#60;i class=&#34;fa fa-ambulance&#34;&#62;&#60;/i&#62; fa-ambulance&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/h-square&#34;&#62;&#60;i class=&#34;fa fa-h-square&#34;&#62;&#60;/i&#62; fa-h-square&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/hospital-o&#34;&#62;&#60;i class=&#34;fa fa-hospital-o&#34;&#62;&#60;/i&#62; fa-hospital-o&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/medkit&#34;&#62;&#60;i class=&#34;fa fa-medkit&#34;&#62;&#60;/i&#62; fa-medkit&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/plus-square&#34;&#62;&#60;i class=&#34;fa fa-plus-square&#34;&#62;&#60;/i&#62; fa-plus-square&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/stethoscope&#34;&#62;&#60;i class=&#34;fa fa-stethoscope&#34;&#62;&#60;/i&#62; fa-stethoscope&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/user-md&#34;&#62;&#60;i class=&#34;fa fa-user-md&#34;&#62;&#60;/i&#62; fa-user-md&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/wheelchair&#34;&#62;&#60;i class=&#34;fa fa-wheelchair&#34;&#62;&#60;/i&#62; fa-wheelchair&#60;/a&#62;&#60;/div&#62;
+    
+&#60;/div&#62;
+&#60;/section&#62;
+
+&#60;section id=&#34;spinner&#34;&#62;
+&#60;h2 class=&#34;page-header&#34;&#62;Spinner Icons&#60;/h2&#62;
+&#60;div class=&#34;row fontawesome-icon-list&#34;&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/circle-o-notch&#34;&#62;&#60;i class=&#34;fa fa-circle-o-notch&#34;&#62;&#60;/i&#62; fa-circle-o-notch&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/cog&#34;&#62;&#60;i class=&#34;fa fa-cog&#34;&#62;&#60;/i&#62; fa-cog&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/cog&#34;&#62;&#60;i class=&#34;fa fa-gear&#34;&#62;&#60;/i&#62; fa-gear &#60;span class=&#34;text-muted&#34;&#62;(alias)&#60;/span&#62;&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/refresh&#34;&#62;&#60;i class=&#34;fa fa-refresh&#34;&#62;&#60;/i&#62; fa-refresh&#60;/a&#62;&#60;/div&#62;
+    
+      &#60;div class=&#34;fa-hover col-md-3 col-sm-4&#34;&#62;&#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/icon/spinner&#34;&#62;&#60;i class=&#34;fa fa-spinner&#34;&#62;&#60;/i&#62; fa-spinner&#60;/a&#62;&#60;/div&#62;
+    
+&#60;/div&#62;
+&#60;/section&#62;
+
+
+
+&#60;br /&#62;
+&#60;br /&#62;
+&#60;div class=&#34;well&#34;&#62;
+&#60;strong&#62;How do I use Font Awesome icons in ThemeFlood RapidWeaver themes?&#60;/strong&#62;
+&#60;p&#62;The basics of it are really simple, even if you&#39;ve never used HTML code before. Unlike graphical GIF, PNG or JPG icons, Font Awesome icons are formed using text (fonts), as the name suggests; resulting is very low bandwidth and icons which remain pin-sharp on retina devices. Icons can be styled and recoloured using regular CSS code. Here&#39;s how it works:
+&#60;ol&#62;
+&#60;li&#62;Make sure you have got CSS Consolidation turned on in RapidWeaver preferences (this is of critical importance, otherwise the links to the icons will be broken)&#60;/li&#62;
+&#60;li&#62;In the point of a page where you want to display an icon, type &#60;code&#62;&#38;lt;i class=&#39;fa &#39;&#62;&#38;lt;/i&#62;&#60;/code&#62;
+&#60;li&#62;In the class attibute within your code, type the name of the icon like this: &#60;code&#62;&#38;lt;i class=&#39;fa fa-cloud&#39;&#62;&#38;lt;/i&#62;&#60;/code&#62;. This code will result in this:&#60;/li&#62;
+&#60;/ol&#62;
+&#60;i class=&#34;fa fa-cloud&#34; style=&#34;font-size: 25px; color: #000000;&#34;&#62;&#60;/i&#62;
+&#60;/p&#62;
+&#60;p&#62;Icons can go in the site title, site slogan, footer, ExtraContent regions, page name, sidebar title, and any styled text or HTML code region in your page. Icons will be displayed on all major web browsers and mobile / handheld devices as far back as Internet Explorer 8. IE6 and IE7 are not supported. Please refer to the &#60;a href=&#34;http://fortawesome.github.io/Font-Awesome/&#34;&#62;Font Awesome&#60;/a&#62; website for more examples and instructions. The ThemeFlood theme user guide also has a section dedicated to Font Awesome icons.&#60;/p&#62;
+
+&#60;p&#62;&#60;strong&#62;Want to make your icons bigger?&#60;/strong&#62;
+&#60;ol&#62;
+&#60;li&#62;In your code, add a style attrbute like this: &#60;code&#62;&#38;lt;i class=&#39;fa fa-icon-flag&#39; style=&#39;&#39;&#62;&#38;lt;/i&#62;&#60;/code&#62;&#60;/li&#62;
+&#60;li&#62;Next just enter a font size property and size: &#60;code&#62;&#38;lt;i class=&#39;fa fa-icon-flag&#39; style=&#39;font-size: 24px;&#39;&#62;&#38;lt;/i&#62;&#60;/code&#62;&#60;/li&#62;
+&#60;li&#62;To increase icon sizes relative to their container, use the &#60;code&#62;fa-lg&#60;/code&#62; (33% increase), &#60;code&#62;fa-2x&#60;/code&#62;, &#60;code&#62;fa-3x&#60;/code&#62;, &#60;code&#62;fa-4x&#60;/code&#62;, or &#60;code&#62;fa-5x&#60;/code&#62; classes like this &#60;code&#62;&#38;lt;i class=&#34;fa fa-flag fa-4x&#34;&#62;&#38;lt;/i&#62;&#60;/code&#62; which would result in this:&#60;/p&#62;
+&#60;/li&#62;
+&#60;/ol&#62;
+
+&#60;p&#62;
+&#60;i class=&#34;fa fa-flag fa-4x&#34;&#62;&#60;/i&#62;
+&#60;/p&#62;
+
+&#60;p&#62;&#60;strong&#62;Change the colour of your icons? CSS can help again...&#60;/strong&#62;
+&#60;ol&#62;
+&#60;li&#62;In your code, add a style attrbute like this (if you&#39;ve not done so already): &#60;code&#62;&#38;lt;i class=&#39;icon-umbrella-left&#39; style=&#39;&#39;&#62;&#38;lt;/i&#62;&#60;/code&#62;&#60;/li&#62;
+&#60;li&#62;Enter a colour property and hexadecimal value &#60;code&#62;&#38;lt;i class=&#39;icon-umbrella-left&#39; style=&#39;color: #0000FF;&#39;&#62;&#38;lt;/i&#62;&#60;/code&#62;&#60;/li&#62;
+&#60;/ol&#62;
+&#60;i class=&#34;fa fa-umbrella&#34; style=&#34;font-size: 25px; color: #0000FF;&#34;&#62;&#60;/i&#62;
+&#60;/p&#62;
+
+&#60;p&#62;&#60;strong&#62;Rotated or spinning animations? No problem...&#60;/strong&#62;
+&#60;p&#62;To rotate icons add a class of &#60;code&#62;fa-rotate-90&#60;/code&#62; or &#60;code&#62;icon-rotate-180&#60;/code&#62; or &#60;code&#62;fa-rotate-270&#60;/code&#62; or &#60;code&#62;icon-rotate-horizontal&#60;/code&#62; or &#60;code&#62;icon-rotate-vertical&#60;/code&#62; to the icons like: &#60;code&#62;&#38;lt;i class=&#39;icon-leaf fa-rotate-180&#39;&#62;&#38;lt;/i&#62;&#60;/code&#62; which will result in this:&#60;/p&#62;
+&#60;p&#62;
+&#60;i class=&#34;fa fa-leaf fa-rotate-180&#34; style=&#34;font-size: 25px;&#34;&#62;&#60;/i&#62;
+&#60;/p&#62;
+
+&#60;p&#62;Easily stack multiple icons. Use the &#60;code&#62;icon-stack&#60;/code&#62; class on the parent and &#60;code&#62;icon-stack-base&#60;/code&#62; for the bottom icon. So your code would look like this:
+&#60;pre&#62;
+&#38;lt;span class=&#39;fa-stack fa-x5&#39;&#62;
+	&#38;lt;i class=&#39;fa fa-bug fa-stack-1x&#39; style=&#39;color: green;&#39;&#62;&#38;lt;/i&#62;
+	&#38;lt;i class=&#39;fa fa-ban fa-stack-2x&#39; style=&#39;color: red;&#39;&#62;&#38;lt;/i&#62;
+&#38;lt;/span&#62;
+&#60;/pre&#62;
+Which would result in this:&#60;/p&#62;
+
+&#60;p&#62;
+&#60;span class=&#34;fa-stack fa-5x&#34;&#62;
+	&#60;i class=&#34;fa fa-bug fa-stack-1x&#34; style=&#34;color: green;&#34;&#62;&#60;/i&#62;
+	&#60;i class=&#34;fa fa-ban fa-stack-2x&#34; style=&#34;color: red;&#34;&#62;&#60;/i&#62;
+&#60;/span&#62;
+&#60;/p&#62;
+
+&#60;p&#62;To make icons spin, simply add a class of &#60;strong&#62;fa-spin&#60;/strong&#62; to the icons like: &#60;code&#62;&#38;lt;i class=&#39;fa-cog icon-spin&#39;&#62;&#38;lt;/i&#62;&#60;/code&#62;, which will create the following effect:&#60;/p&#62;
+&#60;p&#62;
+&#60;i class=&#34;fa fa-cog fa-spin&#34; style=&#34;font-size: 25px;&#34;&#62;&#60;/i&#62;
+&#60;/p&#62;
+&#60;p&#62;Just remember that some of this fancy wizz-bang stuff will not work in older web browsers; where animated icons will degrade gracefully back to static icons. This is true of IE8 and IE9. Also it&#39;s worth noting that IE7 does not support the display of Font Awesome icons in RapidWeaver themes at all. Microsoft ended support for IE7 and IE8 on 8th April 2014.&#60;/p&#62;
+&#60;/div&#62;
+
+
+&#60;!-- This CSS code is to style the icon snippet in RapidWeaver preview, and can be safely deleted --&#62;
+&#60;style type=&#34;text/css&#34;&#62;
+.row {
+	margin: 0;
+}
+
+.row.fontawesome-icon-list [class^=&#34;fa fa-&#34;] {
+	width: 50px;
+}
+
+#content a {
+	text-decoration: none;
+}
+
+.fa-hover {
+	padding: 0px;
+	margin: 0px;
+	list-style: none;
+	line-height: 40px;
+	font-size: 14px;
+	display: block;
+	overflow: auto;
+}
+
+.fa-hover .fa {
+	width: 30px;
+	line-height: 40px;
+	font-size: 25px;
+	padding-right: 10px;
+	float: left;
+	display: block;
+	text-align: center;
+}
+
+.fa-hover a .fa {
+	color: black;
+}
+&#60;/style&#62;</content>
+</snippet>
