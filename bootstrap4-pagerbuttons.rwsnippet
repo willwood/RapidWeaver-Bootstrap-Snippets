@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet xmlns="http://www.realmacsoftware.com/2007/Snippet/">
+	<title>Bootstrap 4 - Pager Buttons</title>
+	<content type="html">&#60;h3&#62;Pager Buttons&#60;/h3&#62;
+&#60;p&#62;Quick previous and next links for simple pagination implementations with light markup and styles. It&#39;s great for simple sites like blogs or magazines.&#60;/p&#62;
+
+&#60;ul class=&#34;pager&#34;&#62;
+	&#60;li&#62;&#60;a href=&#34;#&#34;&#62;Previous&#60;/a&#62;&#60;/li&#62;
+	&#60;li&#62;&#60;a href=&#34;#&#34;&#62;Next&#60;/a&#62;&#60;/li&#62;
+&#60;/ul&#62;
+&#60;br /&#62;
+&#60;br /&#62;
+
+&#60;hr /&#62;
+&#60;h3&#62;Horizontally opposed&#60;/h3&#62;
+&#60;p&#62;Alternatively, you can align each pager button to the side:&#60;/p&#62;
+
+&#60;ul class=&#34;pager&#34;&#62;
+	&#60;li class=&#34;previous&#34;&#62;&#60;a href=&#34;#&#34;&#62;&#38;larr; Older&#60;/a&#62;&#60;/li&#62;
+	&#60;li class=&#34;next&#34;&#62;&#60;a href=&#34;#&#34;&#62;Newer &#38;rarr;&#60;/a&#62;&#60;/li&#62;
+&#60;/ul&#62;
+&#60;br /&#62;
+&#60;br /&#62;
+
+&#60;hr /&#62;
+&#60;h3&#62;Disabled state&#60;/h3&#62;
+&#60;p&#62;Alternatively, you can have one or both buttons disabled, by adding a &#60;code&#62;disabled&#60;/code&#62; class:&#60;/p&#62;
+
+&#60;ul class=&#34;pager&#34;&#62;
+	&#60;li class=&#34;previous disabled&#34;&#62;&#60;a href=&#34;#&#34;&#62;&#38;larr; Older&#60;/a&#62;&#60;/li&#62;
+	&#60;li class=&#34;next&#34;&#62;&#60;a href=&#34;#&#34;&#62;Newer &#38;rarr;&#60;/a&#62;&#60;/li&#62;
+&#60;/ul&#62;</content>
+</snippet>

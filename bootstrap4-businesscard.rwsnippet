@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet xmlns="http://www.realmacsoftware.com/2007/Snippet/">
+	<title>Bootstrap 4 - Business Card</title>
+	<content type="html">&#60;h3&#62;Business card&#60;/h3&#62;
+&#60;p&#62;Use the Bootstrap Business Card code snippet to create small online business cards and personal profiles. Using &#60;code&#62;&#38;lt;address&#62;&#60;/code&#62; tags is very good for SEO and you should find that elements of the card like the email address and telephone number are automatically detected by web browsers.&#60;/p&#62;
+
+&#60;div class=&#34;span5 card&#34;&#62;
+	&#60;div class=&#34;row&#34;&#62;
+		&#60;div class=&#34;span2&#34;&#62;
+			&#60;a href=&#34;http://www.example.com/&#34; class=&#34;thumbnail&#34; style=&#34;float:left; margin-left:15px; margin-right:15px;&#34;&#62;&#60;img src=&#34;http://placehold.it/250x250&#34; alt=&#34;&#34;&#62;&#60;/a&#62;
+		&#60;/div&#62;&#60;!--/span--&#62;
+		&#60;div class=&#34;span3&#34;&#62;
+			&#60;address&#62;
+			&#60;strong&#62;Mr. John Smith&#60;/strong&#62;&#60;br /&#62;
+			Head of international operations&#60;br /&#62;&#60;br /&#62;
+			795 Folsom Ave, Suite 600&#60;br /&#62;
+			San Francisco, CA 94107&#60;br /&#62;&#60;br /&#62;
+			&#60;abbr title=&#34;Phone&#34;&#62;P:&#60;/abbr&#62; &#60;a href=&#34;tel:+13123456-7890&#34;&#62;(123) 456-7890&#60;/a&#62;&#60;br /&#62;
+			&#60;abbr title=&#34;Email&#34;&#62;E:&#60;/abbr&#62; &#60;a href=&#34;mailto:first.last@example.com&#34;&#62;first.last@example.com&#60;/a&#62;
+			&#60;/address&#62;
+		&#60;/div&#62;&#60;!--/span3--&#62;
+	&#60;/div&#62;&#60;!--/row--&#62;
+&#60;/div&#62;&#60;!--/card--&#62;</content>
+</snippet>

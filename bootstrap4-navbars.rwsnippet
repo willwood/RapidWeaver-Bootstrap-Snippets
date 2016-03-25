@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet xmlns="http://www.realmacsoftware.com/2007/Snippet/">
+	<title>Bootstrap 4 - Navbars</title>
+	<content type="html">&#60;h3&#62;Navbars&#60;/h3&#62;
+
+&#60;nav class=&#34;navbar navbar-light bg-faded&#34;&#62;
+	&#60;a class=&#34;navbar-brand&#34; href=&#34;#&#34;&#62;My Website&#60;/a&#62;
+	&#60;ul class=&#34;nav navbar-nav&#34;&#62;
+		&#60;li class=&#34;nav-item active&#34;&#62;
+			&#60;a class=&#34;nav-link&#34; href=&#34;#&#34;&#62;Home &#60;span class=&#34;sr-only&#34;&#62;(current)&#60;/span&#62;&#60;/a&#62;
+		&#60;/li&#62;
+		&#60;li class=&#34;nav-item&#34;&#62;
+			&#60;a class=&#34;nav-link&#34; href=&#34;#&#34;&#62;Features&#60;/a&#62;
+		&#60;/li&#62;
+		&#60;li class=&#34;nav-item&#34;&#62;
+			&#60;a class=&#34;nav-link&#34; href=&#34;#&#34;&#62;Pricing&#60;/a&#62;
+		&#60;/li&#62;
+		&#60;li class=&#34;nav-item&#34;&#62;
+			&#60;a class=&#34;nav-link&#34; href=&#34;#&#34;&#62;About&#60;/a&#62;
+		&#60;/li&#62;
+	&#60;/ul&#62;
+	&#60;form class=&#34;form-inline pull-xs-right&#34;&#62;
+		&#60;input class=&#34;form-control&#34; type=&#34;text&#34; placeholder=&#34;Search&#34;&#62;
+		&#60;button class=&#34;btn btn-info-outline&#34; type=&#34;submit&#34;&#62;Search&#60;/button&#62;
+	&#60;/form&#62;
+&#60;/nav&#62;
+&#60;br&#62;
+
+&#60;nav class=&#34;navbar navbar-dark bg-inverse&#34;&#62;
+	&#60;a class=&#34;navbar-brand&#34; href=&#34;#&#34;&#62;My Website&#60;/a&#62;
+	&#60;ul class=&#34;nav navbar-nav&#34;&#62;
+		&#60;li class=&#34;nav-item active&#34;&#62;
+			&#60;a class=&#34;nav-link&#34; href=&#34;#&#34;&#62;Home &#60;span class=&#34;sr-only&#34;&#62;(current)&#60;/span&#62;&#60;/a&#62;
+		&#60;/li&#62;
+		&#60;li class=&#34;nav-item&#34;&#62;
+			&#60;a class=&#34;nav-link&#34; href=&#34;#&#34;&#62;Features&#60;/a&#62;
+		&#60;/li&#62;
+		&#60;li class=&#34;nav-item&#34;&#62;
+			&#60;a class=&#34;nav-link&#34; href=&#34;#&#34;&#62;Pricing&#60;/a&#62;
+		&#60;/li&#62;
+		&#60;li class=&#34;nav-item&#34;&#62;
+			&#60;a class=&#34;nav-link&#34; href=&#34;#&#34;&#62;About&#60;/a&#62;
+		&#60;/li&#62;
+	&#60;/ul&#62;
+	&#60;form class=&#34;form-inline pull-xs-right&#34;&#62;
+		&#60;input class=&#34;form-control&#34; type=&#34;text&#34; placeholder=&#34;Search&#34;&#62;
+		&#60;button class=&#34;btn btn-info-outline&#34; type=&#34;submit&#34;&#62;Search&#60;/button&#62;
+	&#60;/form&#62;
+&#60;/nav&#62;
+&#60;br&#62;
+
+&#60;nav class=&#34;navbar navbar-dark bg-primary&#34;&#62;
+	&#60;a class=&#34;navbar-brand&#34; href=&#34;#&#34;&#62;My Website&#60;/a&#62;
+	&#60;ul class=&#34;nav navbar-nav&#34;&#62;
+		&#60;li class=&#34;nav-item active&#34;&#62;
+			&#60;a class=&#34;nav-link&#34; href=&#34;#&#34;&#62;Home &#60;span class=&#34;sr-only&#34;&#62;(current)&#60;/span&#62;&#60;/a&#62;
+		&#60;/li&#62;
+		&#60;li class=&#34;nav-item&#34;&#62;
+			&#60;a class=&#34;nav-link&#34; href=&#34;#&#34;&#62;Features&#60;/a&#62;
+		&#60;/li&#62;
+		&#60;li class=&#34;nav-item&#34;&#62;
+			&#60;a class=&#34;nav-link&#34; href=&#34;#&#34;&#62;Pricing&#60;/a&#62;
+		&#60;/li&#62;
+		&#60;li class=&#34;nav-item&#34;&#62;
+			&#60;a class=&#34;nav-link&#34; href=&#34;#&#34;&#62;About&#60;/a&#62;
+		&#60;/li&#62;
+	&#60;/ul&#62;
+	&#60;form class=&#34;form-inline pull-xs-right&#34;&#62;
+		&#60;input class=&#34;form-control&#34; type=&#34;text&#34; placeholder=&#34;Search&#34;&#62;
+		&#60;button class=&#34;btn btn-secondary-outline&#34; type=&#34;submit&#34;&#62;Search&#60;/button&#62;
+	&#60;/form&#62;
+&#60;/nav&#62;
+&#60;br&#62;
+
+&#60;nav class=&#34;navbar navbar-light&#34; style=&#34;background-color: #e3f2fd;&#34;&#62;
+	&#60;a class=&#34;navbar-brand&#34; href=&#34;#&#34;&#62;My Website&#60;/a&#62;
+	&#60;ul class=&#34;nav navbar-nav&#34;&#62;
+		&#60;li class=&#34;nav-item active&#34;&#62;
+			&#60;a class=&#34;nav-link&#34; href=&#34;#&#34;&#62;Home &#60;span class=&#34;sr-only&#34;&#62;(current)&#60;/span&#62;&#60;/a&#62;
+		&#60;/li&#62;
+		&#60;li class=&#34;nav-item&#34;&#62;
+			&#60;a class=&#34;nav-link&#34; href=&#34;#&#34;&#62;Features&#60;/a&#62;
+		&#60;/li&#62;
+		&#60;li class=&#34;nav-item&#34;&#62;
+			&#60;a class=&#34;nav-link&#34; href=&#34;#&#34;&#62;Pricing&#60;/a&#62;
+		&#60;/li&#62;
+		&#60;li class=&#34;nav-item&#34;&#62;
+			&#60;a class=&#34;nav-link&#34; href=&#34;#&#34;&#62;About&#60;/a&#62;
+		&#60;/li&#62;
+	&#60;/ul&#62;
+	&#60;form class=&#34;form-inline pull-xs-right&#34;&#62;
+		&#60;input class=&#34;form-control&#34; type=&#34;text&#34; placeholder=&#34;Search&#34;&#62;
+		&#60;button class=&#34;btn btn-primary-outline&#34; type=&#34;submit&#34;&#62;Search&#60;/button&#62;
+	&#60;/form&#62;
+&#60;/nav&#62;</content>
+</snippet>

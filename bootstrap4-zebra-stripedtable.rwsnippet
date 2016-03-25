@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet xmlns="http://www.realmacsoftware.com/2007/Snippet/">
+	<title>Bootstrap 4 - Zebra-Striped Table</title>
+	<content type="html">&#60;h3&#62;Zebra-striped table&#60;/h3&#62;
+&#60;p&#62;An attractive table that is easier to read, and which supports both headings and rollover hover effects.&#60;/p&#62;
+
+&#60;table class=&#34;table table-bordered table-striped table-hover&#34;&#62;
+	&#60;tr&#62;
+		&#60;th&#62;Table Cell Heading&#60;/th&#62;
+		&#60;th&#62;Table Cell Heading&#60;/th&#62;
+		&#60;th&#62;Table Cell Heading&#60;/th&#62;
+		&#60;th&#62;Table Cell Heading&#60;/th&#62;
+	&#60;/tr&#62;
+	&#60;tr&#62;
+		&#60;td&#62;Table Cell&#60;/td&#62;
+		&#60;td&#62;Table Cell&#60;/td&#62;
+		&#60;td&#62;Table Cell&#60;/td&#62;
+		&#60;td&#62;Table Cell&#60;/td&#62;
+	&#60;/tr&#62;
+	&#60;tr&#62;
+		&#60;td&#62;Table Cell&#60;/td&#62;
+		&#60;td&#62;Table Cell&#60;/td&#62;
+		&#60;td&#62;Table Cell&#60;/td&#62;
+		&#60;td&#62;Table Cell&#60;/td&#62;
+	&#60;/tr&#62;
+	&#60;tr&#62;
+		&#60;td&#62;Table Cell&#60;/td&#62;
+		&#60;td&#62;Table Cell&#60;/td&#62;
+		&#60;td&#62;Table Cell&#60;/td&#62;
+		&#60;td&#62;Table Cell&#60;/td&#62;
+	&#60;/tr&#62;
+&#60;/table&#62;</content>
+</snippet>

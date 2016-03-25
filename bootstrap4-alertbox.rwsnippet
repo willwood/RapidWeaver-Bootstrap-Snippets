@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet xmlns="http://www.realmacsoftware.com/2007/Snippet/">
+	<title>Bootstrap 4 - Alert box</title>
+	<content type="html">&#60;h3&#62;Alert messages&#60;/h3&#62;
+&#60;p&#62;Simple message boxes with the ability to dismiss (close / hide) a message using a close button&#60;/p&#62;
+
+&#60;!-- Include these two Javascript calls just the ONCE in your page --&#62;
+&#60;!-- This is the call for jQuery. Adjust the version number if you prefer --&#62;
+	&#60;script type=&#39;text/javascript&#39; charset=&#39;utf-8&#39; src=&#39;https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js&#39;&#62;&#60;/script&#62;
+&#60;!-- This is the call for bootstrap.js. This Javascript file is stored in the theme contents or you can point it to a file elsewhere --&#62;
+	&#60;script type=&#39;text/javascript&#39; charset=&#39;utf-8&#39; src=&#39;%pathto(bootstrap/js/bootstrap.min.js)%&#39;&#62;&#60;/script&#62;
+&#60;!-- End of Javascript calls --&#62;
+
+&#60;!-- This is the HTML code for your alert. Change the class name (alert-danger) to either alert-success, alert-info or alert-error to change the style --&#62;
+&#60;div class=&#34;alert alert-block alert-danger fade in&#34;&#62;
+	&#60;button type=&#34;button&#34; class=&#34;close&#34; data-dismiss=&#34;alert&#34; aria-hidden=&#34;true&#34;&#62;×&#60;/button&#62;
+        &#60;h4&#62;Danger!&#60;/h4&#62;
+        &#60;p&#62;Change this and that and try again. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum.&#60;/p&#62;
+	&#60;p&#62;
+		&#60;a class=&#34;btn btn-danger&#34; href=&#34;#&#34;&#62;Take this action&#60;/a&#62; &#60;a class=&#34;btn btn-default&#34; href=&#34;#&#34;&#62;Or do this&#60;/a&#62;
+	&#60;/p&#62;
+&#60;/div&#62;&#60;!--/alert-block--&#62;
+
+&#60;div class=&#34;alert alert-block alert-success fade in&#34;&#62;
+	&#60;button type=&#34;button&#34; class=&#34;close&#34; data-dismiss=&#34;alert&#34; aria-hidden=&#34;true&#34;&#62;×&#60;/button&#62;
+        &#60;h4&#62;Success!&#60;/h4&#62;
+        &#60;p&#62;Change this and that and try again. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum.&#60;/p&#62;
+	&#60;p&#62;
+		&#60;a class=&#34;btn btn-success&#34; href=&#34;#&#34;&#62;Take this action&#60;/a&#62; &#60;a class=&#34;btn btn-default&#34; href=&#34;#&#34;&#62;Or do this&#60;/a&#62;
+	&#60;/p&#62;
+&#60;/div&#62;&#60;!--/alert-block--&#62;
+
+&#60;div class=&#34;alert alert-block alert-warning fade in&#34;&#62;
+	&#60;button type=&#34;button&#34; class=&#34;close&#34; data-dismiss=&#34;alert&#34; aria-hidden=&#34;true&#34;&#62;×&#60;/button&#62;
+        &#60;h4&#62;Warning!&#60;/h4&#62;
+        &#60;p&#62;Change this and that and try again. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum.&#60;/p&#62;
+	&#60;p&#62;
+		&#60;a class=&#34;btn btn-warning&#34; href=&#34;#&#34;&#62;Take this action&#60;/a&#62; &#60;a class=&#34;btn btn-default&#34; href=&#34;#&#34;&#62;Or do this&#60;/a&#62;
+	&#60;/p&#62;
+&#60;/div&#62;&#60;!--/alert-block--&#62;
+
+&#60;div class=&#34;alert alert-block alert-info fade in&#34;&#62;
+	&#60;button type=&#34;button&#34; class=&#34;close&#34; data-dismiss=&#34;alert&#34; aria-hidden=&#34;true&#34;&#62;×&#60;/button&#62;
+        &#60;h4&#62;Info!&#60;/h4&#62;
+        &#60;p&#62;Change this and that and try again. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum.&#60;/p&#62;
+	&#60;p&#62;
+		&#60;a class=&#34;btn btn-info&#34; href=&#34;#&#34;&#62;Take this action&#60;/a&#62; &#60;a class=&#34;btn btn-default&#34; href=&#34;#&#34;&#62;Or do this&#60;/a&#62;
+	&#60;/p&#62;
+&#60;/div&#62;&#60;!--/alert-block--&#62;</content>
+</snippet>

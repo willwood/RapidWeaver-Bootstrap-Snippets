@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet xmlns="http://www.realmacsoftware.com/2007/Snippet/">
+	<title>Bootstrap 4 - Nav Dropdowns</title>
+	<content type="html">&#60;h3&#62;Nav Dropdowns&#60;/h3&#62;
+
+&#60;ul class=&#34;nav nav-tabs&#34;&#62;
+	&#60;li class=&#34;nav-item&#34;&#62;
+		&#60;a class=&#34;nav-link active&#34; href=&#34;#&#34;&#62;Active&#60;/a&#62;
+	&#60;/li&#62;
+	&#60;li class=&#34;nav-item dropdown&#34;&#62;
+		&#60;a class=&#34;nav-link dropdown-toggle&#34; data-toggle=&#34;dropdown&#34; href=&#34;#&#34; role=&#34;button&#34; aria-haspopup=&#34;true&#34; aria-expanded=&#34;false&#34;&#62;Dropdown&#60;/a&#62;
+		&#60;div class=&#34;dropdown-menu&#34;&#62;
+			&#60;a class=&#34;dropdown-item&#34; href=&#34;#&#34;&#62;Action&#60;/a&#62;
+			&#60;a class=&#34;dropdown-item&#34; href=&#34;#&#34;&#62;Another action&#60;/a&#62;
+			&#60;a class=&#34;dropdown-item&#34; href=&#34;#&#34;&#62;Something else here&#60;/a&#62;
+			&#60;div class=&#34;dropdown-divider&#34;&#62;&#60;/div&#62;
+			&#60;a class=&#34;dropdown-item&#34; href=&#34;#&#34;&#62;Separated link&#60;/a&#62;
+		&#60;/div&#62;
+	&#60;/li&#62;
+	&#60;li class=&#34;nav-item&#34;&#62;
+		&#60;a class=&#34;nav-link&#34; href=&#34;#&#34;&#62;Another link&#60;/a&#62;
+	&#60;/li&#62;
+	&#60;li class=&#34;nav-item&#34;&#62;
+		&#60;a class=&#34;nav-link disabled&#34; href=&#34;#&#34;&#62;Disabled&#60;/a&#62;
+	&#60;/li&#62;
+&#60;/ul&#62;
+&#60;br&#62;
+
+&#60;hr&#62;
+&#60;h3&#62;Nav Pills With Dropdown&#60;/h3&#62;
+&#60;ul class=&#34;nav nav-pills&#34;&#62;
+	&#60;li class=&#34;nav-item&#34;&#62;
+		&#60;a class=&#34;nav-link active&#34; href=&#34;#&#34;&#62;Active&#60;/a&#62;
+	&#60;/li&#62;
+	&#60;li class=&#34;nav-item dropdown&#34;&#62;
+		&#60;a class=&#34;nav-link dropdown-toggle&#34; data-toggle=&#34;dropdown&#34; href=&#34;#&#34; role=&#34;button&#34; aria-haspopup=&#34;true&#34; aria-expanded=&#34;false&#34;&#62;Dropdown&#60;/a&#62;
+		&#60;div class=&#34;dropdown-menu&#34;&#62;
+			&#60;a class=&#34;dropdown-item&#34; href=&#34;#&#34;&#62;Action&#60;/a&#62;
+			&#60;a class=&#34;dropdown-item&#34; href=&#34;#&#34;&#62;Another action&#60;/a&#62;
+			&#60;a class=&#34;dropdown-item&#34; href=&#34;#&#34;&#62;Something else here&#60;/a&#62;
+			&#60;div class=&#34;dropdown-divider&#34;&#62;&#60;/div&#62;
+			&#60;a class=&#34;dropdown-item&#34; href=&#34;#&#34;&#62;Separated link&#60;/a&#62;
+		&#60;/div&#62;
+	&#60;/li&#62;
+	&#60;li class=&#34;nav-item&#34;&#62;
+		&#60;a class=&#34;nav-link&#34; href=&#34;#&#34;&#62;Another link&#60;/a&#62;
+	&#60;/li&#62;
+	&#60;li class=&#34;nav-item&#34;&#62;
+		&#60;a class=&#34;nav-link disabled&#34; href=&#34;#&#34;&#62;Disabled&#60;/a&#62;
+	&#60;/li&#62;
+&#60;/ul&#62;
+
+
+&#60;!-- jQuery call and Javascript code for the tabs --&#62;
+&#60;script src=&#34;https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js&#34;&#62;&#60;/script&#62;
+&#60;script type=&#34;text/javascript&#34; src=&#34;%pathto(bootstrap/js/bootstrap.min.js)%&#34;&#62;&#60;/script&#62;
+&#60;script type=&#34;text/javascript&#34;&#62;
+$(document).ready(function() {
+	$(&#39;.dropdown-toggle&#39;).dropdown()
+});
+&#60;/script&#62;</content>
+</snippet>

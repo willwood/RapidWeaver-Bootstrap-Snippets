@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet xmlns="http://www.realmacsoftware.com/2007/Snippet/">
+	<title>Bootstrap 4 - Section header</title>
+	<content type="html">&#60;h3&#62;Section header&#60;/h3&#62;
+&#60;p&#62;Creates a bold title and subtitle.&#60;/p&#62;
+&#60;div class=&#34;page-header&#34;&#62;
+	&#60;h4&#62;A section title goes here &#60;small&#62;A catchy subtitle goes here to compliment&#60;/small&#62;&#60;/h4&#62;
+&#60;/div&#62;</content>
+</snippet>

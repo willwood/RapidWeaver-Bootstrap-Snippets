@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <snippet xmlns="http://www.realmacsoftware.com/2007/Snippet/">
 	<title>ExtraContent Code Snippet</title>
-	<content type="html">&#60;!-- 
-INSTRUCTIONS:
-1) Use the &#39;Preview ExtraContent Containers&#39; option in the theme style settings to see where each container is located
-2) Drop this code snippet into any styled text or HTML code area in your page content or sidebar region
-3) Change the number referenced in the code snippet (e.g. 6) to match the number of the ExtraContent container to use
-4) Replace &#39;Hello World&#39; with your content, @import calls or HTML / PHP code
-
-TIP:
-If using this code snippet in a Styled Text region, highlight the code and click Format &#62; Ignore Formatting in the RapidWeaver menu, to ignore line and paragraph breaks. You can delete these instructions after you&#39;ve read them. More information about ExtraContent can be found in the theme user guide, and at http://extracontent.info/
---&#62;
+	<content type="html">&#60;!-- Use the &#39;Preview ExtraContent Containers&#39; option in the theme Miscellaneous style settings to see where each container is located. Drop this code snippet into any styled text or HTML code area in your page content or sidebar region. Change the number referenced in the code snippet (e.g. 6) to match the number of the ExtraContent container you want to target. Replace the &#39;Hello World&#39; test with your content. Please note that in some RapidWeaver themes, certain ExtraContent containers need to be enabled in the theme settings, before they show. --&#62;
 
 &#60;div id=&#39;myExtraContent6&#39;&#62;Hello World!&#60;/div&#62;</content>
 </snippet>

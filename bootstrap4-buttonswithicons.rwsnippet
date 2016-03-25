@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet xmlns="http://www.realmacsoftware.com/2007/Snippet/">
+	<title>Bootstrap 4 - Buttons With Icons</title>
+	<content type="html">&#60;h3&#62;Buttons with icons&#60;/h3&#62;
+&#60;p&#62;Bootstrap buttons combined with Font Awesome 4 icons. The result is bigger and more colourful buttons, which can be used to link to pages on your website or external links. Buttons can either be floated next to each other or stacked vertically within paragraph tags.&#60;/p&#62;
+
+&#60;p&#62;
+	&#60;a class=&#34;btn btn-lg btn-primary&#34; href=&#34;http://example.com/&#34;&#62;&#60;i class=&#34;fa fa-user fa-lg pull-left&#34; style=&#34;color:#ffffff&#34;&#62;&#60;/i&#62;&#60;span&#62;User Profile&#60;br&#62;&#60;small&#62;Lorem ipsum dolor sit&#60;/small&#62;&#60;/span&#62;&#60;/a&#62;
+&#60;/p&#62;
+&#60;p&#62;
+	&#60;a class=&#34;btn btn-lg btn-secondary&#34; href=&#34;http://example.com/&#34;&#62;&#60;i class=&#34;fa fa-truck fa-lg pull-left&#34;&#62;&#60;/i&#62;&#60;span&#62;Order Lookup&#60;br&#62;&#60;small&#62;Lorem ipsum dolor sit&#60;/small&#62;&#60;/span&#62;&#60;/a&#62;
+&#60;/p&#62;
+&#60;p&#62;
+	&#60;a class=&#34;btn btn-lg btn-success&#34; href=&#34;http://example.com/&#34;&#62;&#60;i class=&#34;fa fa-tachometer fa-lg pull-left&#34; style=&#34;color:#ffffff&#34;&#62;&#60;/i&#62;&#60;span&#62;Dashboard&#60;br&#62;&#60;small&#62;Lorem ipsum dolor sit&#60;/small&#62;&#60;/span&#62;&#60;/a&#62;
+&#60;/p&#62;
+&#60;p&#62;
+	&#60;a class=&#34;btn btn-lg btn-danger&#34; href=&#34;http://example.com/&#34;&#62;&#60;i class=&#34;fa fa-envelope fa-lg pull-left&#34; style=&#34;color:#ffffff&#34;&#62;&#60;/i&#62;&#60;span&#62;Contact Us&#60;br&#62;&#60;small&#62;Lorem ipsum dolor sit&#60;/small&#62;&#60;/span&#62;&#60;/a&#62;
+&#60;/p&#62;
+&#60;p&#62;
+	&#60;a class=&#34;btn btn-lg btn-warning&#34; href=&#34;http://example.com/&#34;&#62;&#60;i class=&#34;fa fa-search fa-lg pull-left&#34; style=&#34;color:#ffffff&#34;&#62;&#60;/i&#62;&#60;span&#62;Search&#60;br&#62;&#60;small&#62;Lorem ipsum dolor sit&#60;/small&#62;&#60;/span&#62;&#60;/a&#62;
+&#60;/p&#62;
+&#60;p&#62;
+	&#60;a class=&#34;btn btn-lg btn-info&#34; href=&#34;http://example.com/&#34;&#62;&#60;i class=&#34;fa fa-cogs fa-lg pull-left&#34; style=&#34;color:#ffffff&#34;&#62;&#60;/i&#62;&#60;span&#62;Settings&#60;br&#62;&#60;small&#62;Lorem ipsum dolor sit&#60;/small&#62;&#60;/span&#62;&#60;/a&#62;
+&#60;/p&#62;</content>
+</snippet>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet xmlns="http://www.realmacsoftware.com/2007/Snippet/">
+	<title>Bootstrap 4 - Labels</title>
+	<content type="html">&#60;h3&#62;Contextual Labels&#60;/h3&#62;
+&#60;span class=&#34;label label-default&#34;&#62;Default&#60;/span&#62;
+&#60;br /&#62;
+&#60;span class=&#34;label label-success&#34;&#62;Success&#60;/span&#62;
+&#60;br /&#62;
+&#60;span class=&#34;label label-warning&#34;&#62;Warning&#60;/span&#62;
+&#60;br /&#62;
+&#60;span class=&#34;label label-danger&#34;&#62;Danger&#60;/span&#62;
+&#60;br /&#62;
+&#60;span class=&#34;label label-info&#34;&#62;Info&#60;/span&#62;
+&#60;br /&#62;
+
+&#60;hr /&#62;
+&#60;h3&#62;Pill Labels&#60;/h3&#62;
+&#60;span class=&#34;label label-pill label-default&#34;&#62;Default&#60;/span&#62;
+&#60;br /&#62;
+&#60;span class=&#34;label label-pill label-success&#34;&#62;Success&#60;/span&#62;
+&#60;br /&#62;
+&#60;span class=&#34;label label-pill label-warning&#34;&#62;Warning&#60;/span&#62;
+&#60;br /&#62;
+&#60;span class=&#34;label label-pill label-danger&#34;&#62;Danger&#60;/span&#62;
+&#60;br /&#62;
+&#60;span class=&#34;label label-pill label-info&#34;&#62;Info&#60;/span&#62;
+&#60;br /&#62;</content>
+</snippet>

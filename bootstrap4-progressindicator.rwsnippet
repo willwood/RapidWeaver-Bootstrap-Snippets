@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet xmlns="http://www.realmacsoftware.com/2007/Snippet/">
+	<title>Bootstrap 4 - Progress Bars</title>
+	<content type="html">&#60;h3&#62;Progress Bars&#60;/h3&#62;
+&#60;p&#62;Although commonly used by developers to indicate when a process is happening on a page (like a form submission or file upload) the progress indicator in Bootstrap is also great to use as a &#39;static&#39; indicator on web pages. For example, if people are reading through pages sequentially on your website (like following a curriculum) you can display their progress at the top of the page like this:&#60;/p&#62;
+
+&#60;p&#62;&#60;strong&#62;Coloured progress bars&#60;/strong&#62;&#60;/p&#62;
+&#60;p&#62;Progress bars use some of the same button and alert classes for consistent styles.&#60;/p&#62;
+&#60;progress class=&#34;progress progress-success&#34; value=&#34;25&#34; max=&#34;100&#34;&#62;25%&#60;/progress&#62;
+&#60;progress class=&#34;progress progress-info&#34; value=&#34;50&#34; max=&#34;100&#34;&#62;50%&#60;/progress&#62;
+&#60;progress class=&#34;progress progress-warning&#34; value=&#34;75&#34; max=&#34;100&#34;&#62;75%&#60;/progress&#62;
+&#60;progress class=&#34;progress progress-danger&#34; value=&#34;100&#34; max=&#34;100&#34;&#62;100%&#60;/progress&#62;
+
+&#60;p&#62;&#60;strong&#62;Striped progress bars&#60;/strong&#62;&#60;/p&#62;
+&#60;p&#62;Uses a gradient to create a striped effect.&#60;/p&#62;
+&#60;progress class=&#34;progress progress-striped&#34; value=&#34;10&#34; max=&#34;100&#34;&#62;10%&#60;/progress&#62;
+&#60;progress class=&#34;progress progress-striped progress-success&#34; value=&#34;25&#34; max=&#34;100&#34;&#62;25%&#60;/progress&#62;
+&#60;progress class=&#34;progress progress-striped progress-info&#34; value=&#34;50&#34; max=&#34;100&#34;&#62;50%&#60;/progress&#62;
+&#60;progress class=&#34;progress progress-striped progress-warning&#34; value=&#34;75&#34; max=&#34;100&#34;&#62;75%&#60;/progress&#62;
+&#60;progress class=&#34;progress progress-striped progress-danger&#34; value=&#34;100&#34; max=&#34;100&#34;&#62;100%&#60;/progress&#62;
+
+&#60;p&#62;&#60;strong&#62;Animated progress bars&#60;/strong&#62;&#60;/p&#62;
+&#60;p&#62;Add &#60;code&#62;progress-animated&#60;/code&#62; to &#60;code&#62;progress&#60;/code&#62; to animate the stripes right to left. Animated progress bars do not work in IE9 and Opera 12 as they don’t support CSS3 animations.&#60;/p&#62;
+&#60;progress class=&#34;progress progress-striped progress-animated&#34; value=&#34;10&#34; max=&#34;100&#34;&#62;10%&#60;/progress&#62;
+&#60;progress class=&#34;progress progress-striped progress-success progress-animated&#34; value=&#34;25&#34; max=&#34;100&#34;&#62;25%&#60;/progress&#62;
+&#60;progress class=&#34;progress progress-striped progress-info progress-animated&#34; value=&#34;50&#34; max=&#34;100&#34;&#62;50%&#60;/progress&#62;
+&#60;progress class=&#34;progress progress-striped progress-warning progress-animated&#34; value=&#34;75&#34; max=&#34;100&#34;&#62;75%&#60;/progress&#62;
+&#60;progress class=&#34;progress progress-striped progress-danger progress-animated&#34; value=&#34;100&#34; max=&#34;100&#34;&#62;100%&#60;/progress&#62;</content>
+</snippet>

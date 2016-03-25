@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet xmlns="http://www.realmacsoftware.com/2007/Snippet/">
+	<title>Bootstrap 4 - Carousel Image Slider</title>
+	<content type="html">&#60;h3&#62;Image carousel&#60;/h3&#62;
+&#60;p&#62;Creates a basic sliding image carousel effect, ideal for within a page content region, an ExtraContent container or a theme header / banner.&#60;/p&#62;
+
+&#60;!-- This is the HTML code for your Carousel. Each slide sits inside a .carousel-item container. Replace existing images with links to your new images. Likewise you can edit or delete the captions to suit. Optionally you can add links for your images, using standard HTML code. Each time you add a new item, add a new carousel indicator. If using this code snippet in a styled text region within RapidWeaver, remember to highlight the code and set it to &#39;ignore&#39; formatting (in the RapidWeaver format menu) to remove line and paragraph breaks. Note how the first indicator list item and carousel item receive a class of &#39;active&#39;, to tell carousel to start on these. --&#62;
+
+&#60;div id=&#34;carousel-example-generic&#34; class=&#34;carousel slide&#34; data-ride=&#34;carousel&#34;&#62;
+	&#60;ol class=&#34;carousel-indicators&#34;&#62;
+		&#60;li data-target=&#34;#carousel-example-generic&#34; data-slide-to=&#34;0&#34; class=&#34;active&#34;&#62;&#60;/li&#62;
+		&#60;li data-target=&#34;#carousel-example-generic&#34; data-slide-to=&#34;1&#34;&#62;&#60;/li&#62;
+		&#60;li data-target=&#34;#carousel-example-generic&#34; data-slide-to=&#34;2&#34;&#62;&#60;/li&#62;
+	&#60;/ol&#62;
+	&#60;div class=&#34;carousel-inner&#34; role=&#34;listbox&#34;&#62;
+		&#60;div class=&#34;carousel-item active&#34;&#62;
+			&#60;img src=&#34;%pathto(images/editable_images/banner1.jpg)%&#34; alt=&#34;Banner 1&#34;&#62;
+			&#60;div class=&#34;carousel-caption&#34;&#62;&#60;p&#62;Option caption text goes here&#60;/p&#62;&#60;/div&#62;
+		&#60;/div&#62;
+		&#60;div class=&#34;carousel-item&#34;&#62;
+			&#60;img src=&#34;%pathto(images/editable_images/banner2.jpg)%&#34; alt=&#34;Banner 2&#34;&#62;
+			&#60;div class=&#34;carousel-caption&#34;&#62;&#60;p&#62;Option caption text goes here&#60;/p&#62;&#60;/div&#62;
+		&#60;/div&#62;
+		&#60;div class=&#34;carousel-item&#34;&#62;
+			&#60;img src=&#34;%pathto(images/editable_images/banner3.jpg)%&#34; alt=&#34;Banner 3&#34;&#62;
+			&#60;div class=&#34;carousel-caption&#34;&#62;&#60;p&#62;Option caption text goes here&#60;/p&#62;&#60;/div&#62;
+		&#60;/div&#62;
+	&#60;/div&#62;
+	&#60;a class=&#34;left carousel-control&#34; href=&#34;#carousel-example-generic&#34; role=&#34;button&#34; data-slide=&#34;prev&#34;&#62;
+		&#60;span class=&#34;icon-prev&#34; aria-hidden=&#34;true&#34;&#62;&#60;/span&#62;
+		&#60;span class=&#34;sr-only&#34;&#62;Previous&#60;/span&#62;
+	&#60;/a&#62;
+	&#60;a class=&#34;right carousel-control&#34; href=&#34;#carousel-example-generic&#34; role=&#34;button&#34; data-slide=&#34;next&#34;&#62;
+		&#60;span class=&#34;icon-next&#34; aria-hidden=&#34;true&#34;&#62;&#60;/span&#62;
+		&#60;span class=&#34;sr-only&#34;&#62;Next&#60;/span&#62;
+	&#60;/a&#62;
+&#60;/div&#62;
+
+&#60;script src=&#34;https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js&#34;&#62;&#60;/script&#62;
+&#60;script type=&#34;text/javascript&#34; src=&#34;%pathto(bootstrap/js/bootstrap.min.js)%&#34;&#62;&#60;/script&#62;
+&#60;script type=&#34;text/javascript&#34;&#62;
+$(document).ready(function() {
+	$(&#39;.carousel&#39;).carousel({
+		interval: 5000,
+		pause: &#34;hover&#34;
+	})
+});
+&#60;/script&#62;</content>
+</snippet>

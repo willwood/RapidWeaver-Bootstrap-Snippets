@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet xmlns="http://www.realmacsoftware.com/2007/Snippet/">
+	<title>Bootstrap 4 - Nav Pills</title>
+	<content type="html">&#60;h3&#62;Nav Pills&#60;/h3&#62;
+
+&#60;ul class=&#34;nav nav-pills&#34;&#62;
+	&#60;li class=&#34;nav-item&#34;&#62;
+		&#60;a class=&#34;nav-link active&#34; href=&#34;#&#34;&#62;Active&#60;/a&#62;
+	&#60;/li&#62;
+	&#60;li class=&#34;nav-item&#34;&#62;
+		&#60;a class=&#34;nav-link&#34; href=&#34;#&#34;&#62;Link&#60;/a&#62;
+	&#60;/li&#62;
+	&#60;li class=&#34;nav-item&#34;&#62;
+		&#60;a class=&#34;nav-link&#34; href=&#34;#&#34;&#62;Another link&#60;/a&#62;
+	&#60;/li&#62;
+	&#60;li class=&#34;nav-item&#34;&#62;
+		&#60;a class=&#34;nav-link disabled&#34; href=&#34;#&#34;&#62;Disabled&#60;/a&#62;
+	&#60;/li&#62;
+&#60;/ul&#62;
+&#60;br&#62;
+
+&#60;hr&#62;
+&#60;h3&#62;Stacked Nav Pills&#60;/h3&#62;
+&#60;ul class=&#34;nav nav-pills nav-stacked&#34;&#62;
+	&#60;li class=&#34;nav-item&#34;&#62;
+		&#60;a class=&#34;nav-link active&#34; href=&#34;#&#34;&#62;Active&#60;/a&#62;
+	&#60;/li&#62;
+	&#60;li class=&#34;nav-item&#34;&#62;
+		&#60;a class=&#34;nav-link&#34; href=&#34;#&#34;&#62;Link&#60;/a&#62;
+	&#60;/li&#62;
+	&#60;li class=&#34;nav-item&#34;&#62;
+		&#60;a class=&#34;nav-link&#34; href=&#34;#&#34;&#62;Another link&#60;/a&#62;
+	&#60;/li&#62;
+	&#60;li class=&#34;nav-item&#34;&#62;
+		&#60;a class=&#34;nav-link disabled&#34; href=&#34;#&#34;&#62;Disabled&#60;/a&#62;
+	&#60;/li&#62;
+&#60;/ul&#62;</content>
+</snippet>

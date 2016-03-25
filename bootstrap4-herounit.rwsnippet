@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet xmlns="http://www.realmacsoftware.com/2007/Snippet/">
+	<title>Bootstrap 4 - Jumbotron</title>
+	<content type="html">&#60;h3&#62;Hero unit&#60;/h3&#62;
+&#60;p&#62;Perfect to display a big block of content on a page.&#60;/p&#62;
+&#60;div class=&#34;hero-unit jumbotron&#34;&#62;
+&#60;h1&#62;Hello World!&#60;/h1&#62;
+&#60;p&#62;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus et erat ut lectus fermentum tincidunt. Donec sed leo risus. Sed ut eros mi, a pellentesque purus. Donec leo elit, facilisis euismod accumsan in, mollis vel massa. Donec at turpis massa, nec tincidunt erat. In venenatis dolor sem. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam euismod egestas facilisis. Aenean vestibulum sapien nec libero imperdiet semper. In risus nulla, eleifend at pharetra sodales, consectetur non justo. Phasellus faucibus, leo eget blandit semper, augue felis ullamcorper lectus, vel luctus urna quam quis nunc. Nullam vel nibh sit amet felis tincidunt convallis eu nec purus. Sed tempor velit ut nulla pretium sodales. Quisque dapibus massa non velit elementum quis aliquam nibh pharetra. In arcu mauris, bibendum eget laoreet at, congue vitae tortor.&#60;/p&#62;
+&#60;p&#62;
+&#60;a class=&#34;btn btn-primary btn-large&#34;&#62;Learn more&#60;/a&#62;
+&#60;/p&#62;
+&#60;/div&#62;</content>
+</snippet>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet xmlns="http://www.realmacsoftware.com/2007/Snippet/">
+	<title>Bootstrap 4 - Scroll-Spy</title>
+	<content type="html">&#60;h3&#62;Scroll-Spy&#60;/h3&#62;
+&#60;p&#62;For use in RapidWeaver themes like Solstice, which are advertised as having support for singular-page navigation. Links in #smoothScrollerNav should link to named page anchors.&#60;/p&#62;
+
+&#60;!-- Code for the anchor links displayed at the top of the page --&#62;
+&#60;div id=&#34;myExtraContent2&#34;&#62;
+	&#60;div id=&#34;smoothScrollerNav&#34; class=&#34;nav&#34;&#62;
+		&#60;ul&#62;
+			&#60;li&#62;&#60;a href=&#34;#introduction&#34;&#62;&#60;i class=&#34;fa fa-home&#34;&#62;&#60;/i&#62;Introduction&#60;/a&#62;&#60;/li&#62;
+			&#60;li&#62;&#60;a href=&#34;#aboutus&#34;&#62;&#60;i class=&#34;fa fa-comment&#34;&#62;&#60;/i&#62;About Us&#60;/a&#62;&#60;/li&#62;
+			&#60;li&#62;&#60;a href=&#34;#projects&#34;&#62;&#60;i class=&#34;fa fa-camera&#34;&#62;&#60;/i&#62;Projects&#60;/a&#62;&#60;/li&#62;
+			&#60;li&#62;&#60;a href=&#34;#sustainability&#34;&#62;&#60;i class=&#34;fa fa-leaf&#34;&#62;&#60;/i&#62;Sustainability&#60;/a&#62;&#60;/li&#62;
+			&#60;li&#62;&#60;a href=&#34;#contactus&#34;&#62;&#60;i class=&#34;fa fa-envelope&#34;&#62;&#60;/i&#62;Contact Us&#60;/a&#62;&#60;/li&#62;
+		&#60;/ul&#62;
+	&#60;/div&#62;&#60;!--/smoothScrollerNav--&#62;
+&#60;/div&#62;
+
+&#60;!-- Bootstrap Javascript code required for the smooth scroller scrollspy --&#62;
+&#60;script src=&#34;https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js&#34;&#62;&#60;/script&#62;
+&#60;script type=&#34;text/javascript&#34; src=&#34;%pathto(bootstrap/js/bootstrap.min.js)%&#34;&#62;&#60;/script&#62;
+&#60;script type=&#34;text/javascript&#34;&#62;
+!function ($) {
+	$(function(){
+		var $window = $(window)
+		var $body   = $(document.body)
+		var navHeight = $(&#39;#headerWrapper&#39;).outerHeight(true) + 10
+		$body.scrollspy({
+			target: &#39;#myExtraContent2&#39;,
+			offset: navHeight
+		})
+		$window.on(&#39;load&#39;, function () {
+			$body.scrollspy(&#39;refresh&#39;)
+		})
+	})
+}(window.jQuery)
+&#60;/script&#62;</content>
+</snippet>

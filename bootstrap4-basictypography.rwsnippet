@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet xmlns="http://www.realmacsoftware.com/2007/Snippet/">
+	<title>Bootstrap 4 - Basic Typography</title>
+	<content type="html">&#60;h3&#62;Headings&#60;/h3&#62;
+&#60;p&#62;All HTML headings, &#60;code&#62;&#38;lt;h1&#38;gt;&#60;/code&#62; through &#60;code&#62;&#38;lt;h6&#38;gt;&#60;/code&#62; are available.&#60;/p&#62;
+&#60;h1&#62;An H1 level heading&#60;/h1&#62;
+&#60;h2&#62;An H2 level heading&#60;/h2&#62;
+&#60;h3&#62;An H3 level heading&#60;/h3&#62;
+&#60;h4&#62;An H4 level heading&#60;/h4&#62;
+&#60;h5&#62;An H5 level heading&#60;/h5&#62;
+&#60;h6&#62;An H6 level heading&#60;/h6&#62;
+&#60;br&#62;
+
+&#60;hr&#62;
+&#60;h3&#62;Display Headings&#60;/h3&#62;
+&#60;p&#62;Traditional heading elements are designed to work best in the meat of your page content. When you need a heading to stand out, consider using a display heading—a larger, slightly more opinionated heading style.&#60;/p&#62;
+&#60;h1 class=&#34;display-1&#34;&#62;Display 1&#60;/h1&#62;
+&#60;h1 class=&#34;display-2&#34;&#62;Display 2&#60;/h1&#62;
+&#60;h1 class=&#34;display-3&#34;&#62;Display 3&#60;/h1&#62;
+&#60;h1 class=&#34;display-4&#34;&#62;Display 4&#60;/h1&#62;
+&#60;br&#62;
+
+&#60;hr&#62;
+&#60;h3&#62;Heading and muted text&#60;/h3&#62;
+&#60;h3&#62;Fancy display heading &#60;small class=&#34;text-muted&#34;&#62;With faded secondary text&#60;/small&#62;&#60;/h3&#62;
+&#60;br&#62;
+
+&#60;hr /&#62;
+&#60;h3&#62;Lead body copy&#60;/h3&#62;
+&#60;p&#62;Make a paragraph stand out by adding &#60;code&#62;.lead&#60;/code&#62; to the paragraph tags.&#60;/p&#62;
+&#60;p class=&#34;lead&#34;&#62;Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus.&#60;/p&#62;
+&#60;br&#62;
+
+&#60;hr /&#62;
+&#60;h3&#62;Small text&#60;/h3&#62;
+&#60;p&#62;For de-emphasizing inline or blocks of text, use the &#60;code&#62;&#38;lt;small&#38;gt;&#60;/code&#62; tag to set text at 85% the size of the parent. Heading elements receive their own &#60;code&#62;font-size&#60;/code&#62; for nested &#60;code&#62;&#38;lt;small&#38;gt;&#60;/code&#62; elements.&#60;/p&#62;
+&#60;small&#62;This line of text is meant to be treated as fine print.&#60;/small&#62;
+&#60;br&#62;
+
+&#60;hr /&#62;
+&#60;h3&#62;Inline text elements&#60;/h3&#62;
+&#60;p&#62;Styling for common inline HTML5 elements.&#60;/p&#62;
+&#60;p&#62;You can use the mark tag to &#60;mark&#62;highlight&#60;/mark&#62; text.&#60;/p&#62;
+&#60;p&#62;&#60;del&#62;This line of text is meant to be treated as deleted text.&#60;/del&#62;&#60;/p&#62;
+&#60;p&#62;&#60;s&#62;This line of text is meant to be treated as no longer accurate.&#60;/s&#62;&#60;/p&#62;
+&#60;p&#62;&#60;ins&#62;This line of text is meant to be treated as an addition to the document.&#60;/ins&#62;&#60;/p&#62;
+&#60;p&#62;&#60;u&#62;This line of text will render as underlined&#60;/u&#62;&#60;/p&#62;
+&#60;p&#62;&#60;small&#62;This line of text is meant to be treated as fine print.&#60;/small&#62;&#60;/p&#62;
+&#60;p&#62;&#60;strong&#62;This line rendered as bold text.&#60;/strong&#62;&#60;/p&#62;
+&#60;p&#62;&#60;em&#62;This line rendered as italicized text.&#60;/em&#62;&#60;/p&#62;
+&#60;br&#62;
+
+&#60;hr /&#62;
+&#60;h3&#62;Abbreviations&#60;/h3&#62;
+&#60;p&#62;Stylized implementation of HTML’s &#60;abbr&#62; element for abbreviations and acronyms to show the expanded version on hover. Abbreviations with a title attribute have a light dotted bottom border and a help cursor on hover, providing additional context on hover and to users of assistive technologies.&#60;/p&#62;
+&#60;p&#62;&#60;abbr title=&#34;HyperText Markup Language&#34;&#62;HTML&#60;/abbr&#62;&#60;/p&#62;
+&#60;br&#62;
+
+&#60;hr /&#62;
+&#60;h3&#62;Blockquotes&#60;/h3&#62;
+&#60;p&#62;For quoting blocks of content from another source within your document. The footer (citation source) is optional and can be deleted if unrequired.&#60;/p&#62;
+&#60;blockquote class=&#34;blockquote&#34;&#62;
+	&#60;p class=&#34;m-b-0&#34;&#62;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.&#60;/p&#62;
+	&#60;footer class=&#34;blockquote-footer&#34;&#62;Someone famous in &#60;cite title=&#34;Source Title&#34;&#62;Source Title&#60;/cite&#62;&#60;/footer&#62;
+&#60;/blockquote&#62;
+&#60;br&#62;
+
+&#60;hr /&#62;
+&#60;h3&#62;Definition list&#60;/h3&#62;
+&#60;p&#62;Align terms and descriptions horizontally by using our grid system&#39;s predefined classes.&#60;/p&#62;
+&#60;div class=&#34;col-sm-12&#34;&#62;
+&#60;dl class=&#34;dl-horizontal&#34;&#62;
+	&#60;dt class=&#34;col-sm-3&#34;&#62;Description lists&#60;/dt&#62;
+	&#60;dd class=&#34;col-sm-9&#34;&#62;A description list is perfect for defining terms. This is where you enter your own content. The defineition list is fully responsive and works with all major web browsers.&#60;/dd&#62;
+
+	&#60;dt class=&#34;col-sm-3&#34;&#62;Euismod&#60;/dt&#62;
+	&#60;dd class=&#34;col-sm-9&#34;&#62;Vestibulum id ligula porta felis euismod semper eget lacinia odio sem nec elit. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.&#60;/dd&#62;
+
+	&#60;dt class=&#34;col-sm-3&#34;&#62;Malesuada porta&#60;/dt&#62;
+	&#60;dd class=&#34;col-sm-9&#34;&#62;Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.&#60;/dd&#62;
+
+	&#60;dt class=&#34;col-sm-3 text-truncate&#34;&#62;Truncated term is truncated&#60;/dt&#62;
+	&#60;dd class=&#34;col-sm-9&#34;&#62;Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.&#60;/dd&#62;
+&#60;/dl&#62;
+&#60;/div&#62;
+&#60;br&#62;
+
+&#60;hr /&#62;
+&#60;h3&#62;Emphasis classes&#60;/h3&#62;
+&#60;p&#62;Convey meaning through color with a handful of emphasis utility classes.&#60;p&#62;
+&#60;p class=&#34;text-muted&#34;&#62;Fusce dapibus, tellus ac cursus commodo, tortor mauris nibh.&#60;/p&#62;
+&#60;p class=&#34;text-primary&#34;&#62;Nullam id dolor id nibh ultricies vehicula ut id elit.&#60;/p&#62;
+&#60;p class=&#34;text-success&#34;&#62;Duis mollis, est non commodo luctus, nisi erat porttitor ligula.&#60;/p&#62;
+&#60;p class=&#34;text-info&#34;&#62;Maecenas sed diam eget risus varius blandit sit amet non magna.&#60;/p&#62;
+&#60;p class=&#34;text-warning&#34;&#62;Etiam porta sem malesuada magna mollis euismod.&#60;/p&#62;
+&#60;p class=&#34;text-danger&#34;&#62;Donec ullamcorper nulla non metus auctor fringilla.&#60;/p&#62;</content>
+</snippet>
