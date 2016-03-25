@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<snippet xmlns="http://www.realmacsoftware.com/2007/Snippet/">
-	<title>FreeStyle Banner</title>
-	<content type="html">&#60;!-- Place this code snippet in any HTML or styled text region within RapidWeaver. It can go in a content or sidebar section. If putting the code snippet in a styled text region, it is advisable to highlight the code and select &#39;Ignore Formatting&#39; from the RapidWeaver &#39;Format&#39; menu (this action will clear away surplus line breaks). Place content you want shown in the FreeStyle banner between the opening &#60;div id=&#39;fs&#39;&#62; and closing &#60;/div&#62; HTML tags. See the theme user guide for more details and some examples of possible content. FreeStyle banners provide and extremely flexible, durable and reliable method to safely embed different content types within banner regions in supported RapidWeaver themes. FreeStyle banners are search engine optimised and engineered to help pages load faster. --&#62;
-
-&#60;div id=&#39;fs&#39;&#62;
-	&#60;!--Your FreeStyle banner content goes here --&#62;
-&#60;/div&#62;</content>
-</snippet>
