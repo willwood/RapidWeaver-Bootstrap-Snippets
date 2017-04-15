@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<snippet xmlns="http://www.realmacsoftware.com/2007/Snippet/">
+	<title>Bootstrap 4 - Collapse</title>
+	<content type="html">&#60;h3&#62;Collapse &#60;/h3&#62;
+&#60;p&#62;The Bootstrap collapse plugin allows you to toggle content on your pages with a few classes thanks to some helpful JavaScript.&#60;/p&#62;
+
+&#60;div id=&#34;accordion&#34; role=&#34;tablist&#34; aria-multiselectable=&#34;true&#34;&#62;
+	&#60;div class=&#34;card&#34;&#62;
+		&#60;div class=&#34;card-header&#34; role=&#34;tab&#34; id=&#34;headingOne&#34;&#62;
+			&#60;h5 class=&#34;mb-0&#34;&#62;
+				&#60;a data-toggle=&#34;collapse&#34; data-parent=&#34;#accordion&#34; href=&#34;#collapseOne&#34; aria-expanded=&#34;true&#34; aria-controls=&#34;collapseOne&#34;&#62;
+          Collapsible Group Item #1
+				&#60;/a&#62;
+			&#60;/h5&#62;
+		&#60;/div&#62;
+		&#60;div id=&#34;collapseOne&#34; class=&#34;collapse show&#34; role=&#34;tabpanel&#34; aria-labelledby=&#34;headingOne&#34;&#62;
+			&#60;div class=&#34;card-block&#34;&#62;
+				Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven&#39;t heard of them accusamus labore sustainable VHS.
+			&#60;/div&#62;
+		&#60;/div&#62;
+	&#60;/div&#62;
+	
+	&#60;div class=&#34;card&#34;&#62;
+		&#60;div class=&#34;card-header&#34; role=&#34;tab&#34; id=&#34;headingTwo&#34;&#62;
+			&#60;h5 class=&#34;mb-0&#34;&#62;
+				&#60;a class=&#34;collapsed&#34; data-toggle=&#34;collapse&#34; data-parent=&#34;#accordion&#34; href=&#34;#collapseTwo&#34; aria-expanded=&#34;false&#34; aria-controls=&#34;collapseTwo&#34;&#62;
+					Collapsible Group Item #2
+				&#60;/a&#62;
+			&#60;/h5&#62;
+    	&#60;/div&#62;
+		&#60;div id=&#34;collapseTwo&#34; class=&#34;collapse&#34; role=&#34;tabpanel&#34; aria-labelledby=&#34;headingTwo&#34;&#62;
+			&#60;div class=&#34;card-block&#34;&#62;
+				Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven&#39;t heard of them accusamus labore sustainable VHS.
+			&#60;/div&#62;
+		&#60;/div&#62;
+	&#60;/div&#62;
+
+	&#60;div class=&#34;card&#34;&#62;
+		&#60;div class=&#34;card-header&#34; role=&#34;tab&#34; id=&#34;headingThree&#34;&#62;
+			&#60;h5 class=&#34;mb-0&#34;&#62;
+				&#60;a class=&#34;collapsed&#34; data-toggle=&#34;collapse&#34; data-parent=&#34;#accordion&#34; href=&#34;#collapseThree&#34; aria-expanded=&#34;false&#34; aria-controls=&#34;collapseThree&#34;&#62;
+					Collapsible Group Item #3
+				&#60;/a&#62;
+			&#60;/h5&#62;
+		&#60;/div&#62;
+		&#60;div id=&#34;collapseThree&#34; class=&#34;collapse&#34; role=&#34;tabpanel&#34; aria-labelledby=&#34;headingThree&#34;&#62;
+			&#60;div class=&#34;card-block&#34;&#62;
+				Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven&#39;t heard of them accusamus labore sustainable VHS.
+			&#60;/div&#62;
+		&#60;/div&#62;
+	&#60;/div&#62;
+&#60;/div&#62;
+
+&#60;!-- This snippet requires jQuery and bootstrap.js --&#62;
+&#60;script src=&#34;https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js&#34;&#62;&#60;/script&#62;
+&#60;script type=&#34;text/javascript&#34; src=&#34;%pathto(bootstrap/js/bootstrap.min.js)%&#34;&#62;&#60;/script&#62;</content>
+</snippet>
