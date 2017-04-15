@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <snippet xmlns="http://www.realmacsoftware.com/2007/Snippet/">
-	<title>Bootstrap 4 - Carousel Image Slider</title>
+	<title>Bootstrap 4 - Carousel</title>
 	<content type="html">&#60;h3&#62;Image carousel&#60;/h3&#62;
 &#60;p&#62;Creates a basic sliding image carousel effect, ideal for within a page content region, an ExtraContent container or a theme header / banner.&#60;/p&#62;
-
-&#60;!-- This is the HTML code for your Carousel. Each slide sits inside a .carousel-item container. Replace existing images with links to your new images. Likewise you can edit or delete the captions to suit. Optionally you can add links for your images, using standard HTML code. Each time you add a new item, add a new carousel indicator. If using this code snippet in a styled text region within RapidWeaver, remember to highlight the code and set it to &#39;ignore&#39; formatting (in the RapidWeaver format menu) to remove line and paragraph breaks. Note how the first indicator list item and carousel item receive a class of &#39;active&#39;, to tell carousel to start on these. --&#62;
 
 &#60;div id=&#34;carousel-example-generic&#34; class=&#34;carousel slide&#34; data-ride=&#34;carousel&#34;&#62;
 	&#60;ol class=&#34;carousel-indicators&#34;&#62;
@@ -26,12 +24,12 @@
 			&#60;div class=&#34;carousel-caption&#34;&#62;&#60;p&#62;Option caption text goes here&#60;/p&#62;&#60;/div&#62;
 		&#60;/div&#62;
 	&#60;/div&#62;
-	&#60;a class=&#34;left carousel-control&#34; href=&#34;#carousel-example-generic&#34; role=&#34;button&#34; data-slide=&#34;prev&#34;&#62;
-		&#60;span class=&#34;icon-prev&#34; aria-hidden=&#34;true&#34;&#62;&#60;/span&#62;
+	&#60;a class=&#34;carousel-control-prev&#34; href=&#34;#carousel-example-generic&#34; role=&#34;button&#34; data-slide=&#34;prev&#34;&#62;
+		&#60;span class=&#34;carousel-control-prev-icon&#34; aria-hidden=&#34;true&#34;&#62;&#60;/span&#62;
 		&#60;span class=&#34;sr-only&#34;&#62;Previous&#60;/span&#62;
 	&#60;/a&#62;
-	&#60;a class=&#34;right carousel-control&#34; href=&#34;#carousel-example-generic&#34; role=&#34;button&#34; data-slide=&#34;next&#34;&#62;
-		&#60;span class=&#34;icon-next&#34; aria-hidden=&#34;true&#34;&#62;&#60;/span&#62;
+	&#60;a class=&#34;carousel-control-next&#34; href=&#34;#carousel-example-generic&#34; role=&#34;button&#34; data-slide=&#34;next&#34;&#62;
+		&#60;span class=&#34;carousel-control-next-icon&#34; aria-hidden=&#34;true&#34;&#62;&#60;/span&#62;
 		&#60;span class=&#34;sr-only&#34;&#62;Next&#60;/span&#62;
 	&#60;/a&#62;
 &#60;/div&#62;
